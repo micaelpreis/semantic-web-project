@@ -1,0 +1,453 @@
+30
+
+---------- 0 ----------
+Opinion
+
+Diversity Makes You Brighter
+And it doesn’t matter who ‘you’ are.
+http://www.nytimes.com/2015/12/09/opinion/diversity-makes-you-brighter.html
+SHEEN S. LEVINE and DAVID STARK
+2015-12-09T00:00:00-5:00
+--- des_facet --- 5
+Affirmative Action
+Colleges and Universities
+Race and Ethnicity
+Minorities
+Admissions Standards
+--- org_facet --- 2
+Supreme Court (US)
+University of Texas
+--- per_facet --- 0
+--- geo_facet --- 1
+Texas
+---------- 1 ----------
+Opinion
+
+An Opening for States to Restrict Guns
+On Monday, the Supreme Court refused to consider a challenge to a local gun regulation for the 70th time since 2008.
+http://www.nytimes.com/2015/12/09/opinion/an-opening-for-states-to-restrict-guns.html
+THE EDITORIAL BOARD
+2015-12-09T00:00:00-5:00
+--- des_facet --- 6
+Editorials
+States (US)
+Constitution (US)
+Law and Legislation
+Second Amendment (US Constitution)
+Gun Control
+--- org_facet --- 1
+Supreme Court (US)
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 2 ----------
+Opinion
+
+What to Tell Donald Trump
+The planet’s neediest billionaire is aiding our enemies by playing into their narrative.
+http://www.nytimes.com/2015/12/09/opinion/what-to-tell-donald-trump.html
+FRANK BRUNI
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Presidential Election of 2016
+United States Politics and Government
+Muslims and Islam
+--- org_facet --- 2
+Islamic State in Iraq and Syria (ISIS)
+Republican Party
+--- per_facet --- 1
+Trump, Donald J
+--- geo_facet --- 1
+United States
+---------- 3 ----------
+Opinion
+
+#You Ain’t No American, Bro
+Donald Trump is doing real damage to America’s ability to lead a coalition, the only vehicle that can effectively address ISIS.
+http://www.nytimes.com/2015/12/09/opinion/you-aint-no-american-bro.html
+THOMAS L. FRIEDMAN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+United States Defense and Military Forces
+Muslims and Islam
+United States International Relations
+--- org_facet --- 1
+Islamic State in Iraq and Syria (ISIS)
+--- per_facet --- 1
+Trump, Donald J
+--- geo_facet --- 1
+Middle East
+---------- 4 ----------
+Opinion
+Campaign Stops
+Hillary Clinton’s Toughness
+Voters see her as a strong leader, but they think her party is weak on terrorism. Which will matter more to the presidential election?
+http://www.nytimes.com/2015/12/09/opinion/campaign-stops/hillary-clintons-toughness.html
+THOMAS B. EDSALL
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Presidential Election of 2016
+Terrorism
+--- org_facet --- 1
+Democratic Party
+--- per_facet --- 5
+Bush, Jeb
+Clinton, Hillary Rodham
+Cruz, Ted
+Hart, Peter D
+Trump, Donald J
+--- geo_facet --- 0
+---------- 5 ----------
+Opinion
+
+You Asked, Bernie Sanders Answered
+During a visit to the editorial board, the senator took a moment to answer a question on camera from a Times reader.
+http://takingnote.blogs.nytimes.com/2015/12/09/you-asked-bernie-sanders-answered/
+THE EDITORS
+2015-12-09T09:00:06-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 6 ----------
+Opinion
+
+No Reason to Exclude Transgender Medical Care
+Despite important policy changes, transgender people continue to face barriers to affordable, critical medical care.
+http://www.nytimes.com/2015/12/09/opinion/no-reason-to-exclude-transgender-medical-care.html
+THE EDITORIAL BOARD
+2015-12-09T00:00:00-5:00
+--- des_facet --- 5
+Editorials
+Health Insurance and Managed Care
+Doctors
+Medicine and Health
+Transgender and Transsexuals
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 7 ----------
+Opinion
+
+Trump’s Anti-Muslim Plan Is Awful. And Constitutional.
+The Supreme Court would have to approve his proposal to bar Muslim immigrants. But that doesn’t mean Americans should accept it.
+http://www.nytimes.com/2015/12/10/opinion/trumps-anti-muslim-plan-is-awful-and-constitutional.html
+PETER J. SPIRO
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Constitution (US)
+Immigration and Emigration
+Law and Legislation
+Presidential Election of 2016
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+United States
+---------- 8 ----------
+Opinion
+
+The Muslim Drill
+Donald Trump wants to bar Muslims. Or did he say muslin? Sometimes hate demands gallows humor.
+http://www.nytimes.com/2015/12/09/opinion/the-muslim-drill.html
+WAJAHAT ALI
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Muslim Americans
+Discrimination
+Terrorism
+San Bernardino, Calif, Shooting (2015)
+--- org_facet --- 0
+--- per_facet --- 1
+Trump, Donald J
+--- geo_facet --- 0
+---------- 9 ----------
+Opinion
+
+Venezuela’s Opposition Shouldn’t Celebrate Yet
+President Maduro’s party may have lost the legislative elections, but beware of the tricks up his sleeves.
+http://www.nytimes.com/2015/12/09/opinion/venezuelas-opposition-shouldnt-celebrate-yet.html
+RAÚL STOLK
+2015-12-09T00:00:00-5:00
+--- des_facet --- 0
+--- org_facet --- 1
+United Socialist Party (Venezuela)
+--- per_facet --- 1
+Maduro, Nicolas
+--- geo_facet --- 1
+Venezuela
+---------- 10 ----------
+Opinion
+
+‘Animated Life: Mary Leakey’
+This short documentary remembers the paleoanthropologist Mary Leakey, who discovered footprints of human ancestors on the African savanna.
+http://www.nytimes.com/2015/12/08/opinion/animated-life-mary-leakey.html
+FLORA LICHTMAN and SHARON SHATTUCK
+2015-12-08T00:00:00-5:00
+--- des_facet --- 2
+Paleontology
+Archaeology and Anthropology
+--- org_facet --- 0
+--- per_facet --- 1
+Leakey, Mary
+--- geo_facet --- 0
+---------- 11 ----------
+Opinion
+
+Donald Trump's America
+How can a man of such extreme views be the leading G.O.P. candidate? What does his popularity say about America?
+http://www.nytimes.com/roomfordebate/2015/12/09/donald-trumps-america
+
+2015-12-09T10:13:38-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 12 ----------
+Opinion
+
+Yemeni Intellectuals, on Peace Talks
+Yemeni intellectuals discuss terms for the coming talks in Switzerland.
+http://www.nytimes.com/2015/12/10/opinion/yemeni-intellectuals-on-peace-talks.html
+
+2015-12-10T00:00:00-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Yemen
+---------- 13 ----------
+Opinion
+
+Rep. Lamar Smith Questions Agency’s Revised Climate Data
+Mr. Smith charges that the National Oceanic and Atmospheric Administration has “altered temperature data to try to refute an 18-year plateau in global temperatures.”
+http://www.nytimes.com/2015/12/10/opinion/rep-lamar-smith-questions-agencys-revised-climate-data.html
+
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Global Warming
+--- org_facet --- 1
+National Oceanic and Atmospheric Administration
+--- per_facet --- 1
+Smith, Lamar S
+--- geo_facet --- 0
+---------- 14 ----------
+Opinion
+
+Ted Cruz’s Disturbing Views on Climate Change (and Other Things)
+Ted Cruz says liberals push climate change as a way to control people’s lives. But in so many ways, Republicans are the controlling ones.
+http://takingnote.blogs.nytimes.com/2015/12/09/ted-cruzs-disturbing-views-on-climate-change-and-other-things/
+ANDREW ROSENTHAL
+2015-12-09T12:48:57-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 15 ----------
+Opinion
+
+Donald Trump’s Call to Keep Muslims Out
+Readers decry what one called “the latest in a litany of scapegoating, dehumanizing and demonizing rhetoric in the presidential campaign.”
+http://www.nytimes.com/2015/12/09/opinion/donald-trumps-call-to-keep-muslims-out.html
+
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Presidential Election of 2016
+Muslims and Islam
+--- org_facet --- 0
+--- per_facet --- 1
+Trump, Donald J
+--- geo_facet --- 0
+---------- 16 ----------
+Opinion
+
+From Doctors and Lawyers: A Plea for Action on Guns
+The American College of Physicians and the American Bar Association respond to The Times’s front-page editorial.
+http://www.nytimes.com/2015/12/09/opinion/from-doctors-and-lawyers-a-call-to-action-on-guns.html
+
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Gun Control
+Medicine and Health
+--- org_facet --- 2
+American Bar Assn
+American College of Physicians
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 17 ----------
+Opinion
+
+Drop in Diabetes Cases: Encouraging, but Not Enough
+The American Diabetes Association and UnitedHealth Group discuss aspects of the trend.
+http://www.nytimes.com/2015/12/09/opinion/drop-in-diabetes-cases-encouraging-but-not-enough.html
+
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Diabetes
+--- org_facet --- 1
+American Diabetes Assn
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 18 ----------
+Opinion
+
+On Corrupt Politicians
+A reader writes that there are just two categories for public officials.
+http://www.nytimes.com/2015/12/09/opinion/on-corrupt-politicians.html
+
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Corruption (Institutional)
+Lobbying and Lobbyists
+--- org_facet --- 0
+--- per_facet --- 1
+Silver, Sheldon
+--- geo_facet --- 0
+---------- 19 ----------
+Opinion
+
+What China Can Learn From Greece
+A turbulent year revives the debate over whether democracy delivers prosperity.
+http://www.nytimes.com/2015/12/09/opinion/what-china-can-learn-from-greece.html
+SERGEI GURIEV
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Economic Conditions and Trends
+Democracy (Theory and Philosophy)
+European Sovereign Debt Crisis (2010- )
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 20 ----------
+Opinion
+
+What Defines a Modern Warrior?
+Instead of trying to lift up societies, we’ve narrowed our sights to the hunting and killing of enemies.
+http://www.nytimes.com/2015/12/09/opinion/what-defines-a-modern-warrior.html
+PHIL KLAY
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Iraq War (2003-11)
+Defense and Military Forces
+Refugees and Displaced Persons
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 21 ----------
+Opinion
+
+Democracy in Burkina Faso
+The small country plays an outsized role in counterterrorism efforts in the region.
+http://www.nytimes.com/2015/12/10/opinion/democracy-in-burkina-faso.html
+THE EDITORIAL BOARD
+2015-12-10T11:30:00-5:00
+--- des_facet --- 1
+
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 22 ----------
+Opinion
+
+Angela Merkel’s War for Europe
+Why is Germany intervening in Syria? To save the European Union.
+http://www.nytimes.com/2015/12/10/opinion/angela-merkels-war-for-europe.html
+JOCHEN BITTNER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Middle East and Africa Migrant Crisis
+--- org_facet --- 2
+European Union
+Islamic State in Iraq and Syria (ISIS)
+--- per_facet --- 1
+Merkel, Angela
+--- geo_facet --- 0
+---------- 23 ----------
+Opinion
+
+A Life Uprooted
+When you’re forced to gather your children and run, there’s no time for visas and passports.
+http://www.nytimes.com/2015/12/08/opinion/a-life-uprooted.html
+OKEY NDIBE
+2015-12-08T00:00:00-5:00
+--- des_facet --- 3
+Refugees and Displaced Persons
+Middle East and Africa Migrant Crisis
+Social Conditions and Trends
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 24 ----------
+Opinion
+
+Bret Easton Ellis on Living in the Cult of Likability
+In the reputation economy, the ratings go both ways.
+http://www.nytimes.com/2015/12/08/opinion/bret-easton-ellis-on-living-in-the-cult-of-likability.html
+BRET EASTON ELLIS
+2015-12-08T00:00:00-5:00
+--- des_facet --- 3
+Consumer Reviews
+Computers and the Internet
+Social Conditions and Trends
+--- org_facet --- 1
+Yelp
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 25 ----------
+Opinion
+
+What Do Campus Protesters Really Want?
+If you want to know what students protesters at universities want, you have to actually read what they write.
+http://kristof.blogs.nytimes.com/2015/12/09/what-do-campus-protesters-really-want/
+EMMA PIERSON and LEAH PIERSON
+2015-12-09T16:12:56-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 26 ----------
+Opinion
+
+The Banality of Trumpism
+Same as it ever was, except less disguised.
+http://krugman.blogs.nytimes.com/2015/12/09/the-banality-of-trumpism/
+PAUL KRUGMAN
+2015-12-09T14:47:13-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 27 ----------
+Opinion
+
+Pandering to Plutocrats
+Jeb! by the numbers.
+http://krugman.blogs.nytimes.com/2015/12/09/pandering-to-plutocrats/
+PAUL KRUGMAN
+2015-12-09T14:29:38-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 28 ----------
+Opinion
+
+Gun-Control Roll Call: Background Checks and the Terrorism Watch List
+To make clear which lawmakers are blocking efforts to stop gun violence, we’ll be publishing the roll calls of votes on gun-control legislation.
+http://takingnote.blogs.nytimes.com/2015/12/09/gun-control-roll-call-background-checks-and-the-terrorist-watch-list/
+THE EDITORS
+2015-12-09T11:43:41-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 29 ----------
+Opinion
+
+Imagine a Medicare ‘Part Q’ for Quality at the End of Life
+I would promise to skip expensive, risky interventions in exchange for better daily care.
+http://opinionator.blogs.nytimes.com/2015/12/09/imagine-a-medicare-part-q-for-quality-at-the-end-of-life/
+KATY BUTLER
+2015-12-09T03:45:12-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0

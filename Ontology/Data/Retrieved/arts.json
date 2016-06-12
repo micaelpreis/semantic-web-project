@@ -1,0 +1,2199 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2015 The New York Times Company. All Rights Reserved.",
+  "section": "arts",
+  "last_updated": "2015-12-12T10:40:09-05:00",
+  "num_results": 30,
+  "results": [
+    {
+      "section": "Arts",
+      "subsection": "",
+      "title": "Best Performances of 2015",
+      "abstract": "From Annie Lennox to Roberta Vinci to Tracee Ellis Ross, performances that amazed this year and will linger into 2016.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/arts\/best-performances-of-2015.html",
+      "byline": "By WESLEY MORRIS",
+      "item_type": "Article",
+      "updated_date": "2015-12-09T18:32:37-5:00",
+      "created_date": "2015-12-09T18:32:39-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Black-ish (TV Program)",
+        "Clouds of Sils Maria (Movie)",
+        "Getting On (TV Program)",
+        "Magic Mike XXL (Movie)",
+        "The Knick (TV Program)"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Banks, Elizabeth",
+        "D'Angelo (Singer)",
+        "Drake (Rapper)",
+        "Ross, Tracee Ellis",
+        "Vinci, Roberta"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13BESTWESLEY\/13BESTWESLEY-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From top left: Tituss Burgess in \u201cUnbreakable Kimmy Schmidt\u201d;\u00a0Roberta Vinci after defeating Serena Williams; Drake; a scene from\u00a0\u201cMagic Mike XXL.\u201d",
+          "copyright": "From top left: Eric Liebowitz\/Netflix; Clive Brunskill\/Getty Images; J. Adam Huggins for The New York Times; Claudette Barius\/Warner Brothers Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13BESTWESLEY\/13BESTWESLEY-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From top left: Tituss Burgess in \u201cUnbreakable Kimmy Schmidt\u201d;\u00a0Roberta Vinci after defeating Serena Williams; Drake; a scene from\u00a0\u201cMagic Mike XXL.\u201d",
+          "copyright": "From top left: Eric Liebowitz\/Netflix; Clive Brunskill\/Getty Images; J. Adam Huggins for The New York Times; Claudette Barius\/Warner Brothers Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13BESTWESLEY\/13BESTWESLEY-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From top left: Tituss Burgess in \u201cUnbreakable Kimmy Schmidt\u201d;\u00a0Roberta Vinci after defeating Serena Williams; Drake; a scene from\u00a0\u201cMagic Mike XXL.\u201d",
+          "copyright": "From top left: Eric Liebowitz\/Netflix; Clive Brunskill\/Getty Images; J. Adam Huggins for The New York Times; Claudette Barius\/Warner Brothers Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13BESTWESLEY\/13BESTWESLEY-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From top left: Tituss Burgess in \u201cUnbreakable Kimmy Schmidt\u201d;\u00a0Roberta Vinci after defeating Serena Williams; Drake; a scene from\u00a0\u201cMagic Mike XXL.\u201d",
+          "copyright": "From top left: Eric Liebowitz\/Netflix; Clive Brunskill\/Getty Images; J. Adam Huggins for The New York Times; Claudette Barius\/Warner Brothers Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13BESTWESLEY\/13BESTWESLEY-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From top left: Tituss Burgess in \u201cUnbreakable Kimmy Schmidt\u201d;\u00a0Roberta Vinci after defeating Serena Williams; Drake; a scene from\u00a0\u201cMagic Mike XXL.\u201d",
+          "copyright": "From top left: Eric Liebowitz\/Netflix; Clive Brunskill\/Getty Images; J. Adam Huggins for The New York Times; Claudette Barius\/Warner Brothers Pictures"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Television",
+      "title": "The Best TV Shows of 2015",
+      "abstract": "This year brought more original shows than ever before. But which ones cut through the clutter to become the best of 2015?",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/arts\/television\/best-tv-shows-2015.html",
+      "byline": "By JAMES PONIEWOZIK, MIKE HALE and NEIL GENZLINGER",
+      "item_type": "Article",
+      "updated_date": "2015-12-07T15:03:54-5:00",
+      "created_date": "2015-12-07T15:03:56-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "List",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Black-ish (TV Program)",
+        "Broad City (TV Program)",
+        "Cancer: The Emperor of All Maladies (TV Program)",
+        "Dawn of Humanity (TV Program)",
+        "Halt and Catch Fire (TV Program)",
+        "Justified (Movie)",
+        "Looks Like Laury, Sounds Like Laury (TV Program)",
+        "Louie (Movie)",
+        "Master of None (TV Program)",
+        "Moone Boy (TV Program)",
+        "Of Miracles and Men (TV Program)",
+        "Penny Dreadful (Movie)",
+        "Rectify (TV Program)",
+        "Review (TV Program)",
+        "The Americans (Book)",
+        "The Jinx: The Life and Deaths of Robert Durst (TV Program)",
+        "The Knick (TV Program)",
+        "The Leftovers (Movie)",
+        "Transparent (Movie)",
+        "Unbreakable Kimmy Schmidt (TV Program)"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/television\/13BESTTV\/13BESTTV-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Jeffrey Tambor in \u201cTransparent\u201d; Robert A. Durst in \u201cThe Jinx\u201d; Keri Russell in \u201cThe Americans\u201d; Aziz Ansari in \u201cMaster of None\u201d; Tracee Ellis Ross in \u201cblack-ish\u201d; and Louis C. K. in \u201cLouie.\u201d",
+          "copyright": "Amazon; HBO; Patrick Harbon\/FX; KC Bailey\/Netflix; Kelsey McNeal\/ABC; KC Bailey\/FX"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/television\/13BESTTV\/13BESTTV-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Jeffrey Tambor in \u201cTransparent\u201d; Robert A. Durst in \u201cThe Jinx\u201d; Keri Russell in \u201cThe Americans\u201d; Aziz Ansari in \u201cMaster of None\u201d; Tracee Ellis Ross in \u201cblack-ish\u201d; and Louis C. K. in \u201cLouie.\u201d",
+          "copyright": "Amazon; HBO; Patrick Harbon\/FX; KC Bailey\/Netflix; Kelsey McNeal\/ABC; KC Bailey\/FX"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/television\/13BESTTV\/13BESTTV-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Jeffrey Tambor in \u201cTransparent\u201d; Robert A. Durst in \u201cThe Jinx\u201d; Keri Russell in \u201cThe Americans\u201d; Aziz Ansari in \u201cMaster of None\u201d; Tracee Ellis Ross in \u201cblack-ish\u201d; and Louis C. K. in \u201cLouie.\u201d",
+          "copyright": "Amazon; HBO; Patrick Harbon\/FX; KC Bailey\/Netflix; Kelsey McNeal\/ABC; KC Bailey\/FX"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/television\/13BESTTV\/13BESTTV-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Jeffrey Tambor in \u201cTransparent\u201d; Robert A. Durst in \u201cThe Jinx\u201d; Keri Russell in \u201cThe Americans\u201d; Aziz Ansari in \u201cMaster of None\u201d; Tracee Ellis Ross in \u201cblack-ish\u201d; and Louis C. K. in \u201cLouie.\u201d",
+          "copyright": "Amazon; HBO; Patrick Harbon\/FX; KC Bailey\/Netflix; Kelsey McNeal\/ABC; KC Bailey\/FX"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/television\/13BESTTV\/13BESTTV-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Jeffrey Tambor in \u201cTransparent\u201d; Robert A. Durst in \u201cThe Jinx\u201d; Keri Russell in \u201cThe Americans\u201d; Aziz Ansari in \u201cMaster of None\u201d; Tracee Ellis Ross in \u201cblack-ish\u201d; and Louis C. K. in \u201cLouie.\u201d",
+          "copyright": "Amazon; HBO; Patrick Harbon\/FX; KC Bailey\/Netflix; Kelsey McNeal\/ABC; KC Bailey\/FX"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Music",
+      "title": "The Best Albums of 2015",
+      "abstract": "This year offered winning releases from familiar faces, global flavor and meditations on nature.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/arts\/music\/best-albums-of-2015.html",
+      "byline": "By JON PARELES, BEN RATLIFF and NATE CHINEN",
+      "item_type": "Article",
+      "updated_date": "2015-12-09T13:52:11-5:00",
+      "created_date": "2015-12-09T13:52:13-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "List",
+      "kicker": "",
+      "des_facet": [
+        "Music",
+        "Rap and Hip-Hop",
+        "Jazz"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/music\/13BESTPOP\/13BESTPOP-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Kendrick Lamar, Bj\u00f6rk, Brittany Howard of Alabama Shakes, Adele, Joanna Newsom and D'Angelo.",
+          "copyright": "Clockwise from top: Simon Laessoee\/Scanpix Denmark, via Reuters, Chad Batka for The New York Times,  Robert Altman for The New York Times, Sascha Steinbach\/Getty Images, Damon Winter\/The New York Times and Chad Batka for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/music\/13BESTPOP\/13BESTPOP-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Kendrick Lamar, Bj\u00f6rk, Brittany Howard of Alabama Shakes, Adele, Joanna Newsom and D'Angelo.",
+          "copyright": "Clockwise from top: Simon Laessoee\/Scanpix Denmark, via Reuters, Chad Batka for The New York Times,  Robert Altman for The New York Times, Sascha Steinbach\/Getty Images, Damon Winter\/The New York Times and Chad Batka for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/music\/13BESTPOP\/13BESTPOP-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Kendrick Lamar, Bj\u00f6rk, Brittany Howard of Alabama Shakes, Adele, Joanna Newsom and D'Angelo.",
+          "copyright": "Clockwise from top: Simon Laessoee\/Scanpix Denmark, via Reuters, Chad Batka for The New York Times,  Robert Altman for The New York Times, Sascha Steinbach\/Getty Images, Damon Winter\/The New York Times and Chad Batka for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/music\/13BESTPOP\/13BESTPOP-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Kendrick Lamar, Bj\u00f6rk, Brittany Howard of Alabama Shakes, Adele, Joanna Newsom and D'Angelo.",
+          "copyright": "Clockwise from top: Simon Laessoee\/Scanpix Denmark, via Reuters, Chad Batka for The New York Times,  Robert Altman for The New York Times, Sascha Steinbach\/Getty Images, Damon Winter\/The New York Times and Chad Batka for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/music\/13BESTPOP\/13BESTPOP-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Kendrick Lamar, Bj\u00f6rk, Brittany Howard of Alabama Shakes, Adele, Joanna Newsom and D'Angelo.",
+          "copyright": "Clockwise from top: Simon Laessoee\/Scanpix Denmark, via Reuters, Chad Batka for The New York Times,  Robert Altman for The New York Times, Sascha Steinbach\/Getty Images, Damon Winter\/The New York Times and Chad Batka for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "The Best Movies of 2015",
+      "abstract": "Our critics discuss their favorite films of the year.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/movies\/best-movies-2015.html",
+      "byline": "By MANOHLA DARGIS, A. O. SCOTT and STEPHEN HOLDEN",
+      "item_type": "Article",
+      "updated_date": "2015-12-09T13:28:53-5:00",
+      "created_date": "2015-12-09T13:29:01-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "List",
+      "kicker": "",
+      "des_facet": [
+        "Movies"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/movies\/13BESTMOVIES\/13BESTMOVIES-thumbStandard-v5.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: \u201cThe Martian,\u201d \u201cCarol,\u201d \u201cMad Max: Fury Road,\u201d \u201cBridge of Spies,\u201d \u201cInside Out\u201d and \u201cThe Big Short.\u201d",
+          "copyright": "Clockwise from top left: Aidan Monaghan\/Twentieth Century Fox Film; Wilson Webb\/The Weinstein Company; Jasin Boland\/Warner Bros. Pictures; Jaap Buitendijk\/DreamWorks and Twentieth Century Fox Film; Disney\/Pixar; Jaap Buitendijk\/Paramount Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/movies\/13BESTMOVIES\/13BESTMOVIES-thumbLarge-v5.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: \u201cThe Martian,\u201d \u201cCarol,\u201d \u201cMad Max: Fury Road,\u201d \u201cBridge of Spies,\u201d \u201cInside Out\u201d and \u201cThe Big Short.\u201d",
+          "copyright": "Clockwise from top left: Aidan Monaghan\/Twentieth Century Fox Film; Wilson Webb\/The Weinstein Company; Jasin Boland\/Warner Bros. Pictures; Jaap Buitendijk\/DreamWorks and Twentieth Century Fox Film; Disney\/Pixar; Jaap Buitendijk\/Paramount Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/movies\/13BESTMOVIES\/13BESTMOVIES-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: \u201cThe Martian,\u201d \u201cCarol,\u201d \u201cMad Max: Fury Road,\u201d \u201cBridge of Spies,\u201d \u201cInside Out\u201d and \u201cThe Big Short.\u201d",
+          "copyright": "Clockwise from top left: Aidan Monaghan\/Twentieth Century Fox Film; Wilson Webb\/The Weinstein Company; Jasin Boland\/Warner Bros. Pictures; Jaap Buitendijk\/DreamWorks and Twentieth Century Fox Film; Disney\/Pixar; Jaap Buitendijk\/Paramount Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/movies\/13BESTMOVIES\/13BESTMOVIES-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: \u201cThe Martian,\u201d \u201cCarol,\u201d \u201cMad Max: Fury Road,\u201d \u201cBridge of Spies,\u201d \u201cInside Out\u201d and \u201cThe Big Short.\u201d",
+          "copyright": "Clockwise from top left: Aidan Monaghan\/Twentieth Century Fox Film; Wilson Webb\/The Weinstein Company; Jasin Boland\/Warner Bros. Pictures; Jaap Buitendijk\/DreamWorks and Twentieth Century Fox Film; Disney\/Pixar; Jaap Buitendijk\/Paramount Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/movies\/13BESTMOVIES\/13BESTMOVIES-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: \u201cThe Martian,\u201d \u201cCarol,\u201d \u201cMad Max: Fury Road,\u201d \u201cBridge of Spies,\u201d \u201cInside Out\u201d and \u201cThe Big Short.\u201d",
+          "copyright": "Clockwise from top left: Aidan Monaghan\/Twentieth Century Fox Film; Wilson Webb\/The Weinstein Company; Jasin Boland\/Warner Bros. Pictures; Jaap Buitendijk\/DreamWorks and Twentieth Century Fox Film; Disney\/Pixar; Jaap Buitendijk\/Paramount Pictures"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Dance",
+      "title": "The Best Dance of 2015",
+      "abstract": "Dance took off in unexpected directions this year. Our critics look back at some of the biggest surprises.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/arts\/dance\/best-dance-2015.html",
+      "byline": "By ALASTAIR MACAULAY, GIA KOURLAS, BRIAN SEIBERT and SIOBHAN BURKE",
+      "item_type": "Article",
+      "updated_date": "2015-12-09T13:17:37-5:00",
+      "created_date": "2015-12-09T13:17:39-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "List",
+      "kicker": "",
+      "des_facet": [
+        "Dancing"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/dance\/13BESTDANCE\/13BESTDANCE-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Benny Olk and Erin Dowd in \u201cCrises\u201d; Misty Copeland and James Whiteside in \u201cSwan Lake\u201d; Andr\u00e9 M. Zachery and LaMont Hamilton\u2019s \u201cDapline!\u201d; and Elina Miettinen and Gabe Stone Sayer in \u201cSleeping Beauty.\u201d",
+          "copyright": "Andrea Mohin\/The New York Times (\"Crises\" and \"Sleeping Beauty\"); Julieta Cervantes for The New York Times; Richard Perry\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/dance\/13BESTDANCE\/13BESTDANCE-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Benny Olk and Erin Dowd in \u201cCrises\u201d; Misty Copeland and James Whiteside in \u201cSwan Lake\u201d; Andr\u00e9 M. Zachery and LaMont Hamilton\u2019s \u201cDapline!\u201d; and Elina Miettinen and Gabe Stone Sayer in \u201cSleeping Beauty.\u201d",
+          "copyright": "Andrea Mohin\/The New York Times (\"Crises\" and \"Sleeping Beauty\"); Julieta Cervantes for The New York Times; Richard Perry\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/dance\/13BESTDANCE\/13BESTDANCE-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Benny Olk and Erin Dowd in \u201cCrises\u201d; Misty Copeland and James Whiteside in \u201cSwan Lake\u201d; Andr\u00e9 M. Zachery and LaMont Hamilton\u2019s \u201cDapline!\u201d; and Elina Miettinen and Gabe Stone Sayer in \u201cSleeping Beauty.\u201d",
+          "copyright": "Andrea Mohin\/The New York Times (\"Crises\" and \"Sleeping Beauty\"); Julieta Cervantes for The New York Times; Richard Perry\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/dance\/13BESTDANCE\/13BESTDANCE-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Benny Olk and Erin Dowd in \u201cCrises\u201d; Misty Copeland and James Whiteside in \u201cSwan Lake\u201d; Andr\u00e9 M. Zachery and LaMont Hamilton\u2019s \u201cDapline!\u201d; and Elina Miettinen and Gabe Stone Sayer in \u201cSleeping Beauty.\u201d",
+          "copyright": "Andrea Mohin\/The New York Times (\"Crises\" and \"Sleeping Beauty\"); Julieta Cervantes for The New York Times; Richard Perry\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/dance\/13BESTDANCE\/13BESTDANCE-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Benny Olk and Erin Dowd in \u201cCrises\u201d; Misty Copeland and James Whiteside in \u201cSwan Lake\u201d; Andr\u00e9 M. Zachery and LaMont Hamilton\u2019s \u201cDapline!\u201d; and Elina Miettinen and Gabe Stone Sayer in \u201cSleeping Beauty.\u201d",
+          "copyright": "Andrea Mohin\/The New York Times (\"Crises\" and \"Sleeping Beauty\"); Julieta Cervantes for The New York Times; Richard Perry\/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Theater",
+      "subsection": "",
+      "title": "The Best Theater of 2015",
+      "abstract": "\u201cHamilton,\u201d \u201cAn American in Paris\u201d and \u201cEclipsed\u201d are among the highlights.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/theater\/best-broadway-off-broadway-2015.html",
+      "byline": "By BEN BRANTLEY and CHARLES ISHERWOOD",
+      "item_type": "Article",
+      "updated_date": "2015-12-08T15:24:15-5:00",
+      "created_date": "2015-12-08T15:24:17-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "List",
+      "kicker": "",
+      "des_facet": [
+        "Theater"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/theater\/13BESTTHEATER-ALT\/13BESTTHEATER-ALT-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Lin-Manuel Miranda in \"Hamilton\"; Emily Skeggs in \"Fun Home\"; Robert Fairchild and Leanne Cope in \"An American in Paris\"; Lupita Nyong\u2019o in \"Eclipsed\"; Kristine Nielsen, left, and Daniel Oreskes in \"Hir\"; and\u00a0Tim Pigott-Smith in \"King Charles III.\"",
+          "copyright": "Photographs by Sara Krulwich\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/theater\/13BESTTHEATER-ALT\/13BESTTHEATER-ALT-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Lin-Manuel Miranda in \"Hamilton\"; Emily Skeggs in \"Fun Home\"; Robert Fairchild and Leanne Cope in \"An American in Paris\"; Lupita Nyong\u2019o in \"Eclipsed\"; Kristine Nielsen, left, and Daniel Oreskes in \"Hir\"; and\u00a0Tim Pigott-Smith in \"King Charles III.\"",
+          "copyright": "Photographs by Sara Krulwich\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/theater\/13BESTTHEATER-ALT\/13BESTTHEATER-ALT-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Lin-Manuel Miranda in \"Hamilton\"; Emily Skeggs in \"Fun Home\"; Robert Fairchild and Leanne Cope in \"An American in Paris\"; Lupita Nyong\u2019o in \"Eclipsed\"; Kristine Nielsen, left, and Daniel Oreskes in \"Hir\"; and\u00a0Tim Pigott-Smith in \"King Charles III.\"",
+          "copyright": "Photographs by Sara Krulwich\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/theater\/13BESTTHEATER-ALT\/13BESTTHEATER-ALT-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Lin-Manuel Miranda in \"Hamilton\"; Emily Skeggs in \"Fun Home\"; Robert Fairchild and Leanne Cope in \"An American in Paris\"; Lupita Nyong\u2019o in \"Eclipsed\"; Kristine Nielsen, left, and Daniel Oreskes in \"Hir\"; and\u00a0Tim Pigott-Smith in \"King Charles III.\"",
+          "copyright": "Photographs by Sara Krulwich\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/theater\/13BESTTHEATER-ALT\/13BESTTHEATER-ALT-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: Lin-Manuel Miranda in \"Hamilton\"; Emily Skeggs in \"Fun Home\"; Robert Fairchild and Leanne Cope in \"An American in Paris\"; Lupita Nyong\u2019o in \"Eclipsed\"; Kristine Nielsen, left, and Daniel Oreskes in \"Hir\"; and\u00a0Tim Pigott-Smith in \"King Charles III.\"",
+          "copyright": "Photographs by Sara Krulwich\/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Music",
+      "title": "The Best Classical Music of 2015",
+      "abstract": "Our classical music team looks back at a sign of hope for Paris and other triumphs of the year.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/arts\/music\/best-classical-music-2015.html",
+      "byline": "By THE NEW YORK TIMES",
+      "item_type": "Article",
+      "updated_date": "2015-12-09T19:54:06-5:00",
+      "created_date": "2015-12-09T13:20:10-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "List",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music",
+        "Opera"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/music\/13BESTCLASSICAL\/13BESTCLASSICAL-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: \u201cLulu\u201d at the Metropolitan Opera;\u00a0the Danish String Quartet; \u201cOtello\u201d at the Met; and\u00a0Osmo Vanska conducting the Minnesota Orchestra in Cuba.",
+          "copyright": "Clockwise from top left: Sara Krulwich\/The New York Times; Hiroyuki Ito for The New York Times; Sara Krulwich\/The New York Times; Lisette Poole for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/music\/13BESTCLASSICAL\/13BESTCLASSICAL-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: \u201cLulu\u201d at the Metropolitan Opera;\u00a0the Danish String Quartet; \u201cOtello\u201d at the Met; and\u00a0Osmo Vanska conducting the Minnesota Orchestra in Cuba.",
+          "copyright": "Clockwise from top left: Sara Krulwich\/The New York Times; Hiroyuki Ito for The New York Times; Sara Krulwich\/The New York Times; Lisette Poole for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/music\/13BESTCLASSICAL\/13BESTCLASSICAL-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: \u201cLulu\u201d at the Metropolitan Opera;\u00a0the Danish String Quartet; \u201cOtello\u201d at the Met; and\u00a0Osmo Vanska conducting the Minnesota Orchestra in Cuba.",
+          "copyright": "Clockwise from top left: Sara Krulwich\/The New York Times; Hiroyuki Ito for The New York Times; Sara Krulwich\/The New York Times; Lisette Poole for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/music\/13BESTCLASSICAL\/13BESTCLASSICAL-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: \u201cLulu\u201d at the Metropolitan Opera;\u00a0the Danish String Quartet; \u201cOtello\u201d at the Met; and\u00a0Osmo Vanska conducting the Minnesota Orchestra in Cuba.",
+          "copyright": "Clockwise from top left: Sara Krulwich\/The New York Times; Hiroyuki Ito for The New York Times; Sara Krulwich\/The New York Times; Lisette Poole for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/music\/13BESTCLASSICAL\/13BESTCLASSICAL-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Clockwise from top left: \u201cLulu\u201d at the Metropolitan Opera;\u00a0the Danish String Quartet; \u201cOtello\u201d at the Met; and\u00a0Osmo Vanska conducting the Minnesota Orchestra in Cuba.",
+          "copyright": "Clockwise from top left: Sara Krulwich\/The New York Times; Hiroyuki Ito for The New York Times; Sara Krulwich\/The New York Times; Lisette Poole for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "Five Golden Globe Nominations for \u2018Carol\u2019 and a Nod to DiCaprio",
+      "abstract": "\u201cThe Martian,\u201d \u201cJoy,\u201d \u201cSpotlight\u201d and \u201cThe Big Short\u201d also made good showings in the Hollywood Foreign Press nominations.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/11\/movies\/golden-globes-2016-nominations.html",
+      "byline": "MICHAEL CIEPLY and BROOKS BARNES",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T10:38:13-5:00",
+      "created_date": "2015-12-10T08:56:07-5:00",
+      "published_date": "2015-12-11T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Golden Globes (Awards)",
+        "Movies",
+        "Television",
+        "Web-Original Programming",
+        "Carol (Movie)"
+      ],
+      "org_facet": [
+        "Academy of Motion Picture Arts and Sciences"
+      ],
+      "per_facet": [
+        "Haynes, Todd",
+        "Scott, Ridley",
+        "DiCaprio, Leonardo"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11carol1_hp\/11carol1_hp-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cate Blanchett as Carol Aird in a scene from \u201cCarol.\u201d",
+          "copyright": "Wilson Webb\/The Weinstein Company, via Associated Press"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11carol1_hp\/11carol1_hp-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cate Blanchett as Carol Aird in a scene from \u201cCarol.\u201d",
+          "copyright": "Wilson Webb\/The Weinstein Company, via Associated Press"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11carol1_hp\/11carol1_hp-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cate Blanchett as Carol Aird in a scene from \u201cCarol.\u201d",
+          "copyright": "Wilson Webb\/The Weinstein Company, via Associated Press"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11carol1_hp\/11carol1_hp-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cate Blanchett as Carol Aird in a scene from \u201cCarol.\u201d",
+          "copyright": "Wilson Webb\/The Weinstein Company, via Associated Press"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11carol1_hp\/11carol1_hp-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cate Blanchett as Carol Aird in a scene from \u201cCarol.\u201d",
+          "copyright": "Wilson Webb\/The Weinstein Company, via Associated Press"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Music",
+      "title": "Grammy Awards: Kendrick Lamar, Taylor Swift and the Weeknd Lead Nominations",
+      "abstract": "Mr. Lamar\u2019s rap album \u201cTo Pimp a Butterfly\u201d is atop the pack with nine nominations ahead of the Feb. 15 music awards show.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/08\/arts\/music\/grammy-awards-kendrick-lamar-taylor-swift-and-the-weeknd-lead-nominations.html",
+      "byline": "By BEN SISARIO",
+      "item_type": "Article",
+      "updated_date": "2015-12-07T21:38:13-5:00",
+      "created_date": "2015-12-07T08:30:21-5:00",
+      "published_date": "2015-12-08T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Grammy Awards",
+        "Music",
+        "1989 (Album)",
+        "To Pimp a Butterfly (Album)",
+        "Beauty Behind the Madness (Album)"
+      ],
+      "org_facet": [
+        "Alabama Shakes (Music Group)",
+        "Little Big Town (Music Group)"
+      ],
+      "per_facet": [
+        "Lamar, Kendrick",
+        "Swift, Taylor",
+        "Tesfaye, Abel (Weeknd)",
+        "Stapleton, Chris (1978- )"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/07\/arts\/07GRAMMY\/07GRAMMY-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Weeknd is up for seven Grammy Awards for \u201cBeauty Behind the Madness.\u201d",
+          "copyright": "Kevin Winter\/Getty Images For Iheartmedia"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/07\/arts\/07GRAMMY\/07GRAMMY-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Weeknd is up for seven Grammy Awards for \u201cBeauty Behind the Madness.\u201d",
+          "copyright": "Kevin Winter\/Getty Images For Iheartmedia"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/07\/arts\/07GRAMMY\/07GRAMMY-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Weeknd is up for seven Grammy Awards for \u201cBeauty Behind the Madness.\u201d",
+          "copyright": "Kevin Winter\/Getty Images For Iheartmedia"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/07\/arts\/07GRAMMY\/07GRAMMY-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Weeknd is up for seven Grammy Awards for \u201cBeauty Behind the Madness.\u201d",
+          "copyright": "Kevin Winter\/Getty Images For Iheartmedia"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/07\/arts\/07GRAMMY\/07GRAMMY-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1415,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Weeknd is up for seven Grammy Awards for \u201cBeauty Behind the Madness.\u201d",
+          "copyright": "Kevin Winter\/Getty Images For Iheartmedia"
+        }
+      ]
+    },
+    {
+      "section": "Theater",
+      "subsection": "",
+      "title": "Cameron Scoggins Brings the \u2018Bro\u2019 to a Very Strange Family in \u2018Hir\u2019",
+      "abstract": "He portrays a tightly wound former Marine in this production at Playwrights Horizons.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/theater\/cameron-scoggins-brings-the-bro-to-a-very-strange-family-in-hir.html",
+      "byline": "By STEVEN McELROY",
+      "item_type": "Article",
+      "updated_date": "2015-12-09T08:00:01-5:00",
+      "created_date": "2015-12-09T08:00:04-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Hir (Play)"
+      ],
+      "org_facet": [
+        "Playwrights Horizons"
+      ],
+      "per_facet": [
+        "Scoggins, Cameron",
+        "Mac, Taylor"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13SNAPSHOT\/13SNAPSHOT-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cameron Scoggins",
+          "copyright": "Tony Cenicola\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13SNAPSHOT\/13SNAPSHOT-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cameron Scoggins",
+          "copyright": "Tony Cenicola\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13SNAPSHOT\/13SNAPSHOT-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 160,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cameron Scoggins",
+          "copyright": "Tony Cenicola\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13SNAPSHOT\/13SNAPSHOT-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cameron Scoggins",
+          "copyright": "Tony Cenicola\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13SNAPSHOT\/13SNAPSHOT-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 890,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cameron Scoggins",
+          "copyright": "Tony Cenicola\/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "In New \u2018Star Wars,\u2019 Daisy Ridley and John Boyega Brace for Galactic Fame",
+      "abstract": "Ms. Ridley and Mr. Boyega, among the new heroes of \u201cThe Force Awakens,\u201d discuss how they are preparing for worldwide visibility and making their marks in a multibillion-dollar franchise.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/20\/movies\/in-new-star-wars-daisy-ridley-and-john-boyega-brace-for-galactic-fame.html",
+      "byline": "By DAVE ITZKOFF",
+      "item_type": "Article",
+      "updated_date": "2015-12-09T07:00:04-5:00",
+      "created_date": "2015-12-09T07:00:11-5:00",
+      "published_date": "2015-12-20T00:00:00-5:00",
+      "material_type_facet": "Question",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Star Wars: The Force Awakens (Movie)"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "Ridley, Daisy",
+        "Boyega, John"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/20\/arts\/20STARWARS-DIPTYCH\/20STARWARS-DIPTYCH-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daisy Ridley and John Boyega.",
+          "copyright": "Kat Irlin for The New York Times; Ryan Pfluger for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/20\/arts\/20STARWARS-DIPTYCH\/20STARWARS-DIPTYCH-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daisy Ridley and John Boyega.",
+          "copyright": "Kat Irlin for The New York Times; Ryan Pfluger for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/20\/arts\/20STARWARS-DIPTYCH\/20STARWARS-DIPTYCH-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daisy Ridley and John Boyega.",
+          "copyright": "Kat Irlin for The New York Times; Ryan Pfluger for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/20\/arts\/20STARWARS-DIPTYCH\/20STARWARS-DIPTYCH-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daisy Ridley and John Boyega.",
+          "copyright": "Kat Irlin for The New York Times; Ryan Pfluger for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/20\/arts\/20STARWARS-DIPTYCH\/20STARWARS-DIPTYCH-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daisy Ridley and John Boyega.",
+          "copyright": "Kat Irlin for The New York Times; Ryan Pfluger for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Television",
+      "title": "The Ghosts of TV Christmas Specials Past",
+      "abstract": "Neil Genzlinger explores holiday shows by Judy Garland, Pee-wee Herman and others.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/06\/arts\/television\/the-ghosts-of-tv-christmas-specials-past.html",
+      "byline": "By NEIL GENZLINGER",
+      "item_type": "Article",
+      "updated_date": "2015-12-03T16:12:20-5:00",
+      "created_date": "2015-12-03T16:12:24-5:00",
+      "published_date": "2015-12-06T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Christmas",
+        "Star Wars (Movie)"
+      ],
+      "org_facet": [
+        "Netflix Inc"
+      ],
+      "per_facet": [
+        "Colbert, Stephen",
+        "Garland, Judy",
+        "Reubens, Paul"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/06\/arts\/06SPECIALS4\/06SPECIALS4-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Reubens in \u201cThe Pee-Wee\u2019s Playhouse Christmas Special\u201d from 1988.",
+          "copyright": "Pee Wee Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/06\/arts\/06SPECIALS4\/06SPECIALS4-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Reubens in \u201cThe Pee-Wee\u2019s Playhouse Christmas Special\u201d from 1988.",
+          "copyright": "Pee Wee Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/06\/arts\/06SPECIALS4\/06SPECIALS4-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 134,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Reubens in \u201cThe Pee-Wee\u2019s Playhouse Christmas Special\u201d from 1988.",
+          "copyright": "Pee Wee Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/06\/arts\/06SPECIALS4\/06SPECIALS4-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Reubens in \u201cThe Pee-Wee\u2019s Playhouse Christmas Special\u201d from 1988.",
+          "copyright": "Pee Wee Pictures"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/06\/arts\/06SPECIALS4\/06SPECIALS4-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1446,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Reubens in \u201cThe Pee-Wee\u2019s Playhouse Christmas Special\u201d from 1988.",
+          "copyright": "Pee Wee Pictures"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "title": "Art for the Holidays: A New York Visitors Guide",
+      "abstract": "A user\u2019s guide to art, indoors and outdoors, in New York during the holiday season.",
+      "url": "http:\/\/www.nytimes.com\/2015\/11\/27\/arts\/design\/art-for-the-holidays-a-new-york-visitors-guide.html",
+      "byline": "By DANIEL McDERMON",
+      "item_type": "Article",
+      "updated_date": "2015-12-01T15:34:48-5:00",
+      "created_date": "2015-11-27T07:00:09-5:00",
+      "published_date": "2015-11-27T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Art"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/11\/27\/arts\/27art-holiday-stella2\/27art-holiday-stella2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cFrank Stella: A Retrospective\u201d at the Whitney Museum of American Art.",
+          "copyright": "2015 Frank Stella\/Artists Rights Society (ARS), New York;  Hiroko Masuike\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/11\/27\/arts\/27art-holiday-stella2\/27art-holiday-stella2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cFrank Stella: A Retrospective\u201d at the Whitney Museum of American Art.",
+          "copyright": "2015 Frank Stella\/Artists Rights Society (ARS), New York;  Hiroko Masuike\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/11\/27\/arts\/27art-holiday-stella2\/27art-holiday-stella2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cFrank Stella: A Retrospective\u201d at the Whitney Museum of American Art.",
+          "copyright": "2015 Frank Stella\/Artists Rights Society (ARS), New York;  Hiroko Masuike\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/11\/27\/arts\/27art-holiday-stella2\/27art-holiday-stella2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cFrank Stella: A Retrospective\u201d at the Whitney Museum of American Art.",
+          "copyright": "2015 Frank Stella\/Artists Rights Society (ARS), New York;  Hiroko Masuike\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/11\/27\/arts\/27art-holiday-stella2\/27art-holiday-stella2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cFrank Stella: A Retrospective\u201d at the Whitney Museum of American Art.",
+          "copyright": "2015 Frank Stella\/Artists Rights Society (ARS), New York;  Hiroko Masuike\/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Dance",
+      "title": "Noche Flamenca to Present \u2018Antigona\u2019",
+      "abstract": "The ensemble will offer the dancing and music in a version of Sophocles\u2019 \u201cAntigone.\u201d",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/arts\/dance\/noche-flamenca-to-present-antigona.html",
+      "byline": "By BRIAN SCHAEFER",
+      "item_type": "Article",
+      "updated_date": "2015-12-11T09:14:25-5:00",
+      "created_date": "2015-12-11T09:14:25-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Dancing"
+      ],
+      "org_facet": [
+        "Noche Flamenca",
+        "West Park Presbyterian Church"
+      ],
+      "per_facet": [
+        "Barrio, Soledad"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE3\/13GUIDE3-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soledad Barrio of Noche Flamenca performing in \u201cAntigona.\u201d",
+          "copyright": "Chris Bennion"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE3\/13GUIDE3-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soledad Barrio of Noche Flamenca performing in \u201cAntigona.\u201d",
+          "copyright": "Chris Bennion"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE3\/13GUIDE3-articleInline.jpg",
+          "format": "Normal",
+          "height": 138,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soledad Barrio of Noche Flamenca performing in \u201cAntigona.\u201d",
+          "copyright": "Chris Bennion"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE3\/13GUIDE3-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soledad Barrio of Noche Flamenca performing in \u201cAntigona.\u201d",
+          "copyright": "Chris Bennion"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE3\/13GUIDE3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1483,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soledad Barrio of Noche Flamenca performing in \u201cAntigona.\u201d",
+          "copyright": "Chris Bennion"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Music",
+      "title": "Luis Miguel Returns to Madison Square Garden",
+      "abstract": "The suave balladeer canceled a string of concerts in Mexico City last month because of a throat infection.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/arts\/music\/luis-miguel-returns-to-madison-square-garden.html",
+      "byline": "By NATE CHINEN",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T12:21:27-5:00",
+      "created_date": "2015-12-10T12:21:29-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Music"
+      ],
+      "org_facet": [
+        "Madison Square Garden"
+      ],
+      "per_facet": [
+        "Miguel, Luis (1975- )"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE5\/13GUIDE5-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luis Miguel is scheduled to perform at Madison Square Garden on Dec. 18.",
+          "copyright": ""
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE5\/13GUIDE5-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luis Miguel is scheduled to perform at Madison Square Garden on Dec. 18.",
+          "copyright": ""
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE5\/13GUIDE5-articleInline.jpg",
+          "format": "Normal",
+          "height": 118,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luis Miguel is scheduled to perform at Madison Square Garden on Dec. 18.",
+          "copyright": ""
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE5\/13GUIDE5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luis Miguel is scheduled to perform at Madison Square Garden on Dec. 18.",
+          "copyright": ""
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE5\/13GUIDE5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 792,
+          "width": 1275,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Luis Miguel is scheduled to perform at Madison Square Garden on Dec. 18.",
+          "copyright": ""
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Television",
+      "title": "\u2018Luther,\u2019 With Idris Elba, Returns to BBC America",
+      "abstract": "The tortured detective at the heart of this series goes up against a cannibalistic serial killer.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/arts\/television\/luther-with-idris-elba-returns-to-bbc-america.html",
+      "byline": "By KATHRYN SHATTUCK",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T12:24:45-5:00",
+      "created_date": "2015-12-10T12:24:52-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Television",
+        "Luther (TV Program)"
+      ],
+      "org_facet": [
+        "BBC America"
+      ],
+      "per_facet": [
+        "Elba, Idris",
+        "Cross, Neil (1969- )"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE2\/13GUIDE2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Idris Elba returns as the title character in \u201cLuther.\u201d",
+          "copyright": "Steffan Hill\/BBC America"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE2\/13GUIDE2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Idris Elba returns as the title character in \u201cLuther.\u201d",
+          "copyright": "Steffan Hill\/BBC America"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE2\/13GUIDE2-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Idris Elba returns as the title character in \u201cLuther.\u201d",
+          "copyright": "Steffan Hill\/BBC America"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE2\/13GUIDE2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Idris Elba returns as the title character in \u201cLuther.\u201d",
+          "copyright": "Steffan Hill\/BBC America"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE2\/13GUIDE2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Idris Elba returns as the title character in \u201cLuther.\u201d",
+          "copyright": "Steffan Hill\/BBC America"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "title": "Tracing Diane Simpson\u2019s Structural Evolution in Boston Exhibition",
+      "abstract": "Ms. Simpson\u2019s work is distinctive for the way it parses the components of garments to create wonders of articulated form.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/arts\/design\/tracing-diane-simpsons-structural-evolution-in-boston-exhibition.html",
+      "byline": "By ROBERTA SMITH",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T12:28:28-5:00",
+      "created_date": "2015-12-10T12:28:35-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Art"
+      ],
+      "org_facet": [
+        "Institute of Contemporary Art"
+      ],
+      "per_facet": [
+        "Simpson, Diane (Artist)"
+      ],
+      "geo_facet": [
+        "Boston (Mass)"
+      ],
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE78-COMBO\/13GUIDE78-COMBO-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left, \u201cFormal Wear\u201d (1998), polyester, poplar and cotton. And \u201cMuff\u201d (1998), faux fur, fleece and mahogany.",
+          "copyright": "Diane Simpson"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE78-COMBO\/13GUIDE78-COMBO-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left, \u201cFormal Wear\u201d (1998), polyester, poplar and cotton. And \u201cMuff\u201d (1998), faux fur, fleece and mahogany.",
+          "copyright": "Diane Simpson"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE78-COMBO\/13GUIDE78-COMBO-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left, \u201cFormal Wear\u201d (1998), polyester, poplar and cotton. And \u201cMuff\u201d (1998), faux fur, fleece and mahogany.",
+          "copyright": "Diane Simpson"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE78-COMBO\/13GUIDE78-COMBO-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left, \u201cFormal Wear\u201d (1998), polyester, poplar and cotton. And \u201cMuff\u201d (1998), faux fur, fleece and mahogany.",
+          "copyright": "Diane Simpson"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE78-COMBO\/13GUIDE78-COMBO-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Left, \u201cFormal Wear\u201d (1998), polyester, poplar and cotton. And \u201cMuff\u201d (1998), faux fur, fleece and mahogany.",
+          "copyright": "Diane Simpson"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Music",
+      "title": "Handel\u2019s \u2018Messiah\u2019? It\u2019s Complicated",
+      "abstract": "Julian Wachner leads the Trinity Church choir and orchestra in two performances of a seasonal classic more complex than often recognized.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/arts\/music\/handels-messiah-its-complicated.html",
+      "byline": "By ZACHARY WOOLFE",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T12:30:42-5:00",
+      "created_date": "2015-12-10T12:30:43-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music"
+      ],
+      "org_facet": [
+        "Trinity Church (Manhattan, NY)",
+        "Choir of Trinity Wall Street",
+        "Trinity Baroque Orchestra"
+      ],
+      "per_facet": [
+        "Handel, George Frederick",
+        "Wachner, Julian"
+      ],
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "\u2018The Savage Eye\u2019 Wanders Through Los Angeles at the Museum of the Moving Image",
+      "abstract": "The film follows a woman as she samples the underside of Los Angeles in 1959 as a sort of therapeutic response to a divorce.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/movies\/the-savage-eye-wanders-through-los-angeles-at-the-museum-of-the-moving-image.html",
+      "byline": "By NEIL GENZLINGER",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T12:33:02-5:00",
+      "created_date": "2015-12-10T12:33:09-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "The Savage Eye (Movie)"
+      ],
+      "org_facet": [
+        "Museum of the Moving Image"
+      ],
+      "per_facet": [
+        "Maddow, Ben (1909-92)",
+        "Meyers, Sidney (1906-69)",
+        "Strick, Joseph (1923-2010)"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE4\/13GUIDE4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Barbara Baxley in &ldquo;The Savage Eye.&rdquo;",
+          "copyright": "Trans Lux Inc.\/Kingsley-International Pictures;Photofest, via Museum of the Moving Image"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE4\/13GUIDE4-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Barbara Baxley in &ldquo;The Savage Eye.&rdquo;",
+          "copyright": "Trans Lux Inc.\/Kingsley-International Pictures;Photofest, via Museum of the Moving Image"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE4\/13GUIDE4-articleInline.jpg",
+          "format": "Normal",
+          "height": 137,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Barbara Baxley in &ldquo;The Savage Eye.&rdquo;",
+          "copyright": "Trans Lux Inc.\/Kingsley-International Pictures;Photofest, via Museum of the Moving Image"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE4\/13GUIDE4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Barbara Baxley in &ldquo;The Savage Eye.&rdquo;",
+          "copyright": "Trans Lux Inc.\/Kingsley-International Pictures;Photofest, via Museum of the Moving Image"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE4\/13GUIDE4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1480,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Barbara Baxley in &ldquo;The Savage Eye.&rdquo;",
+          "copyright": "Trans Lux Inc.\/Kingsley-International Pictures;Photofest, via Museum of the Moving Image"
+        }
+      ]
+    },
+    {
+      "section": "Theater",
+      "subsection": "",
+      "title": "Lois Smith Returns to the Stage With \u2018Marjorie Prime\u2019",
+      "abstract": "The actress, who made her Broadway debut in 1952, will star in the play at Playwrights Horizons.",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/13\/theater\/lois-smith-returns-to-the-stage-with-marjorie-prime.html",
+      "byline": "By BEN BRANTLEY",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T12:37:03-5:00",
+      "created_date": "2015-12-10T12:37:05-5:00",
+      "published_date": "2015-12-13T00:00:00-5:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Marjorie Prime (Play)"
+      ],
+      "org_facet": [
+        "Playwrights Horizons"
+      ],
+      "per_facet": [
+        "Smith, Lois",
+        "Kauffman, Anne",
+        "Harrison, Jordan"
+      ],
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE1\/13GUIDE1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Lois Smith, Lisa Emery and Noah Bean in &ldquo;Marjorie Prime&rdquo; at Playwrights Horizons.",
+          "copyright": "Caitlin Ochs for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE1\/13GUIDE1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Lois Smith, Lisa Emery and Noah Bean in &ldquo;Marjorie Prime&rdquo; at Playwrights Horizons.",
+          "copyright": "Caitlin Ochs for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE1\/13GUIDE1-articleInline.jpg",
+          "format": "Normal",
+          "height": 110,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Lois Smith, Lisa Emery and Noah Bean in &ldquo;Marjorie Prime&rdquo; at Playwrights Horizons.",
+          "copyright": "Caitlin Ochs for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE1\/13GUIDE1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Lois Smith, Lisa Emery and Noah Bean in &ldquo;Marjorie Prime&rdquo; at Playwrights Horizons.",
+          "copyright": "Caitlin Ochs for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/13\/arts\/13GUIDE1\/13GUIDE1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1186,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Lois Smith, Lisa Emery and Noah Bean in &ldquo;Marjorie Prime&rdquo; at Playwrights Horizons.",
+          "copyright": "Caitlin Ochs for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "",
+      "title": "Spare Times for Children for Dec. 11-17",
+      "abstract": "",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/11\/arts\/spare-times-for-children-for-dec-11-17.html",
+      "byline": "By LAUREL GRAEBER",
+      "item_type": "Article",
+      "updated_date": "2015-12-11T00:54:04-5:00",
+      "created_date": "2015-12-11T00:54:04-5:00",
+      "published_date": "2015-12-11T00:00:00-5:00",
+      "material_type_facet": "Schedule",
+      "kicker": "",
+      "des_facet": [
+        "Culture (Arts)",
+        "Children and Childhood"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11SPAREKIDS\/11SPAREKIDS-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Museum of Modern Art\u2019s Art Lab, creating a sculpture \u00e0 la Louise Nevelson.",
+          "copyright": "Martin Seck"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11SPAREKIDS\/11SPAREKIDS-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Museum of Modern Art\u2019s Art Lab, creating a sculpture \u00e0 la Louise Nevelson.",
+          "copyright": "Martin Seck"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11SPAREKIDS\/11SPAREKIDS-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Museum of Modern Art\u2019s Art Lab, creating a sculpture \u00e0 la Louise Nevelson.",
+          "copyright": "Martin Seck"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11SPAREKIDS\/11SPAREKIDS-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Museum of Modern Art\u2019s Art Lab, creating a sculpture \u00e0 la Louise Nevelson.",
+          "copyright": "Martin Seck"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11SPAREKIDS\/11SPAREKIDS-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1538,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Museum of Modern Art\u2019s Art Lab, creating a sculpture \u00e0 la Louise Nevelson.",
+          "copyright": "Martin Seck"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Music",
+      "title": "Jazz Listings for Dec. 11-17",
+      "abstract": "",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/11\/arts\/music\/jazz-listings-for-dec-11-17.html",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T18:08:21-5:00",
+      "created_date": "2015-12-10T18:08:28-5:00",
+      "published_date": "2015-12-11T00:00:00-5:00",
+      "material_type_facet": "Schedule",
+      "kicker": "",
+      "des_facet": [
+        "Music",
+        "Jazz"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSJAZZ\/11LISTINGSJAZZ-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudresh Mahanthappa",
+          "copyright": "Jacob Blickenstaff for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSJAZZ\/11LISTINGSJAZZ-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudresh Mahanthappa",
+          "copyright": "Jacob Blickenstaff for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSJAZZ\/11LISTINGSJAZZ-articleInline.jpg",
+          "format": "Normal",
+          "height": 202,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudresh Mahanthappa",
+          "copyright": "Jacob Blickenstaff for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSJAZZ\/11LISTINGSJAZZ-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudresh Mahanthappa",
+          "copyright": "Jacob Blickenstaff for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSJAZZ\/11LISTINGSJAZZ-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1969,
+          "width": 1856,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rudresh Mahanthappa",
+          "copyright": "Jacob Blickenstaff for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "Movie Listings for Dec. 11-17",
+      "abstract": "",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/11\/movies\/movie-listings-for-dec-11-17.html",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T18:29:26-5:00",
+      "created_date": "2015-12-10T18:29:28-5:00",
+      "published_date": "2015-12-11T00:00:00-5:00",
+      "material_type_facet": "Schedule",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Culture (Arts)"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSMOVIES\/11LISTINGSMOVIES-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dana Andrews in \u201cLaura\u201d (1944), part of the Women Crime Writers series at Film Forum.",
+          "copyright": "Film Forum, via Photofest"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSMOVIES\/11LISTINGSMOVIES-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dana Andrews in \u201cLaura\u201d (1944), part of the Women Crime Writers series at Film Forum.",
+          "copyright": "Film Forum, via Photofest"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSMOVIES\/11LISTINGSMOVIES-articleInline.jpg",
+          "format": "Normal",
+          "height": 118,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dana Andrews in \u201cLaura\u201d (1944), part of the Women Crime Writers series at Film Forum.",
+          "copyright": "Film Forum, via Photofest"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSMOVIES\/11LISTINGSMOVIES-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dana Andrews in \u201cLaura\u201d (1944), part of the Women Crime Writers series at Film Forum.",
+          "copyright": "Film Forum, via Photofest"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSMOVIES\/11LISTINGSMOVIES-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1271,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dana Andrews in \u201cLaura\u201d (1944), part of the Women Crime Writers series at Film Forum.",
+          "copyright": "Film Forum, via Photofest"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "",
+      "title": "Comedy Listings for Dec. 11-17",
+      "abstract": "",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/11\/arts\/comedy-listings-for-dec-11-17.html",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T18:19:56-5:00",
+      "created_date": "2015-12-10T18:19:58-5:00",
+      "published_date": "2015-12-11T00:00:00-5:00",
+      "material_type_facet": "Schedule",
+      "kicker": "",
+      "des_facet": [
+        "Comedy and Humor",
+        "Culture (Arts)"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGCOMEDY\/11LISTINGCOMEDY-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jim Gaffigan will perform at Madison Square Garden.",
+          "copyright": "Nicholas Hunt\/Getty Images"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGCOMEDY\/11LISTINGCOMEDY-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jim Gaffigan will perform at Madison Square Garden.",
+          "copyright": "Nicholas Hunt\/Getty Images"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGCOMEDY\/11LISTINGCOMEDY-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jim Gaffigan will perform at Madison Square Garden.",
+          "copyright": "Nicholas Hunt\/Getty Images"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGCOMEDY\/11LISTINGCOMEDY-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jim Gaffigan will perform at Madison Square Garden.",
+          "copyright": "Nicholas Hunt\/Getty Images"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGCOMEDY\/11LISTINGCOMEDY-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1376,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jim Gaffigan will perform at Madison Square Garden.",
+          "copyright": "Nicholas Hunt\/Getty Images"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Music",
+      "title": "Pop &amp; Rock Listings for Dec. 11-17",
+      "abstract": "",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/11\/arts\/music\/pop-amp-rock-listings-for-dec-11-17.html",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T18:03:29-5:00",
+      "created_date": "2015-12-10T18:03:36-5:00",
+      "published_date": "2015-12-11T00:00:00-5:00",
+      "material_type_facet": "Schedule",
+      "kicker": "",
+      "des_facet": [
+        "Music",
+        "Rock Music",
+        "Rap and Hip-Hop"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSPOP\/11LISTINGSPOP-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of Sleater-Kinney, Janet Weiss, Carrie Brownstein and Corin Tucker, performing earlier this year at Terminal 5 in New York.",
+          "copyright": "Chad Batka for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSPOP\/11LISTINGSPOP-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of Sleater-Kinney, Janet Weiss, Carrie Brownstein and Corin Tucker, performing earlier this year at Terminal 5 in New York.",
+          "copyright": "Chad Batka for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSPOP\/11LISTINGSPOP-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of Sleater-Kinney, Janet Weiss, Carrie Brownstein and Corin Tucker, performing earlier this year at Terminal 5 in New York.",
+          "copyright": "Chad Batka for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSPOP\/11LISTINGSPOP-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of Sleater-Kinney, Janet Weiss, Carrie Brownstein and Corin Tucker, performing earlier this year at Terminal 5 in New York.",
+          "copyright": "Chad Batka for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSPOP\/11LISTINGSPOP-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1400,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of Sleater-Kinney, Janet Weiss, Carrie Brownstein and Corin Tucker, performing earlier this year at Terminal 5 in New York.",
+          "copyright": "Chad Batka for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Dance",
+      "title": "Dance Listings for Dec. 11-17",
+      "abstract": "",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/11\/arts\/dance\/dance-listings-for-dec-11-17.html",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T18:34:14-5:00",
+      "created_date": "2015-12-10T18:34:15-5:00",
+      "published_date": "2015-12-11T00:00:00-5:00",
+      "material_type_facet": "Schedule",
+      "kicker": "",
+      "des_facet": [
+        "Dancing",
+        "Culture (Arts)"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSDANCE\/11LISTINGSDANCE-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daniel Pettrow, left, and Jennifer Sydor, right, perform in a previous production of &lsquo;Peter and the Wolf,&rsquo; narrated by Isaac Mizrahi, at the Guggenheim Museum.",
+          "copyright": "MICHAEL NAGLE for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSDANCE\/11LISTINGSDANCE-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daniel Pettrow, left, and Jennifer Sydor, right, perform in a previous production of &lsquo;Peter and the Wolf,&rsquo; narrated by Isaac Mizrahi, at the Guggenheim Museum.",
+          "copyright": "MICHAEL NAGLE for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSDANCE\/11LISTINGSDANCE-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daniel Pettrow, left, and Jennifer Sydor, right, perform in a previous production of &lsquo;Peter and the Wolf,&rsquo; narrated by Isaac Mizrahi, at the Guggenheim Museum.",
+          "copyright": "MICHAEL NAGLE for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSDANCE\/11LISTINGSDANCE-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daniel Pettrow, left, and Jennifer Sydor, right, perform in a previous production of &lsquo;Peter and the Wolf,&rsquo; narrated by Isaac Mizrahi, at the Guggenheim Museum.",
+          "copyright": "MICHAEL NAGLE for The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSDANCE\/11LISTINGSDANCE-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daniel Pettrow, left, and Jennifer Sydor, right, perform in a previous production of &lsquo;Peter and the Wolf,&rsquo; narrated by Isaac Mizrahi, at the Guggenheim Museum.",
+          "copyright": "MICHAEL NAGLE for The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "title": "Museum &amp; Gallery Listings for Dec. 11-17",
+      "abstract": "",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/11\/arts\/design\/museum-amp-gallery-listings-for-dec-11-17.html",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2015-12-11T00:42:00-5:00",
+      "created_date": "2015-12-11T00:42:00-5:00",
+      "published_date": "2015-12-11T00:00:00-5:00",
+      "material_type_facet": "Schedule",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Culture (Arts)",
+        "Museums"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSART1\/11LISTINGSART1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThe Madonna and Child With Saint John,\u201d part of the exhibition \u201cAndrea Del Sarto: The Renaissance Workshop in Action,\u201d on view at the Frick Collection.",
+          "copyright": "Galleria degli Uffizi, Gabinetto Disegni e Stampe, Florence"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSART1\/11LISTINGSART1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThe Madonna and Child With Saint John,\u201d part of the exhibition \u201cAndrea Del Sarto: The Renaissance Workshop in Action,\u201d on view at the Frick Collection.",
+          "copyright": "Galleria degli Uffizi, Gabinetto Disegni e Stampe, Florence"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSART1\/11LISTINGSART1-articleInline.jpg",
+          "format": "Normal",
+          "height": 258,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThe Madonna and Child With Saint John,\u201d part of the exhibition \u201cAndrea Del Sarto: The Renaissance Workshop in Action,\u201d on view at the Frick Collection.",
+          "copyright": "Galleria degli Uffizi, Gabinetto Disegni e Stampe, Florence"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSART1\/11LISTINGSART1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThe Madonna and Child With Saint John,\u201d part of the exhibition \u201cAndrea Del Sarto: The Renaissance Workshop in Action,\u201d on view at the Frick Collection.",
+          "copyright": "Galleria degli Uffizi, Gabinetto Disegni e Stampe, Florence"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSART1\/11LISTINGSART1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1998,
+          "width": 1474,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThe Madonna and Child With Saint John,\u201d part of the exhibition \u201cAndrea Del Sarto: The Renaissance Workshop in Action,\u201d on view at the Frick Collection.",
+          "copyright": "Galleria degli Uffizi, Gabinetto Disegni e Stampe, Florence"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "Music",
+      "title": "Classical Music &amp; Opera Listings for Dec. 11-17",
+      "abstract": "",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/11\/arts\/music\/classical-music-opera-listings-for-dec-11-17.html",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T18:15:26-5:00",
+      "created_date": "2015-12-10T18:15:32-5:00",
+      "published_date": "2015-12-11T00:00:00-5:00",
+      "material_type_facet": "Schedule",
+      "kicker": "",
+      "des_facet": [
+        "Classical Music",
+        "Music",
+        "Opera",
+        "Culture (Arts)"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": ""
+    },
+    {
+      "section": "Theater",
+      "subsection": "",
+      "title": "Theater Listings for Dec. 11-17",
+      "abstract": "",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/11\/theater\/theater-listings-for-dec-11-17.html",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2015-12-10T18:39:44-5:00",
+      "created_date": "2015-12-10T18:39:51-5:00",
+      "published_date": "2015-12-11T00:00:00-5:00",
+      "material_type_facet": "Schedule",
+      "kicker": "",
+      "des_facet": [
+        "Theater"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSTHEATER\/11LISTINGSTHEATER-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Earl Jones and Cicely Tyson in \"The Gin Game.\"",
+          "copyright": "Sara Krulwich\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSTHEATER\/11LISTINGSTHEATER-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Earl Jones and Cicely Tyson in \"The Gin Game.\"",
+          "copyright": "Sara Krulwich\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSTHEATER\/11LISTINGSTHEATER-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Earl Jones and Cicely Tyson in \"The Gin Game.\"",
+          "copyright": "Sara Krulwich\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSTHEATER\/11LISTINGSTHEATER-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Earl Jones and Cicely Tyson in \"The Gin Game.\"",
+          "copyright": "Sara Krulwich\/The New York Times"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11LISTINGSTHEATER\/11LISTINGSTHEATER-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1333,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Earl Jones and Cicely Tyson in \"The Gin Game.\"",
+          "copyright": "Sara Krulwich\/The New York Times"
+        }
+      ]
+    },
+    {
+      "section": "Arts",
+      "subsection": "",
+      "title": "Spare Times for Dec. 11-17",
+      "abstract": "",
+      "url": "http:\/\/www.nytimes.com\/2015\/12\/11\/arts\/spare-times-for-dec-11-17.html",
+      "byline": "By JOSHUA BARONE",
+      "item_type": "Article",
+      "updated_date": "2015-12-11T00:48:45-5:00",
+      "created_date": "2015-12-11T00:48:45-5:00",
+      "published_date": "2015-12-11T00:00:00-5:00",
+      "material_type_facet": "Schedule",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Culture (Arts)",
+        "Museums"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "multimedia": [
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11SPARETIMES\/11SPARETIMES-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mansaku Nomura will perform in \"A Night of Kyogen with Mansaku Nomura and Mansaku-no-Kai Kyogen Company\" Dec. 10 through 12 at Japan Society.",
+          "copyright": "Shinji Masakawa"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11SPARETIMES\/11SPARETIMES-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mansaku Nomura will perform in \"A Night of Kyogen with Mansaku Nomura and Mansaku-no-Kai Kyogen Company\" Dec. 10 through 12 at Japan Society.",
+          "copyright": "Shinji Masakawa"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11SPARETIMES\/11SPARETIMES-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mansaku Nomura will perform in \"A Night of Kyogen with Mansaku Nomura and Mansaku-no-Kai Kyogen Company\" Dec. 10 through 12 at Japan Society.",
+          "copyright": "Shinji Masakawa"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11SPARETIMES\/11SPARETIMES-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mansaku Nomura will perform in \"A Night of Kyogen with Mansaku Nomura and Mansaku-no-Kai Kyogen Company\" Dec. 10 through 12 at Japan Society.",
+          "copyright": "Shinji Masakawa"
+        },
+        {
+          "url": "http:\/\/static01.nyt.com\/images\/2015\/12\/11\/arts\/11SPARETIMES\/11SPARETIMES-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mansaku Nomura will perform in \"A Night of Kyogen with Mansaku Nomura and Mansaku-no-Kai Kyogen Company\" Dec. 10 through 12 at Japan Society.",
+          "copyright": "Shinji Masakawa"
+        }
+      ]
+    }
+  ]
+}

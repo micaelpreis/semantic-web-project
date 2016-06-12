@@ -1,0 +1,492 @@
+30
+
+---------- 0 ----------
+Real Estate
+
+Rego Park, Queens: Finding Value in a Melting Pot
+The classic immigrant neighborhood has recently attracted people from other parts of the metropolitan area looking for real estate values.
+http://www.nytimes.com/2015/12/13/realestate/rego-park-queens-finding-value-in-a-melting-pot.html
+VERA HALLER
+2015-12-13T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Rego Park (Queens, NY)
+---------- 1 ----------
+Real Estate
+
+$1.5 Million Homes in Vermont, Ohio and Arizona
+This week’s homes include a Greek Revival in Vermont, a city house in Ohio and a contemporary in Arizona.
+http://www.nytimes.com/2015/12/10/realestate/compare-homes-in-weybridge-vermont-columbus-ohio-cave-creek-arizona-weybridge-vermont.html
+MIKE POWELL
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 4
+Cave Creek (Ariz)
+Columbus (Ohio)
+Vermont
+Weybridge (Vermont)
+---------- 2 ----------
+Real Estate
+
+House Hunting in ... Colombia
+High-end properties appreciated more than 10 percent over the last year. And the devaluation of the Colombian peso is attracting more dollar-paying buyers.
+http://www.nytimes.com/2015/12/09/realestate/real-estate-in-colombia.html
+MARCELLE SUSSMAN FISCHLER
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Bogota (Colombia)
+---------- 3 ----------
+Real Estate
+
+New Apps and Services for Renters
+New companies are springing up to help renters find homes, break leases, sublet, find roommates and avoid broker fees.
+http://www.nytimes.com/2015/12/06/realestate/new-apps-and-services-for-renters.html
+RONDA KAYSEN
+2015-12-06T00:00:00-5:00
+--- des_facet --- 3
+Real Estate and Housing (Residential)
+Renting and Leasing (Real Estate)
+Mobile Applications
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+New York City
+---------- 4 ----------
+Real Estate
+
+Mortgage Approval Entirely Online
+Quicken Loans says its newly released product, Rocket Mortgage, will allow borrowers to be fully approved for a purchase or refinance loan online in as little as eight minutes.
+http://www.nytimes.com/2015/12/06/realestate/mortgage-approval-entirely-online.html
+LISA PREVOST
+2015-12-06T00:00:00-5:00
+--- des_facet --- 3
+Mortgages
+Real Estate and Housing (Residential)
+Computers and the Internet
+--- org_facet --- 2
+Quicken Loans Inc
+Sindeo Inc
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 5 ----------
+N.Y. / Region
+
+Remaking a Manhattan Block, Right Down to the Ground
+The Naftali Group, which is developing two luxury condominiums on a short Upper West Side stretch, is adding a bit of sparkle to the area by using special cement in the sidewalks outside its buildings.
+http://www.nytimes.com/2015/12/08/nyregion/remaking-a-manhattan-block-right-down-to-the-ground.html
+MATT A. V. CHABAN
+2015-12-08T00:00:00-5:00
+--- des_facet --- 3
+Real Estate and Housing (Residential)
+Sidewalks
+Building (Construction)
+--- org_facet --- 1
+Naftali Group LLC
+--- per_facet --- 1
+Naftali, Miki
+--- geo_facet --- 1
+Upper West Side (Manhattan, NY)
+---------- 6 ----------
+Business Day
+
+A Revolving Door Helps Big Banks’ Quiet Campaign to Muscle Out Fannie and Freddie
+A behind-the-scenes effort of Wall Street banks to take over the mortgage market is driven by advocates who switch between roles in Washington and the private sector.
+http://www.nytimes.com/2015/12/07/business/a-revolving-door-helps-big-banks-quiet-campaign-to-muscle-out-fannie-and-freddie.html
+GRETCHEN MORGENSON
+2015-12-07T00:00:00-5:00
+--- des_facet --- 7
+Banking and Financial Institutions
+Mortgages
+Real Estate and Housing (Residential)
+Mortgage-Backed Securities
+Regulation and Deregulation of Industry
+United States Politics and Government
+Subprime Mortgage Crisis
+--- org_facet --- 4
+Federal National Mortgage Assn (Fannie Mae)
+Federal Home Loan Mortgage Corp (Freddie Mac)
+Federal Housing Finance Agency
+Mortgage Bankers Assn of America
+--- per_facet --- 2
+Berman, Michael D
+Stevens, David H
+--- geo_facet --- 0
+---------- 7 ----------
+Real Estate
+
+Nick Sandow, of ‘Orange Is the New Black,’ at Home
+The actor and his partner, Tamara Malkin-Stuart, live in a Carroll Gardens, Brooklyn, townhouse.
+http://www.nytimes.com/2015/12/06/realestate/nick-sandow-of-orange-is-the-new-black-at-home.html
+DAN SHAW
+2015-12-06T00:00:00-5:00
+--- des_facet --- 3
+Real Estate and Housing (Residential)
+Orange Is the New Black (TV Program)
+Interior Design and Furnishings
+--- org_facet --- 0
+--- per_facet --- 2
+Sandow, Nick
+Malkin-Stuart, Tamara
+--- geo_facet --- 1
+Carroll Gardens (Brooklyn, NY)
+---------- 8 ----------
+Real Estate
+
+High Line Living
+A penthouse duplex at the HL23 condominium at the High Line is listed for $22.95 million. The seller is Pierre Lagrange, one of Britain&#8217;s richest men.
+http://www.nytimes.com/2015/12/06/realestate/high-line-living.html
+VIVIAN MARINO
+2015-12-06T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+High Line (Manhattan, NY)
+---------- 9 ----------
+Real Estate
+
+Holiday Bonuses for Building Staff
+Questions about holiday tipping; slow repairs in a rental; and a costly leak originating from an apartment upstairs.
+http://www.nytimes.com/2015/12/06/realestate/holiday-bonuses-for-building-staff.html
+RONDA KAYSEN
+2015-12-06T00:00:00-5:00
+--- des_facet --- 4
+Real Estate and Housing (Residential)
+Cooperatives
+Renting and Leasing (Real Estate)
+Bathrooms and Toilets
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+New York City
+---------- 10 ----------
+Real Estate
+
+A One-Bedroom in the Financial District
+Justin Cohen Anderson wanted to rent a one-bedroom apartment in a familiar neighborhood.
+http://www.nytimes.com/2015/12/06/realestate/a-one-bedroom-in-the-financial-district.html
+JOYCE COHEN
+2015-12-06T00:00:00-5:00
+--- des_facet --- 2
+Real Estate and Housing (Residential)
+Renting and Leasing (Real Estate)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Financial District (Manhattan, NY)
+---------- 11 ----------
+Real Estate
+
+Restoring a Connecticut Farmhouse
+A technology entrepreneur restores a farm and renovates a 1935 house in Easton, Conn., fulfilling his longtime dream of owning a country home.
+http://www.nytimes.com/2015/12/06/realestate/restoring-a-connecticut-farmhouse.html
+JULIE LASKY
+2015-12-06T00:00:00-5:00
+--- des_facet --- 2
+Real Estate and Housing (Residential)
+Interior Design and Furnishings
+--- org_facet --- 0
+--- per_facet --- 1
+Munshani, Suni (1961- )
+--- geo_facet --- 1
+Easton (Conn)
+---------- 12 ----------
+Real Estate
+
+Central Park Views for $45 Million
+Two apartments at the limestone-clad 15 Central Park West &#8212; one a duplex on the 18th and 19th floors, and another on the eighth floor &#8212; were the sales of the week.
+http://www.nytimes.com/2015/12/06/realestate/central-park-views-for-45-million.html
+VIVIAN MARINO
+2015-12-06T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Central Park (Manhattan, NY)
+---------- 13 ----------
+Real Estate
+
+Clinton Hill, Brooklyn, a Neighborhood in Transition
+The centerpiece of the Brooklyn neighborhood is Pratt Institute — its greensward campus’s brick pathways braiding through a sculpture garden.
+http://www.nytimes.com/2015/12/06/realestate/clinton-hill-brooklyn-a-neighborhood-in-transition.html
+JULIE BESONEN
+2015-12-06T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Clinton Hill (Brooklyn, NY)
+---------- 14 ----------
+Real Estate
+
+Homes for Sale in Brooklyn and Manhattan
+This week’s properties are in Hell’s Kitchen, SoHo and Bedford-Stuyvesant, Brooklyn.
+http://www.nytimes.com/2015/12/06/realestate/homes-for-sale-in-bedford-stuyvesant-brooklyn-hells-kitchen-and-soho.html
+
+2015-12-06T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 3
+Hell's Kitchen (Manhattan, NY)
+SoHo (Manhattan, NY)
+Bedford-Stuyvesant (Brooklyn, NY)
+---------- 15 ----------
+Real Estate
+
+Homes for Sale in New York and New Jersey
+This week’s homes include a four-bedroom in Croton-on-Hudson, N.Y., and a five-bedroom in South Amboy, N.J.
+http://www.nytimes.com/2015/12/06/realestate/homes-for-sale-in-new-york-and-new-jersey.html
+
+2015-12-06T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+South Amboy (NJ)
+Croton-on-Hudson (NY)
+---------- 16 ----------
+Real Estate
+
+Our Year of Living Airbnb
+David Roberts and his wife, Elaine Kuok, couldn’t decide where to live in New York. So they decided to move to a different neighborhood every month for a year.
+http://www.nytimes.com/2015/11/29/realestate/our-year-of-living-airbnb.html
+DAVID ROBERTS
+2015-11-29T00:00:00-5:00
+--- des_facet --- 2
+Real Estate and Housing (Residential)
+Renting and Leasing (Real Estate)
+--- org_facet --- 1
+Airbnb
+--- per_facet --- 0
+--- geo_facet --- 1
+New York City
+---------- 17 ----------
+Food
+
+Small Kitchens, by Choice
+Microkitchens, stocked with shrunken appliances, are being embraced by millennials who could easily afford much larger ones.
+http://www.nytimes.com/2015/12/09/dining/small-kitchen-microkitchen.html
+KIM SEVERSON
+2015-12-09T00:00:00-5:00
+--- des_facet --- 7
+Kitchens
+Youth
+Millennial Generation
+Cooking and Cookbooks
+Home Appliances
+Refrigerators
+Ovens and Stoves
+--- org_facet --- 1
+General Electric Company
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 18 ----------
+Real Estate
+
+A Plumbing Problem: Sludge in the Bathtub
+Fixing a pipe, qualifying for tax abatement, and installing smoke detectors.
+http://www.nytimes.com/2015/11/29/realestate/plumbing-tax-and-smoke-detector-questions-answered.html
+RONDA KAYSEN
+2015-11-29T00:00:00-5:00
+--- des_facet --- 5
+Real Estate and Housing (Residential)
+Plumbing
+Smoke Detectors
+Tax Credits, Deductions and Exemptions
+Cooperatives
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 19 ----------
+Real Estate
+
+Broadway’s Sierra Boggess at Home
+The actress Sierra Boggess, a star of &#8220;School of Rock,&#8221; lives on the Upper West Side.
+http://www.nytimes.com/2015/11/29/realestate/broadways-sierra-boggess-at-home.html
+JOANNE KAUFMAN
+2015-11-29T00:00:00-5:00
+--- des_facet --- 3
+Real Estate and Housing (Residential)
+Interior Design and Furnishings
+Theater
+--- org_facet --- 0
+--- per_facet --- 1
+Boggess, Sierra
+--- geo_facet --- 1
+Upper West Side (Manhattan, NY)
+---------- 20 ----------
+Real Estate
+
+Lauren Bacall’s Dakota Apartment Sold for $21 Million
+The grand three-bedroom at the landmark Upper West Side co-op building was the sale of the week.
+http://www.nytimes.com/2015/11/29/realestate/lauren-bacalls-dakota-apartment-sold-for-21-million.html
+VIVIAN MARINO
+2015-11-29T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 1
+Bacall, Lauren
+--- geo_facet --- 1
+Upper West Side (Manhattan, NY)
+---------- 21 ----------
+Real Estate
+
+Putting Down Roots in West Hempstead, N.Y.
+Home buyers and renters, particularly those from pricey areas of Brooklyn and Queens, are finding value and varied housing stock in the area.
+http://www.nytimes.com/2015/11/29/realestate/putting-down-roots-inwest-hempstead-ny.html
+KARIN LIPSON
+2015-11-29T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+Nassau County (NY)
+West Hempstead, NY
+---------- 22 ----------
+N.Y. / Region
+
+Saving a Vital Patch of Olmsted&#8217;s Staten Island Eden
+Without the Kaasmann property on Staten Island, now subdivided, suburbanized, hemmed in and overgrown, there might be no Central Park, Prospect Park, Riverside Drive or Eastern Parkway.
+http://www.nytimes.com/2015/12/01/nyregion/saving-a-vital-patch-of-olmsteds-staten-island-eden.html
+MATT A.V. CHABAN
+2015-12-01T00:00:00-5:00
+--- des_facet --- 3
+Historic Buildings and Sites
+Area Planning and Renewal
+Parks and Other Recreation Areas
+--- org_facet --- 1
+Parks and Recreation Department (NYC)
+--- per_facet --- 1
+Olmsted, Frederick Law
+--- geo_facet --- 2
+Staten Island (NYC)
+New York City
+---------- 23 ----------
+Technology
+
+Airbnb Releases Trove of New York City Home-Sharing Data
+The company’s data includes statistics like host earnings, the frequency of rentals and the types of listings.
+http://www.nytimes.com/2015/12/02/technology/airbnb-releases-trove-of-new-york-city-home-sharing-data.html
+MIKE ISAAC
+2015-12-02T00:00:00-5:00
+--- des_facet --- 3
+Renting and Leasing (Real Estate)
+Hotels and Travel Lodgings
+Regulation and Deregulation of Industry
+--- org_facet --- 1
+Airbnb
+--- per_facet --- 0
+--- geo_facet --- 1
+New York City
+---------- 24 ----------
+Real Estate
+
+An Alley Entrance for a NoHo Condo
+Great Jones Alley, between Broadway and Lafayette Street, will assume a more rarefied role when it becomes the exclusive entrance for a 12-story condominium.
+http://www.nytimes.com/2015/11/29/realestate/an-alley-entrance-for-a-noho-condo.html
+RONDA KAYSEN
+2015-11-29T00:00:00-5:00
+--- des_facet --- 2
+Real Estate and Housing (Residential)
+Condominiums
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+NoHo (Manhattan, NY)
+---------- 25 ----------
+Magazine
+
+At Home With the Wildlife of Industrial Chicago
+The designer Dana Arnett has created an urban oasis for his family and the neighborhood fauna.
+http://www.nytimes.com/2015/11/29/magazine/at-home-with-the-wildlife-of-industrial-chicago.html
+JEN RENZI and LUISE STAUSS
+2015-11-29T00:00:00-5:00
+--- des_facet --- 2
+Architecture
+Interior Design and Furnishings
+--- org_facet --- 0
+--- per_facet --- 1
+Arnett, Dana E (1960- )
+--- geo_facet --- 1
+Chicago (Ill)
+---------- 26 ----------
+Real Estate
+
+In Murray Hill, the ‘Aha!’ Apartment
+Emily Beals, a nursing student, wanted a studio apartment in Manhattan.
+http://www.nytimes.com/2015/11/29/realestate/in-murray-hill-the-aha-apartment.html
+JOYCE COHEN
+2015-11-29T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Murray Hill (Manhattan, NY)
+---------- 27 ----------
+Business Day
+International Business
+Chinese Cash Floods U.S. Real Estate Market
+Some of the Chinese money pouring into the global economy has gone into residential property, in major American cities and places like Corinth, Tex.
+http://www.nytimes.com/2015/11/29/business/international/chinese-cash-floods-us-real-estate-market.html
+DIONNE SEARCEY and KEITH BRADSHER
+2015-11-29T00:00:00-5:00
+--- des_facet --- 3
+Real Estate and Housing (Residential)
+Economic Conditions and Trends
+Foreign Investments
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+China
+Texas
+---------- 28 ----------
+Real Estate
+
+HUD Homes at Half Price
+A little-known program allows police officers, teachers, firefighters and emergency medical technicians to buy certain homes for half price. But financing comes with some strings attached.
+http://www.nytimes.com/2015/11/29/realestate/hud-homes-at-half-price.html
+LISA PREVOST
+2015-11-29T00:00:00-5:00
+--- des_facet --- 3
+Mortgages
+Real Estate and Housing (Residential)
+Area Planning and Renewal
+--- org_facet --- 1
+Housing and Urban Development Department
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 29 ----------
+Real Estate
+
+Homes for Sale in Brooklyn and Manhattan
+This week’s properties are in the East Village; in Greenwich Village; and in Park Slope Brooklyn.
+http://www.nytimes.com/2015/11/29/realestate/homes-for-sale-in-park-slope-brooklyn-greenwich-village-and-the-east-village.html
+MICHELLE HIGGINS
+2015-11-29T00:00:00-5:00
+--- des_facet --- 1
+Real Estate and Housing (Residential)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 3
+East Village (Manhattan, NY)
+Greenwich Village (Manhattan, NY)
+Park Slope (Brooklyn, NY)

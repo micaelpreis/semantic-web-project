@@ -1,0 +1,228 @@
+@import url(https://fonts.googleapis.com/css?family=Abel);
+@import url(https://fonts.googleapis.com/css?family=Lora);
+
+/*
+	General
+*/
+body {
+	margin           : 0px;
+	padding          : 0px;
+	background-color : #DDD;
+}
+a {
+	text-decoration: none;
+	color: black;
+	cursor: pointer;
+}
+a:hover {
+	color: #188EB5;
+}
+.row {
+	margin: 10px;
+}
+.forms {
+	display: inline-block;
+	margin: 0px;
+}
+.strong {
+	display: inline-block;
+}
+
+/*
+	HEADER
+*/
+header {
+	top              : 0px;
+	left             : 0px;
+	height           : 65px;
+	padding          : 10px;
+	background-color : #EEE;
+	font-family      : 'Abel', sans-serif;
+	font-size        : 30px;
+}
+.header-right {
+	float : right;
+	line-height: 1;
+}
+.header-center {
+	float: left;
+	line-height: 1.5;
+}
+.header-right form {
+	display: inline-block;
+}
+input {
+	border: 0;
+    padding: 0;
+    margin: 0;
+    background: transparent;
+    font: 13px sans-serif
+}
+.topics {
+	margin-right: 20px;
+	display: inline-block;
+	font-family      : 'Abel', sans-serif;
+	font-size        : 16px;
+	height:10px;
+}
+
+
+/*
+	Separator
+*/
+hr {
+    display: block;
+    margin-top: 0px;
+    margin-bottom: -0.5em;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: inset;
+    border-width: 1px solid black;
+}
+.separator {
+	background-color: #DDD;
+	position: relative;
+	top: 0em;
+	margin-left: 40px;
+	font: 16px sans-serif;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+/*
+	Image
+*/
+.news-img {
+	top                   : 0;
+	left                  : 0;
+	width                 : 100%;
+	height                : 100%;
+}
+.news-img img {
+	width					  					: 100%;
+	height					  				: auto;
+	max-width                 : 100%;
+	max-height                : 100%;
+}
+
+.news-top2 img {
+	max-height                : 300px;
+}
+
+.news-small img {
+	max-height                : 150px;
+	cursor: pointer;
+}
+
+/*
+	Nothing
+*/
+.nothing {
+	width: 800px;
+	margin-left:auto;
+	margin-right: auto;
+	font-family : 'Lora', serif;
+	font-size: 28px;
+	text-align: center;
+}
+.nothing .p {
+	text-align: center;
+}
+
+
+/*
+	Top Article
+*/
+.news-top {
+	height : 50%;
+}
+.news-title-top {
+	margin      : 10px 0px;
+	font-family : 'Lora', serif;
+	font-size   : 28px;
+	line-height : 110%;
+}
+.news-subtitle-top {
+	font-family : 'Lora', serif;
+	font-size   : 14px;
+	line-height : 120%;
+}
+
+
+/*
+	Recommendation
+*/
+.recommendation {
+	height: inherit;
+	margin-top:0px;
+}
+
+/*
+	Articles
+*/
+.news-top2 {
+	height: inherit;
+	margin-top:0px;
+	margin-bottom: 10px;
+}
+.news-title-top2 {
+	margin      : 10px 0px;
+	font-family : 'Lora', serif;
+	font-size   : 20px;
+	line-height : 110%;
+}
+.news-subtitle-top2 {
+	font-family : 'Lora', serif;
+	font-size   : 12px;
+	line-height : 120%;
+}
+
+
+/*
+	Small Articles
+*/
+.news-small {
+	height: inherit;
+	margin-top:0px;
+	margin-bottom:10px;
+}
+.news-title-small {
+	margin      : 10px 0px;
+	font-family : 'Lora', serif;
+	font-size   : 16px;
+	line-height : 110%;
+	cursor: pointer;
+}
+.news-subtitle-small {
+	font-family : 'Lora', serif;
+	font-size   : 11px;
+	line-height : 120%;
+}
+.slider {
+	overflow-y: hidden;
+	transition-property: all;
+	transition-duration: .5s;
+	transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+}
+.slider.closed {
+	max-height: 0;
+}
+
+
+/*
+	Section
+*/
+.news-section {
+	margin      : 10px 0px;
+	font-family : 'Lora', serif;
+	font-size   : 12px;
+	line-height : 120%;
+	height: 15px;
+}
+.news-section-small {
+	margin      : 10px 0px;
+	font-family : 'Lora', serif;
+	font-size   : 11px;
+	line-height : 120%;
+}

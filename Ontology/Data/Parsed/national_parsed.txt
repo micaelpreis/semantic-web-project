@@ -1,0 +1,546 @@
+30
+
+---------- 0 ----------
+U.S.
+
+San Bernardino Suspects Spoke of Earlier Attack, F.B.I. Says
+The F.B.I. director, James B. Comey, said Syed Rizwan Farook and Tashfeen Malik had talked of jihad and martyrdom before they started courting online.
+http://www.nytimes.com/2015/12/10/us/san-bernardino-massacre-fbi.html
+MICHAEL S. SCHMIDT and SALMAN MASOOD
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Muslims and Islam
+Terrorism
+San Bernardino, Calif, Shooting (2015)
+--- org_facet --- 3
+Federal Bureau of Investigation
+Homeland Security Department
+Islamic State in Iraq and Syria (ISIS)
+--- per_facet --- 1
+Comey, James B
+--- geo_facet --- 0
+---------- 1 ----------
+U.S.
+
+Enrique Marquez, Buyer of Guns Used in San Bernardino Attack, Is Studied
+Mr. Marquez, who bought the assault rifles used in the rampage, was a neighbor of one of the attackers. Officials hope he holds clues about their thinking.
+http://www.nytimes.com/2015/12/09/us/enrique-marquez-buyer-of-guns-used-in-san-bernardino-attack-is-studied.html
+RICK ROJAS and IAN LOVETT
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+San Bernardino, Calif, Shooting (2015)
+Firearms
+Terrorism
+--- org_facet --- 1
+Federal Bureau of Investigation
+--- per_facet --- 3
+Marquez, Enrique (1991- )
+Malik, Tashfeen
+Farook, Syed Rizwan
+--- geo_facet --- 0
+---------- 2 ----------
+U.S.
+
+Killers Were Long Radicalized, F.B.I. Investigators Say
+The husband and wife had been practicing their aim at a target range in the Los Angeles area days before the massacre in California last week.
+http://www.nytimes.com/2015/12/08/us/fbi-says-san-bernardino-assailants-were-radicalized.html
+ADAM NAGOURNEY, SALMAN MASOOD and MICHAEL S. SCHMIDT
+2015-12-08T00:00:00-5:00
+--- des_facet --- 2
+San Bernardino, Calif, Shooting (2015)
+Terrorism
+--- org_facet --- 1
+Federal Bureau of Investigation
+--- per_facet --- 2
+Farook, Syed Rizwan
+Malik, Tashfeen
+--- geo_facet --- 1
+San Bernardino (Calif)
+---------- 3 ----------
+U.S.
+
+Colorado Shooting Suspect Declares ‘I’m Guilty’ in Court
+Robert L. Dear Jr., who was accused of 179 counts in court on Wednesday, disrupted the proceeding, at one point yelling, “I’m a warrior for the babies.”
+http://www.nytimes.com/2015/12/10/us/colorado-planned-parenthood-shooting.html
+RICHARD FAUSSET
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Murders, Attempted Murders and Homicides
+--- org_facet --- 1
+Planned Parenthood Federation of America
+--- per_facet --- 1
+Dear, Robert L Jr (1958- )
+--- geo_facet --- 1
+Colorado
+---------- 4 ----------
+U.S.
+
+Officer Takes Stand in Freddie Gray Case
+The testimony of Officer William G. Porter, on trial for manslaughter in Baltimore, followed that of a forensic pathologist who testified that Mr. Gray’s death was an accident, not a homicide.
+http://www.nytimes.com/2015/12/10/us/freddie-gray-trial-baltimore.html
+SHERYL GAY STOLBERG and JESS BIDGOOD
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Police Brutality, Misconduct and Shootings
+--- org_facet --- 0
+--- per_facet --- 2
+Porter, William G (1989- )
+Gray, Freddie (1989-2015)
+--- geo_facet --- 1
+Baltimore (Md)
+---------- 5 ----------
+U.S.
+
+Defense to Begin Case for Officer Accused in Freddie Gray’s Death
+The prosecution’s final witness testified that Officer William G. Porter had a “shared responsibility” with other officers to summon medical help.
+http://www.nytimes.com/2015/12/09/us/prosecutors-rest-case-against-officer-in-trial-over-freddie-grays-death.html
+SHERYL GAY STOLBERG
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Police Brutality, Misconduct and Shootings
+--- org_facet --- 0
+--- per_facet --- 3
+Gray, Freddie (1989-2015)
+Porter, William G (1989- )
+Gray, Freddie
+--- geo_facet --- 1
+Baltimore (Md)
+---------- 6 ----------
+U.S.
+
+New Chicago Police Video Prompts Rebuke From Mayor Rahm Emanuel
+Footage showed a 38-year-old black man being shocked by a Taser and dragged down a jail hallway by officers in 2012. The man, Philip Coleman, later died.
+http://www.nytimes.com/2015/12/09/us/philip-coleman-chicago-police-taser-video.html
+MITCH SMITH
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Police Brutality, Misconduct and Shootings
+--- org_facet --- 1
+Police Department (Chicago, Ill)
+--- per_facet --- 3
+Coleman, Philip (d 2012)
+Emanuel, Rahm
+Coleman, Philip
+--- geo_facet --- 1
+Chicago (Ill)
+---------- 7 ----------
+U.S.
+
+Police Chiefs Say Scrutiny Over Videos Has Radically Changed Their Work
+Some chiefs say that the public examination of fatal police shootings has made their jobs more difficult, far more political and much less secure.
+http://www.nytimes.com/2015/12/09/us/police-chiefs-say-scrutiny-over-videos-has-radically-changed-their-work.html
+TIMOTHY WILLIAMS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Video Recordings, Downloads and Streaming
+Police Brutality, Misconduct and Shootings
+Demonstrations, Protests and Riots
+Racial Profiling
+--- org_facet --- 0
+--- per_facet --- 3
+Batts, Anthony W (1960- )
+McCarthy, Garry F
+Ramsey, Charles H
+--- geo_facet --- 2
+Chicago (Ill)
+Baltimore (Md)
+---------- 8 ----------
+U.S.
+
+Vincent Gray, Former Washington Mayor, Won’t Be Charged in Federal Inquiry
+The investigation into the Democrat’s 2010 campaign prompted a dozen people to plead guilty.
+http://www.nytimes.com/2015/12/10/us/vincent-gray-former-washington-mayor-wont-be-charged-in-federal-inquiry.html
+ALAN BLINDER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Elections, Mayors
+Corruption (Institutional)
+--- org_facet --- 0
+--- per_facet --- 1
+Gray, Vincent C
+--- geo_facet --- 1
+Washington (DC)
+---------- 9 ----------
+U.S.
+
+Rainstorms Batter the Pacific Northwest
+A woman was killed by a toppled tree as heavy rains caused flooding, landslides and power outages in Oregon and Washington.
+http://www.nytimes.com/2015/12/10/us/rainstorms-batter-the-pacific-northwest.html
+MIKE McPHATE
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Rain
+Floods
+Landslides and Mudslides
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Pacific Northwestern States (US)
+---------- 10 ----------
+U.S.
+
+2 Afghan Trainees at Georgia Air Base Are Missing
+Moody Air Force Base said federal, state and local agencies are looking for the Afghan men, adding the two do not pose any ‘apparent threat.’
+http://www.nytimes.com/2015/12/10/us/2-afghan-trainees-at-georgia-air-base-are-missing.html
+CHRISTINE HAUSER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Military Bases and Installations
+--- org_facet --- 2
+United States Air Force
+Afghan Air Force
+--- per_facet --- 0
+--- geo_facet --- 1
+Valdosta (Ga)
+---------- 11 ----------
+U.S.
+
+Americans Who Don&#8217;t Buy Health Coverage Face Heftier Fine in &#8217;16, Analysis Finds
+Americans who remain uninsured in 2016 despite having the option of buying health coverage through an Affordable Care Act marketplace will owe an average tax penalty of $969 per household.
+http://www.nytimes.com/2015/12/09/us/americans-who-dont-buy-health-coverage-face-heftier-fine-in-16-analysis-finds.html
+ABBY GOODNOUGH
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Patient Protection and Affordable Care Act (2010)
+Health Insurance and Managed Care
+Fines (Penalties)
+--- org_facet --- 3
+Kaiser Family Foundation
+Internal Revenue Service
+Health and Human Services Department
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 12 ----------
+U.S.
+
+Robert E. Macdonald Wins 3rd Term as Mayor of Lewiston, Maine
+The race was a classic clash between generations and ideologies, and Ben Chin, an activist with a liberal alliance, substantially outspent the incumbent, Robert E. Macdonald.
+http://www.nytimes.com/2015/12/09/us/robert-e-macdonaldwins-3rd-term-as-mayor-of-lewiston-maine.html
+KATHARINE Q. SEELYE
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Elections, Mayors
+--- org_facet --- 1
+Republican Party
+--- per_facet --- 2
+Chin, Ben
+Macdonald,  Robert E
+--- geo_facet --- 1
+Lewiston (Me)
+---------- 13 ----------
+U.S.
+
+Anxiety Grows in Texas With Syrians Due to Arrive Soon
+The expected arrival of 21 of the refugees in the state this week has intensified concerns and fears about accepting Syrians in the wake of the Paris attacks last month.
+http://www.nytimes.com/2015/12/09/us/anxiety-grows-in-texas-with-syrians-due-to-arrive-soon.html
+MANNY FERNANDEZ and JULIA PRESTON
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Refugees and Displaced Persons
+States (US)
+Immigration and Emigration
+Governors (US)
+--- org_facet --- 0
+--- per_facet --- 1
+Abbott, Gregory W (1957- )
+--- geo_facet --- 2
+Texas
+Syria
+---------- 14 ----------
+U.S.
+
+Americans Attracted to ISIS Find an ‘Echo Chamber’ on Social Media
+As the White House takes on the challenge of the Islamic State, it is focusing on the online community of sympathizers in the United States, who number in the hundreds and fit no single profile.
+http://www.nytimes.com/2015/12/09/us/americans-attracted-to-isis-find-an-echo-chamber-on-social-media.html
+SCOTT SHANE, MATT APUZZO and ERIC SCHMITT
+2015-12-09T00:00:00-5:00
+--- des_facet --- 6
+Social Media
+Series
+Terrorism
+Muslims and Islam
+San Bernardino, Calif, Shooting (2015)
+State of Terror (Series)
+--- org_facet --- 2
+Islamic State in Iraq and Syria (ISIS)
+Federal Bureau of Investigation
+--- per_facet --- 0
+--- geo_facet --- 1
+United States
+---------- 15 ----------
+U.S.
+
+Tibor Rubin Is Dead at 86; Medal of Honor Was Delayed by Anti-Semitism
+Corporal Rubin was a Hungarian-born American hero, who joined the United States Army to thank the nation and the troops that rescued him from a Nazi concentration camp.
+http://www.nytimes.com/2015/12/09/us/tibor-rubin-is-dead-at-86-award-of-medal-of-honor-was-delayed-by-anti-semitism.html
+BRUCE WEBER
+2015-12-09T00:00:00-5:00
+--- des_facet --- 5
+Deaths (Obituaries)
+Medal of Honor (US)
+Korean War
+Holocaust and the Nazi Era
+Anti-Semitism
+--- org_facet --- 0
+--- per_facet --- 2
+Rubin, Tibor (1929-2015)
+Rubin, Tibor
+--- geo_facet --- 0
+---------- 16 ----------
+U.S.
+
+Yale Lecturer Resigns After Email on Halloween Costumes
+Erika Christakis, who had suggested there could be negative consequences to the university&#8217;s directive to be sensitive when choosing Halloween costumes, resigned from her position voluntarily, the school said.
+http://www.nytimes.com/2015/12/08/us/yale-lecturer-resigns-after-email-on-halloween-costumes.html
+ANEMONA HARTOCOLLIS
+2015-12-08T00:00:00-5:00
+--- des_facet --- 4
+Race and Ethnicity
+Costumes
+Colleges and Universities
+Halloween
+--- org_facet --- 1
+Yale University
+--- per_facet --- 1
+Christakis, Erika
+--- geo_facet --- 0
+---------- 17 ----------
+U.S.
+
+How an Effort to Close Loopholes in California’s Assault Weapons Law Was Thwarted
+Gov. Jerry Brown vetoed a 2013 bill that would have restricted the kind of semiautomatic rifles acquired by Syed Rizwan Farook and Tashfeen Malik, the suspects in the San Bernardino massacre.
+http://www.nytimes.com/2015/12/08/us/loopholes-in-californias-assault-weapons-law.html
+ERIK ECKHOLM
+2015-12-08T00:00:00-5:00
+--- des_facet --- 3
+San Bernardino, Calif, Shooting (2015)
+Gun Control
+Law and Legislation
+--- org_facet --- 1
+National Rifle Assn
+--- per_facet --- 2
+Farook, Syed Rizwan
+Malik, Tashfeen
+--- geo_facet --- 1
+California
+---------- 18 ----------
+U.S.
+
+U.S. to Open Shelters for New Surge of Youths Crossing Southwest Border
+The federal government is moving to open two shelters in Texas and one in California this month, adding at least 1,400 beds to handle the increased flow, senior Obama administration officials said.
+http://www.nytimes.com/2015/12/08/us/us-to-open-shelters-for-new-surge-of-youths-crossing-southwest-border.html
+JULIA PRESTON
+2015-12-08T00:00:00-5:00
+--- des_facet --- 5
+Illegal Immigration
+Children and Childhood
+Youth
+Immigration and Emigration
+Economic Conditions and Trends
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 9
+Central America
+California
+Texas
+Southwestern States (US)
+El Salvador
+Guatemala
+Honduras
+Mexico
+United States
+---------- 19 ----------
+U.S.
+
+Zombie-Themed Nativity Scene Causes a Stir in Ohio
+A Cincinnati couple could face a $500 a day fine over a zombie nativity scene that has angered religious groups.
+http://www.nytimes.com/2015/12/08/us/zombie-nativity-scene-cincinnati.html
+KATIE ROGERS
+2015-12-08T00:00:00-5:00
+--- des_facet --- 2
+Christmas
+Zoning
+--- org_facet --- 0
+--- per_facet --- 2
+Jesus Christ
+Mary, Mother of Jesus
+--- geo_facet --- 1
+Cincinnati (Ohio)
+---------- 20 ----------
+U.S.
+
+San Bernardino County Offices Reopen After Shooting
+The Division of Environmental Health Services, whose members were at the Inland Regional Center when the shooting took place, will be closed for at least another week.
+http://www.nytimes.com/2015/12/08/us/san-bernardino-shooting.html
+RICK ROJAS and ADAM NAGOURNEY
+2015-12-08T00:00:00-5:00
+--- des_facet --- 2
+San Bernardino, Calif, Shooting (2015)
+Murders, Attempted Murders and Homicides
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+San Bernardino (Calif)
+California
+---------- 21 ----------
+U.S.
+
+Prompt Medical Care May Have Saved Freddie Gray, Experts Testify
+A medical examiner who performed the autopsy on Mr. Gray said his death would not have been ruled a homicide if he had been driven to a hospital when Officer William G. Porter says he suggested so.
+http://www.nytimes.com/2015/12/08/us/medical-examiner-questioned-on-homicide-ruling-in-freddie-grays-death.html
+SHERYL GAY STOLBERG
+2015-12-08T00:00:00-5:00
+--- des_facet --- 2
+Murders, Attempted Murders and Homicides
+Police Brutality, Misconduct and Shootings
+--- org_facet --- 0
+--- per_facet --- 2
+Gray, Freddie (1989-2015)
+Porter, William G (1989- )
+--- geo_facet --- 1
+Baltimore (Md)
+---------- 22 ----------
+U.S.
+
+No Charges for Chicago Officer in 2014 Shooting of Ronald Johnson
+The announcement followed several weeks of uproar in Chicago over charges for another officer in a separate shooting death, of Laquan McDonald.
+http://www.nytimes.com/2015/12/08/us/chicago-police-shooting-ronald-johnson.html
+MONICA DAVEY and MITCH SMITH
+2015-12-08T00:00:00-5:00
+--- des_facet --- 3
+Police Brutality, Misconduct and Shootings
+Video Recordings, Downloads and Streaming
+Murders, Attempted Murders and Homicides
+--- org_facet --- 0
+--- per_facet --- 5
+Johnson, Ronald (d 2014)
+McDonald, Laquan (d 2014)
+Hernandez, George (Chicago, Ill, Police Officer)
+Emanuel, Rahm
+Van Dyke, Jason
+--- geo_facet --- 1
+Chicago (Ill)
+---------- 23 ----------
+U.S.
+
+Yale Finds Error in Legal Stylebook: Harvard Did Not Create It
+The Harvard Law Review has long claimed credit for creating The Bluebook, but a new article from two librarians at Yale Law School says the idea originated in New Haven.
+http://www.nytimes.com/2015/12/08/us/politics/yale-finds-error-in-legal-stylebook-harvard-did-not-create-it.html
+ADAM LIPTAK
+2015-12-08T00:00:00-5:00
+--- des_facet --- 3
+Colleges and Universities
+Law Schools
+Research
+--- org_facet --- 3
+Minnesota Law Review (Journal)
+Yale University
+Harvard Law Review (Journal)
+--- per_facet --- 2
+Shapiro, Fred R
+Krishnaswami, Julie Graves
+--- geo_facet --- 0
+---------- 24 ----------
+U.S.
+
+On Twitter, San Bernardino Shooting Divides More Than Unites
+To comb through the online reaction in the first hours after the attacks was to witness the depth and intensity of the divisions in America.
+http://www.nytimes.com/2015/12/08/us/on-twitter-san-bernardino-shooting-divides-more-than-unites.html
+ANAND GIRIDHARADAS
+2015-12-08T00:00:00-5:00
+--- des_facet --- 2
+San Bernardino, Calif, Shooting (2015)
+Social Media
+--- org_facet --- 1
+Twitter
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 25 ----------
+U.S.
+
+Albuquerque, Revising Approach Toward the Homeless, Offers Them Jobs
+As part of an attempt to deal with rising poverty and destitution, a program pays homeless people $9 an hour for a daylong job cleaning up parts of the city.
+http://www.nytimes.com/2015/12/08/us/albuquerque-revising-approach-toward-the-homeless-offers-them-jobs.html
+FERNANDA SANTOS
+2015-12-08T00:00:00-5:00
+--- des_facet --- 4
+Homeless Persons
+Day Laborers
+Labor and Jobs
+Police Brutality, Misconduct and Shootings
+--- org_facet --- 0
+--- per_facet --- 1
+Boyd, James M (1976-2014)
+--- geo_facet --- 1
+Albuquerque (NM)
+---------- 26 ----------
+U.S.
+Politics
+Obama Calls for End to Bigotry, in Implicit Rebuke of Donald Trump
+The president appeared to use the 150th anniversary of the amendment abolishing slavery to challenge the anti-Muslim politics espoused by the Republican candidate.
+http://www.nytimes.com/2015/12/10/us/politics/president-obama-thirteenth-amendment-slavery-bigotry-donald-trump.html
+JULIE HIRSCHFELD DAVIS
+2015-12-10T00:00:00-5:00
+--- des_facet --- 5
+United States Politics and Government
+Constitutional Amendments
+Race and Ethnicity
+Civil Rights and Liberties
+Thirteenth Amendment (US Constitution)
+--- org_facet --- 1
+House of Representatives
+--- per_facet --- 1
+Obama, Barack
+--- geo_facet --- 0
+---------- 27 ----------
+U.S.
+Politics
+Affordable Care Act Plans Get 1 Million New Subscribers
+Brushing aside reports of rising premiums and concerns expressed by insurers, officials said there was widespread desire for coverage under the law.
+http://www.nytimes.com/2015/12/10/us/politics/obamacare-enrollment-rises.html
+ROBERT PEAR
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Patient Protection and Affordable Care Act (2010)
+Health Insurance and Managed Care
+--- org_facet --- 2
+HealthCare.gov
+Centers for Medicare and Medicaid Services
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 28 ----------
+World
+Middle East
+U.S. Attack Helicopters May Join Fight Against ISIS in Iraqi City
+The United States is prepared to deploy the aircraft and advisers to help Iraqi forces in their long-running battle to retake the city of Ramadi.
+http://www.nytimes.com/2015/12/10/world/middleeast/islamic-state-ramadi-fight.html
+HELENE COOPER, MATTHEW ROSENBERG and MICHAEL R. GORDON
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+United States Defense and Military Forces
+--- org_facet --- 3
+Islamic State in Iraq and Syria (ISIS)
+Iraqi Army
+Senate Committee on Armed Services
+--- per_facet --- 1
+Carter, Ashton B
+--- geo_facet --- 1
+Ramadi (Iraq)
+---------- 29 ----------
+The Upshot
+
+You Say You Loathe Ted Cruz? You Still Might Want to Vote for Him
+In a primary, it can be perfectly logical to vote for someone you don’t like, but people generally prefer not to take that risk.
+http://www.nytimes.com/2015/12/10/upshot/you-say-you-loathe-ted-cruz-you-still-might-want-to-vote-for-him.html
+TONI MONKOVIC
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Presidential Election of 2016
+Voting and Voters
+Primaries and Caucuses
+United States Politics and Government
+--- org_facet --- 0
+--- per_facet --- 2
+Cruz, Ted
+Rubio, Marco
+--- geo_facet --- 0

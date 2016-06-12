@@ -1,0 +1,469 @@
+28
+
+---------- 0 ----------
+N.Y. / Region
+
+Defense Lawyers Point Out ‘Holes’ in Case Against Dean Skelos and Son
+Lawyers for the state senator and his son, Adam B. Skelos, hammered away at what they said was the government’s mischaracterization of recorded conversations, emails and testimony.
+http://www.nytimes.com/2015/12/10/nyregion/defense-lawyers-point-out-holes-in-case-against-dean-skelos-and-son.html
+WILLIAM K. RASHBAUM and SUSANNE CRAIG
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Bribery and Kickbacks
+Corruption (Institutional)
+--- org_facet --- 0
+--- per_facet --- 2
+Skelos, Adam B (1982- )
+Skelos, Dean G
+--- geo_facet --- 0
+---------- 1 ----------
+N.Y. / Region
+
+Dean Skelos’s Son Kept a Hand Out, and Never Took ‘No’ for an Answer
+Witnesses at the corruption trial of Mr. Skelos, a New York State senator, and his son Adam have said that the father spared no effort asking for favors for his son.
+http://www.nytimes.com/2015/12/09/nyregion/job-after-job-lined-up-for-dean-skeloss-son-who-kept-his-hand-out.html
+JIM DWYER
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Corruption (Institutional)
+State Legislatures
+--- org_facet --- 1
+Glenwood Management
+--- per_facet --- 2
+Skelos, Dean G
+Skelos, Adam B (1982- )
+--- geo_facet --- 2
+New York State
+Rockville Centre (NY)
+---------- 2 ----------
+N.Y. / Region
+
+Mosque Shows That Muslims Have Long Been a Part of New York
+Evidence is coming to light that Muslims not only lived in a downtown community near the turn of the 20th century, but worshiped there, too.
+http://www.nytimes.com/2015/12/10/nyregion/mosque-shows-that-muslims-have-long-been-a-part-of-new-york.html
+DAVID W. DUNLAP
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Muslim Americans
+Mosques
+Ottoman Empire
+Immigration and Emigration
+--- org_facet --- 1
+New York Sun
+--- per_facet --- 0
+--- geo_facet --- 3
+Manhattan (NYC)
+Syria
+Turkey
+---------- 3 ----------
+N.Y. / Region
+
+Jimmy McMillan, Rent Is Too Damn High Candidate, Is Retiring From Politics
+Mr. McMillan, who ran for governor of New York in 2010 and has also run for mayor, cited a lack of public support and said voters had been “totally brainwashed.”
+http://www.nytimes.com/2015/12/10/nyregion/jimmy-mcmillan-rent-is-too-damn-high-candidate-is-retiring-from-politics.html
+ALEXANDER BURNS
+2015-12-10T00:00:00-5:00
+--- des_facet --- 0
+--- org_facet --- 1
+Rent Is Too Damn High Party
+--- per_facet --- 1
+McMillan, Jimmy
+--- geo_facet --- 2
+New York City
+New York State
+---------- 4 ----------
+N.Y. / Region
+
+James Burke, Ex-Police Chief for Suffolk County, Is Arrested
+A federal indictment says Mr. Burke, who resigned two months ago, faces charges of civil rights violations and obstructing a civil rights investigation.
+http://www.nytimes.com/2015/12/10/nyregion/james-burke-former-suffolk-county-police-chief-is-arrested.html
+SARAH MASLIN NIR and ARIELLE DOLLINGER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Police
+Civil Rights and Liberties
+--- org_facet --- 0
+--- per_facet --- 1
+Burke, James
+--- geo_facet --- 1
+Suffolk County (NY)
+---------- 5 ----------
+N.Y. / Region
+
+2 in New York Police Dept. Are Accused of Taking Bribes From Bar Owners
+A New York City police lieutenant and a detective took bribes from the owners of karaoke bars in Queens and gave warnings of police raids, according to criminal complaints.
+http://www.nytimes.com/2015/12/09/nyregion/2-in-new-york-police-dept-are-accused-of-taking-bribes-from-bar-owners.html
+ASHLEY SOUTHALL
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Bribery and Kickbacks
+Police Brutality, Misconduct and Shootings
+--- org_facet --- 1
+Police Department (NYC)
+--- per_facet --- 2
+Yam, Yatyu
+Sung, Robert
+--- geo_facet --- 1
+Queens (NYC)
+---------- 6 ----------
+N.Y. / Region
+
+Mayor de Blasio Draws Criticism for Plan to Pay for Security in Private Schools
+The New York City Council has passed a bill that will reimburse private and parochial schools for the cost of hiring unarmed guards, at a cost of nearly $20 million.
+http://www.nytimes.com/2015/12/09/nyregion/mayor-de-blasio-draws-criticism-for-plan-to-pay-for-security-in-private-schools.html
+KATE TAYLOR
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Private and Sectarian Schools
+Security and Warning Systems
+Religion-State Relations
+--- org_facet --- 0
+--- per_facet --- 1
+de Blasio, Bill
+--- geo_facet --- 1
+New York City
+---------- 7 ----------
+N.Y. / Region
+
+Judge Acquits Guard in Assault That Maimed New York State Prisoner
+Michael Bukowski, an officer at the Ulster Correctional Facility, had been suspended after the July 2014 attack on Ramon Fabian, an inmate.
+http://www.nytimes.com/2015/12/09/nyregion/judge-acquits-guard-in-assault-that-maimed-new-york-state-prisoner.html
+MICHAEL SCHWIRTZ and MICHAEL WINERIP
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Decisions and Verdicts
+Prison Guards and Corrections Officers
+Assaults
+--- org_facet --- 0
+--- per_facet --- 2
+Bukowski, Michael P
+Fabian, Ramon
+--- geo_facet --- 0
+---------- 8 ----------
+N.Y. / Region
+
+Remembering Lennon, Amid a Debate About Gun Violence
+The commemoration of the musician’s death online was absorbed into one of the political fights of the moment.
+http://www.nytimes.com/2015/12/09/nyregion/john-lennon-death-anniversary-yoko-ono-tweet.html
+MIKE McPHATE
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Murders, Attempted Murders and Homicides
+Gun Control
+--- org_facet --- 0
+--- per_facet --- 2
+Lennon, John
+Ono, Yoko
+--- geo_facet --- 0
+---------- 9 ----------
+N.Y. / Region
+
+New York Court Dismisses Challenge to Nail Salon Wage Protections
+Salon owners objected to a new rule requiring them to buy insurance bonds meant to protect low-paid workers from wage theft.
+http://www.nytimes.com/2015/12/09/nyregion/new-york-court-dismisses-challenge-to-nail-salon-wage-protections.html
+ELIZABETH A. HARRIS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Wages and Salaries
+Beauty Salons
+Nails (Body Part)
+Workplace Hazards and Violations
+--- org_facet --- 0
+--- per_facet --- 1
+Melkonian, Michael H
+--- geo_facet --- 1
+New York State
+---------- 10 ----------
+N.Y. / Region
+
+New York Police Officer Fatally Shoots Unarmed Man After Chase Into Westchester
+The chase, which ended in Miguel Espinal’s death, led to the shutdown of the Saw Mill River Parkway in Yonkers, just north of the Bronx border.
+http://www.nytimes.com/2015/12/09/nyregion/yonkers-police-chase-off-saw-mill.html
+AL BAKER and J. DAVID GOODMAN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Police Brutality, Misconduct and Shootings
+--- org_facet --- 0
+--- per_facet --- 1
+Espinal, Miguel (1979-2015)
+--- geo_facet --- 1
+Westchester County (NY)
+---------- 11 ----------
+N.Y. / Region
+
+Selfies and a Sales Pitch at the Museum of Feelings
+A pop-up installation in Battery Park City in Lower Manhattan is an elaborate, walk-through advertisement for Glade products.
+http://www.nytimes.com/2015/12/09/nyregion/museum-of-feelings.html
+KATIE ROGERS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Museums
+Photography
+Smells and Odors
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Battery Park (Manhattan, NY)
+---------- 12 ----------
+U.S.
+Politics
+Working Families Party Endorses Bernie Sanders for President
+The decision to support Senator Sanders has divided the labor-aligned party’s leaders, some of whom have endorsed Hillary Clinton for the Democratic nomination.
+http://www.nytimes.com/politics/first-draft/2015/12/08/working-families-party-endorses-bernie-sanders-for-president/
+ALEXANDER BURNS and MAGGIE HABERMAN
+2015-12-08T09:52:20-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 13 ----------
+Business Day
+Media
+New York Looks Into &#8216;Speculative&#8217; Ticket Resellers
+The attorney general sent letters to StubHub and other resale sites regarding high-priced listings of concert tickets even before they go on sale.
+http://www.nytimes.com/2015/12/09/business/media/new-york-looks-into-speculative-ticket-resellers.html
+BEN SISARIO
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Ticket Scalping
+Computers and the Internet
+--- org_facet --- 3
+StubHub
+TicketNetwork Inc
+Songkick.com
+--- per_facet --- 3
+Schneiderman, Eric T
+Springsteen, Bruce
+Adele (Singer)
+--- geo_facet --- 0
+---------- 14 ----------
+N.Y. / Region
+
+A Pink Bikini in November
+A man who had thought he had seen everything was astounded at the sight of a woman in a pink bikini riding a scooter on Lexington Avenue.
+http://www.nytimes.com/2015/12/09/nyregion/metropolian-diary-a-pink-bikini-in-november.html
+PAUL OLSON
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Bathing Suits and Swimwear
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Upper East Side (Manhattan, NY)
+---------- 15 ----------
+N.Y. / Region
+
+I Love You (Can I Crash?)
+A romance with a singer that began on Twitter progresses to sex and a request to stay the night.
+http://www.nytimes.com/2015/12/08/nyregion/metropolitan-diary-i-love-you-can-i-crash.html
+ROSE MCALEESE
+2015-12-08T00:00:00-5:00
+--- des_facet --- 1
+Sex
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+New York City
+---------- 16 ----------
+N.Y. / Region
+
+A Dog’s West Side Prey
+A family pet in Central Park dashed off and returned with a locally appropriate baked product.
+http://www.nytimes.com/2015/12/02/nyregion/metropolitan-diary-a-dogs-west-side-prey.html
+CHARI ANHOUSE
+2015-12-02T00:00:00-5:00
+--- des_facet --- 1
+Dogs
+--- org_facet --- 1
+Entenmann's
+--- per_facet --- 0
+--- geo_facet --- 1
+Central Park (Manhattan, NY)
+---------- 17 ----------
+N.Y. / Region
+
+After Losing His Mom, He Finds the Will to Move On
+After his mother died, Lamont Foxhall, who lives with depression and arthritis, recalls his mother’s voice on a recording for strength when he needs it most.
+http://www.nytimes.com/2015/12/09/nyregion/after-losing-his-mom-he-finds-the-will-to-move-on.html
+JOHN CORRALES
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Philanthropy
+--- org_facet --- 2
+New York Times Neediest Cases Fund
+Brooklyn Community Services
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 18 ----------
+N.Y. / Region
+
+A Renowned Dance Couple Keeps Flamenco’s Flame Burning in New York
+From a Manhattan church, Soledad Barrio and Martín Santangelo, of the Noche Flamenca company, share their passion for flamenco with their new hometown.
+http://www.nytimes.com/2015/12/06/nyregion/a-renowned-dance-couple-keeps-flamencos-flame-burning-in-new-york.html
+SUSAN HARTMAN
+2015-12-06T00:00:00-5:00
+--- des_facet --- 2
+Dancing
+Flamenco (Dance)
+--- org_facet --- 2
+Noche Flamenca
+West Park Presbyterian Church
+--- per_facet --- 2
+Barrio, Soledad
+Santangelo, Martin
+--- geo_facet --- 1
+Spain
+---------- 19 ----------
+N.Y. / Region
+
+In Long Island City, Now Arriving in No Man’s Land
+For five nights, a decommissioned rail line in Queens became home to a hidden speakeasy.
+http://www.nytimes.com/2015/12/06/nyregion/now-arriving-in-no-mans-land.html
+ANNIE CORREAL
+2015-12-06T00:00:00-5:00
+--- des_facet --- 2
+Bars and Nightclubs
+Transit Systems
+--- org_facet --- 1
+Metropolitan Transportation Authority
+--- per_facet --- 0
+--- geo_facet --- 1
+Long Island City (Queens, NY)
+---------- 20 ----------
+Arts
+Music
+Review: Handel’s ‘Messiah,’ With Heightened Drama
+Gary Thor Wedow has taken over the “Messiah” performances at at St. Thomas Church Fifth Avenue, presenting a war horse of a different, brighter color.
+http://www.nytimes.com/2015/12/10/arts/music/review-handels-messiah-with-heightened-drama.html
+JAMES R. OESTREICH
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Music
+Classical Music
+--- org_facet --- 1
+St Thomas Choir of Men and Boys (Manhattan, NY)
+--- per_facet --- 1
+Handel, George Frederick
+--- geo_facet --- 0
+---------- 21 ----------
+Fashion & Style
+
+SantaCon Fights for the Right to Party, Responsibly
+Supporters of the popular holiday bar crawl are fighting for the right to party.
+http://www.nytimes.com/2015/12/10/fashion/santacon-2015-fights-for-the-right-to-party.html
+ KATIE VAN SYCKLE
+2015-12-10T00:00:00-5:00
+--- des_facet --- 5
+SantaCon (Festival)
+Bars and Nightclubs
+Christmas
+Parties (Social)
+Parades
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Manhattan (NYC)
+---------- 22 ----------
+Fashion & Style
+
+At Muji, Design Intelligence Meets Dried Squid
+Enigma is part of the allure at its giant new flagship on Fifth Avenue. You may even find something you “need.”
+http://www.nytimes.com/2015/12/10/fashion/muji-flagship-fifth-avenue.html
+MOLLY YOUNG
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Shopping and Retail
+Fashion and Apparel
+--- org_facet --- 1
+Muji (Retail Store)
+--- per_facet --- 0
+--- geo_facet --- 1
+Fifth Avenue (Manhattan, NY)
+---------- 23 ----------
+Arts
+Music
+Review: In ‘Goldberg,’ Marina Abramovic and Igor Levit Blend Classical Music and Performance Art
+Ms. Abramovic, a performance artist, and Mr. Levit, a pianist, are presenting an unusual version of Bach’s “Goldberg” Variations at the Park Avenue Armory.
+http://www.nytimes.com/2015/12/09/arts/music/review-in-goldberg-marina-abramovic-and-igor-levit-blend-classical-music-and-performance-art.html
+ZACHARY WOOLFE
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Music
+Art
+Classical Music
+--- org_facet --- 1
+Park Avenue Armory (Manhattan, NY)
+--- per_facet --- 3
+Bach, Johann Sebastian
+Abramovic, Marina
+Levit, Igor
+--- geo_facet --- 0
+---------- 24 ----------
+N.Y. / Region
+
+Things to Do in the Hudson Valley, Nov. 27 to Dec. 6, 2015
+A guide to cultural and recreational events in the Hudson Valley.
+http://www.nytimes.com/2015/11/29/nyregion/things-to-do-in-the-hudson-valley-nov-27-to-dec-6-2015.html
+
+2015-11-29T00:00:00-5:00
+--- des_facet --- 5
+Culture (Arts)
+Art
+Music
+Theater
+Museums
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Westchester County (NY)
+---------- 25 ----------
+N.Y. / Region
+
+Things to Do on Long Island, Nov. 27 to Dec. 6, 2015
+A guide to cultural and recreational events on Long Island.
+http://www.nytimes.com/2015/11/29/nyregion/things-to-do-on-long-island-nov-27-to-dec-4-2015.html
+
+2015-11-29T00:00:00-5:00
+--- des_facet --- 3
+Art
+Music
+Theater
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Long Island (NY)
+---------- 26 ----------
+N.Y. / Region
+
+Things to Do in Connecticut, Nov. 27 to Dec. 6, 2015
+A guide to cultural and recreational events in Connecticut.
+http://www.nytimes.com/2015/11/29/nyregion/things-to-do-in-connecticut-nov-27-to-dec-6-2015.html
+
+2015-11-29T00:00:00-5:00
+--- des_facet --- 5
+Art
+Culture (Arts)
+Theater
+Music
+Museums
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Connecticut
+---------- 27 ----------
+N.Y. / Region
+
+Things to Do in New Jersey, Nov. 27 to Dec. 6, 2015
+A guide to cultural and recreational events in New Jersey.
+http://www.nytimes.com/2015/11/29/nyregion/things-to-do-in-new-jersey-nov-27-to-dec-6-2015.html
+
+2015-11-29T00:00:00-5:00
+--- des_facet --- 4
+Culture (Arts)
+Theater
+Music
+Dancing
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+New Jersey

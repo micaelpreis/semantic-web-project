@@ -1,0 +1,537 @@
+30
+
+---------- 0 ----------
+World
+Asia Pacific
+Indians, Hit Hard by Climate Change, Closely Watch Paris Talks
+Despite a range of environmental crises and health hazards, raising a vast population out of poverty remains a higher national priority in India than global warming.
+http://www.nytimes.com/2015/12/10/world/asia/india-climate-change-global-warming.html
+ELLEN BARRY
+2015-12-10T00:00:00-5:00
+--- des_facet --- 7
+Greenhouse Gas Emissions
+United Nations Framework Convention on Climate Change
+Air Pollution
+Global Warming
+Weather
+Agriculture and Farming
+Fish and Other Marine Life
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+India
+---------- 1 ----------
+World
+Asia Pacific
+In Beijing, a Day Off School for Smog Is No Fun for Anyone
+Millions of families grappled with the unexpected closing of schools across China’s capital, which left parents searching for day care options and students facing additional homework.
+http://www.nytimes.com/2015/12/10/world/asia/in-beijing-a-day-off-school-for-smog-is-no-fun-for-anyone.html
+JAVIER C. HERNÁNDEZ
+2015-12-10T00:00:00-5:00
+--- des_facet --- 6
+Air Pollution
+Shutdowns (Institutional)
+Education (K-12)
+Children and Childhood
+Hazardous and Toxic Substances
+Tutors and Tutoring
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Beijing (China)
+---------- 2 ----------
+World
+Europe
+Thousands of Migrants Stranded in Greece as Route North Is Narrowed
+For the past several weeks only Syrians, Iraqis and Afghans have been allowed into Macedonia, leaving them in a country struggling to manage.
+http://www.nytimes.com/2015/12/10/world/europe/greece-macedonia-migrants-refugees.html
+SUZANNE DALEY
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Middle East and Africa Migrant Crisis
+--- org_facet --- 2
+Doctors Without Borders
+International Organization for Migration
+--- per_facet --- 0
+--- geo_facet --- 1
+Athens (Greece)
+---------- 3 ----------
+World
+Europe
+German Woman Denies Role in Murders in Neo-Nazi Case
+Beate Zschäpe, in a statement to a Munich court, rejected charges she had been part of an underground cell that killed nine immigrants and a policewoman from 2000 to 2007.
+http://www.nytimes.com/2015/12/10/world/europe/germany-neonazi-racist-murders.html
+ALISON SMALE
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Murders, Attempted Murders and Homicides
+Neo Nazi Groups
+--- org_facet --- 1
+National Socialist Underground (Germany)
+--- per_facet --- 0
+--- geo_facet --- 1
+Germany
+---------- 4 ----------
+World
+Middle East
+Israel Holds 5 Palestinian Citizens Suspected of Supporting ISIS
+Israeli officials said the suspects, from northern Israel, had acquired rifles and practiced shooting in a forest.
+http://www.nytimes.com/2015/12/10/world/middleeast/israel-palestinians-islamic-state.html
+ISABEL KERSHNER and DIAA HADID
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Palestinians
+--- org_facet --- 1
+Islamic State in Iraq and Syria (ISIS)
+--- per_facet --- 0
+--- geo_facet --- 1
+Israel
+---------- 5 ----------
+World
+Middle East
+U.S. Attack Helicopters May Join Fight Against ISIS in Iraqi City
+The United States is prepared to deploy the aircraft and advisers to help Iraqi forces in their long-running battle to retake the city of Ramadi.
+http://www.nytimes.com/2015/12/10/world/middleeast/islamic-state-ramadi-fight.html
+HELENE COOPER, MATTHEW ROSENBERG and MICHAEL R. GORDON
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+United States Defense and Military Forces
+--- org_facet --- 3
+Islamic State in Iraq and Syria (ISIS)
+Iraqi Army
+Senate Committee on Armed Services
+--- per_facet --- 1
+Carter, Ashton B
+--- geo_facet --- 1
+Ramadi (Iraq)
+---------- 6 ----------
+World
+Africa
+They Helped Erase Ebola in Liberia. Now Liberia Is Erasing Them.
+Thirty young men spent months burning the bodies of the infected. A year later, many relatives and fellow countrymen still can’t forgive them.
+http://www.nytimes.com/2015/12/10/world/africa/they-helped-erase-ebola-in-liberia-now-liberia-is-erasing-them.html
+HELENE COOPER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Ebola Virus
+Funerals and Memorials
+Epidemics
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+Liberia
+Africa
+---------- 7 ----------
+World
+Asia Pacific
+Chinese Justice System Relies on Torture, U.N. Panel Says
+The United Nations Committee Against Torture said that while there has been some progress in China, there is still a long way to go toward overhauling the system.
+http://www.nytimes.com/2015/12/10/world/asia/chinese-justice-system-relies-on-torture-un-panel-says.html
+NICK CUMMING-BRUCE
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Torture
+Human Rights and Human Rights Violations
+--- org_facet --- 1
+United Nations Committee Against Torture
+--- per_facet --- 0
+--- geo_facet --- 1
+China
+---------- 8 ----------
+World
+Asia Pacific
+Thomas Piketty to India’s Elite: ‘Learn From History’
+On a visit to Mumbai, the economist and author hopes India’s elite can “learn from the stupid mistakes of the other elites.”
+http://www.nytimes.com/2015/12/10/world/asia/thomas-piketty-inequality-india-mumbai.html
+MANU JOSEPH
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Income Inequality
+Capital in the Twenty-First Century (Book)
+Economics (Theory and Philosophy)
+Socialism (Theory and Philosophy)
+--- org_facet --- 0
+--- per_facet --- 1
+Piketty, Thomas
+--- geo_facet --- 1
+Mumbai (India)
+---------- 9 ----------
+World
+Middle East
+Hundreds Evacuated From Rebel Foothold in Homs Under Cease-Fire
+Hundreds of people were evacuated from the last rebel-held pocket of the central Syrian city devastated by years of fighting and blockades.
+http://www.nytimes.com/2015/12/10/world/middleeast/syria-rebels-homs.html
+ANNE BARNARD and HWAIDA SAAD
+2015-12-10T00:00:00-5:00
+--- des_facet --- 0
+--- org_facet --- 2
+Free Syrian Army
+Al Nusra Front
+--- per_facet --- 1
+Assad, Bashar al-
+--- geo_facet --- 2
+Homs (Syria)
+Syria
+---------- 10 ----------
+World
+Europe
+British Petition to Keep Donald Trump Out of Country
+Angered by the candidate’s comments about Muslims, more than 100,000 people have signed the petition to bar him from Britain on hate-speech grounds.
+http://www.nytimes.com/2015/12/10/world/europe/donald-trump-muslims-british-petition.html
+DAN BILEFSKY
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Muslims and Islam
+Presidential Election of 2016
+--- org_facet --- 0
+--- per_facet --- 1
+Trump, Donald J
+--- geo_facet --- 1
+Great Britain
+---------- 11 ----------
+World
+Europe
+At Least 9,115 Killed in Ukraine Conflict, U.N. Says
+The pace of the killing has slowed sharply since a cease-fire in August, the monitors said, with only 47 civilians killed and 131 injured in the three months ending in mid-November.
+http://www.nytimes.com/2015/12/10/world/europe/ukraine-conflict-toll.html
+NICK CUMMING-BRUCE
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Human Rights and Human Rights Violations
+Mines, Explosive
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+Donetsk (Ukraine)
+Luhansk (Ukraine)
+---------- 12 ----------
+Business Day
+International Business
+Afghanistan Hopes W.T.O. Membership Can Reboot Its Battered Economy
+Optimists view the trade body’s seal of approval as a potential lift for the war-ravaged country whose chief export is opium and main “import” is international aid.
+http://www.nytimes.com/2015/12/10/business/international/afghanistan-wto-membership.html
+DAVID JOLLY
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Third World and Developing Countries
+International Trade and World Market
+--- org_facet --- 1
+World Trade Organization
+--- per_facet --- 0
+--- geo_facet --- 2
+Afghanistan
+Liberia
+---------- 13 ----------
+World
+Europe
+Climate Negotiators Face Hurdles on Key Issues as Deadline Looms
+Lead negotiators said they were confident that a deal could still be reached, but observers said the compromises necessary to do so could weaken the deal so much as to make it nearly toothless.
+http://www.nytimes.com/2015/12/10/world/europe/paris-climate-conference.html
+CORAL DAVENPORT
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+United Nations Framework Convention on Climate Change
+Global Warming
+--- org_facet --- 2
+United States Agency for International Development
+United Nations
+--- per_facet --- 1
+Kerry, John
+--- geo_facet --- 0
+---------- 14 ----------
+World
+Asia Pacific
+Thai Police Investigate U.S. Ambassador on Suspicion of Insulting King
+The police said that the ambassador, Glyn T. Davies, had diplomatic immunity, but that they were obliged by law to investigate the complaint.
+http://www.nytimes.com/2015/12/10/world/asia/thailand-lese-majeste.html
+THOMAS FULLER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 5
+United States International Relations
+Defense and Military Forces
+Diplomatic Service, Embassies and Consulates
+Royal Families
+Libel and Slander
+--- org_facet --- 0
+--- per_facet --- 2
+Davies, Glyn T.
+Bhumibol Adulyadej
+--- geo_facet --- 0
+---------- 15 ----------
+World
+Asia Pacific
+Chinese-Language Readers Speak Out on the Emissions Challenge
+Asked to comment on pollution and climate change, readers criticized the failure to curb smog but also said that China was being unfairly targeted.
+http://www.nytimes.com/2015/12/10/world/asia/china-climate-change-smog-pollution.html
+SHAOJIE HUANG
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Air Pollution
+Greenhouse Gas Emissions
+Paris Climate Change Conference 2015
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+China
+---------- 16 ----------
+World
+Asia Pacific
+Afghan President Receives Unexpected Welcome in Pakistan
+The size of the greeting party for Ashraf Ghani’s visit was unusual for the leader of a country that has been in a war of words, if not more, for years.
+http://www.nytimes.com/2015/12/10/world/asia/afghanistan-pakistan-ashraf-ghani-visit.html
+ROD NORDLAND and MUJIB MASHAL
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+United States International Relations
+--- org_facet --- 1
+Afghan National Police
+--- per_facet --- 2
+Omar, Muhammad (Taliban Leader)
+Ghani, Ashraf
+--- geo_facet --- 1
+Islamabad (Pakistan)
+---------- 17 ----------
+World
+Asia Pacific
+Afghan Forces End 24-Hour Gun Battle With Taliban at Kandahar Base
+At least 37 people were killed, including children and civilian hostages, in a long siege at a commercial strip in the base’s outer ring.
+http://www.nytimes.com/2015/12/10/world/asia/afghanistan-kandahar-suicide-bombers.html
+TAIMOOR SHAH and MUJIB MASHAL
+2015-12-10T00:00:00-5:00
+--- des_facet --- 0
+--- org_facet --- 2
+Taliban
+Afghan National Security Forces
+--- per_facet --- 0
+--- geo_facet --- 1
+Kandahar (Afghanistan)
+---------- 18 ----------
+World
+Europe
+France Identifies 3rd Attacker at Bataclan Concert Hall
+The assailant is said to have been a 23-year-old from the Strasbourg area in northeastern France who left for Syria with a group of would-be jihadists in late 2013.
+http://www.nytimes.com/2015/12/10/world/europe/bataclan-paris-attacks.html
+ADAM NOSSITER, ALISSA J. RUBIN and AURELIEN BREEDEN
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Terrorism
+--- org_facet --- 2
+Bataclan (Paris, France)
+Islamic State in Iraq and Syria (ISIS)
+--- per_facet --- 2
+Mostefai, Ismael Omar
+Valls, Manuel
+--- geo_facet --- 1
+Paris (France)
+---------- 19 ----------
+World
+Asia Pacific
+As Beijing Shuts Down Over Smog Alert, Worse-Off Neighbors Carry On
+The patchwork emergency response in northern China pointed to a major shortcoming of efforts by officials to battle air pollution and protect residents.
+http://www.nytimes.com/2015/12/10/world/asia/beijing-air-pollution-red-alert.html
+EDWARD WONG
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Environment
+Air Pollution
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 3
+Beijing (China)
+Hebei Province (China)
+Henan Province (China)
+---------- 20 ----------
+World
+Asia Pacific
+Myanmar Political Shift Revives Debate on Sanctions
+The success of the Nov. 8 election, a crucial step in the transition to democracy, has inspired new discussion on the effectiveness of American sanctions and whether to lift those that remain.
+http://www.nytimes.com/2015/12/09/world/asia/myanmar-sanctions.html
+AUSTIN RAMZY
+2015-12-09T00:00:00-5:00
+--- des_facet --- 6
+Embargoes and Sanctions
+United States International Relations
+Elections
+Democracy (Theory and Philosophy)
+Human Rights and Human Rights Violations
+Defense and Military Forces
+--- org_facet --- 0
+--- per_facet --- 1
+Aung San Suu Kyi
+--- geo_facet --- 1
+Myanmar
+---------- 21 ----------
+World
+Australia
+Australian Police Raid Home of Man Said to Be Likely Creator of Bitcoin
+The police said the raid was for a tax investigation, and a spokesman denied any connection to the Bitcoin reports.
+http://www.nytimes.com/2015/12/10/world/australia/sydney-bitcoin-raid.html
+MICHELLE INNIS and AUSTIN RAMZY
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Bitcoin (Currency)
+Computers and the Internet
+--- org_facet --- 2
+Wired
+Gizmodo
+--- per_facet --- 2
+Wright, Craig Steven
+Nakamoto, Dorian Satoshi
+--- geo_facet --- 1
+Australia
+---------- 22 ----------
+U.S.
+
+Americans Attracted to ISIS Find an ‘Echo Chamber’ on Social Media
+As the White House takes on the challenge of the Islamic State, it is focusing on the online community of sympathizers in the United States, who number in the hundreds and fit no single profile.
+http://www.nytimes.com/2015/12/09/us/americans-attracted-to-isis-find-an-echo-chamber-on-social-media.html
+SCOTT SHANE, MATT APUZZO and ERIC SCHMITT
+2015-12-09T00:00:00-5:00
+--- des_facet --- 6
+Social Media
+Series
+Terrorism
+Muslims and Islam
+San Bernardino, Calif, Shooting (2015)
+State of Terror (Series)
+--- org_facet --- 2
+Islamic State in Iraq and Syria (ISIS)
+Federal Bureau of Investigation
+--- per_facet --- 0
+--- geo_facet --- 1
+United States
+---------- 23 ----------
+U.S.
+Politics
+Obama&#8217;s Plans to Stop ISIS Leave Many Democrats Wanting More
+Many of President Obama’s allies in Congress say they do not believe he is being aggressive enough in confronting the Islamic State after last week’s attacks in California.
+http://www.nytimes.com/2015/12/09/us/politics/obamas-plans-to-stop-isis-leave-many-democrats-wanting-more.html
+JENNIFER STEINHAUER and MICHAEL D. SHEAR
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+San Bernardino, Calif, Shooting (2015)
+United States Defense and Military Forces
+Terrorism
+United States Politics and Government
+--- org_facet --- 3
+Islamic State in Iraq and Syria (ISIS)
+Democratic Party
+House of Representatives
+--- per_facet --- 1
+Obama, Barack
+--- geo_facet --- 1
+San Bernardino (Calif)
+---------- 24 ----------
+U.S.
+
+Tibor Rubin Is Dead at 86; Medal of Honor Was Delayed by Anti-Semitism
+Corporal Rubin was a Hungarian-born American hero, who joined the United States Army to thank the nation and the troops that rescued him from a Nazi concentration camp.
+http://www.nytimes.com/2015/12/09/us/tibor-rubin-is-dead-at-86-award-of-medal-of-honor-was-delayed-by-anti-semitism.html
+BRUCE WEBER
+2015-12-09T00:00:00-5:00
+--- des_facet --- 5
+Deaths (Obituaries)
+Medal of Honor (US)
+Korean War
+Holocaust and the Nazi Era
+Anti-Semitism
+--- org_facet --- 0
+--- per_facet --- 2
+Rubin, Tibor (1929-2015)
+Rubin, Tibor
+--- geo_facet --- 0
+---------- 25 ----------
+World
+Asia Pacific
+Chinese Glacier’s Retreat Signals Trouble for Asian Water Supply
+The Mengke Glacier in northwest China is receding fast, and towns along an arid corridor have suffered floods and landslides caused by sudden rainstorms.
+http://www.nytimes.com/2015/12/09/world/asia/chinese-glaciers-retreat-signals-trouble-for-asian-water-supply.html
+EDWARD WONG
+2015-12-09T00:00:00-5:00
+--- des_facet --- 5
+Glaciers
+Global Warming
+Water
+Greenhouse Gas Emissions
+United Nations Framework Convention on Climate Change
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+China
+---------- 26 ----------
+World
+Middle East
+U.S. Cautious on Iran Missile Test Claim
+The Obama administration&#8217;s response that it was reviewing reports of the launch of a medium-range ballistic missile, drew Democratic and Republican criticism.
+http://www.nytimes.com/2015/12/09/world/middleeast/us-cautious-on-iran-missile-test-claim.html
+DAVID E. SANGER
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Nuclear Weapons
+United States Defense and Military Forces
+Nuclear Tests
+United States International Relations
+--- org_facet --- 1
+International Atomic Energy Agency
+--- per_facet --- 3
+Obama, Barack
+Power, Samantha
+Clinton, Hillary Rodham
+--- geo_facet --- 2
+Iran
+United States
+---------- 27 ----------
+World
+Americas
+Opposition in Venezuela Now Has to Fix the Ills That Led to Its Victory
+Discontent over a failing economy led the opposition to an overwhelming majority in elections on Sunday, but victory sets up a power struggle between the Assembly and President Nicolás Maduro.
+http://www.nytimes.com/2015/12/09/world/americas/opposition-in-venezuela-now-has-to-fix-the-ills-that-led-to-its-victory.html
+WILLIAM NEUMAN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Banking and Financial Institutions
+Corruption (Institutional)
+--- org_facet --- 2
+United Socialist Party (Venezuela)
+Democratic Unity (Venezuela)
+--- per_facet --- 1
+Maduro, Nicolas
+--- geo_facet --- 1
+Venezuela
+---------- 28 ----------
+U.S.
+
+Anxiety Grows in Texas With Syrians Due to Arrive Soon
+The expected arrival of 21 of the refugees in the state this week has intensified concerns and fears about accepting Syrians in the wake of the Paris attacks last month.
+http://www.nytimes.com/2015/12/09/us/anxiety-grows-in-texas-with-syrians-due-to-arrive-soon.html
+MANNY FERNANDEZ and JULIA PRESTON
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Refugees and Displaced Persons
+States (US)
+Immigration and Emigration
+Governors (US)
+--- org_facet --- 0
+--- per_facet --- 1
+Abbott, Gregory W (1957- )
+--- geo_facet --- 2
+Texas
+Syria
+---------- 29 ----------
+World
+Middle East
+Jordan Is Asked to Admit Thousands of Stranded Syrians
+The United Nations and rights groups said thousands are stuck at a holding area in crowded and unacceptable conditions in Jordan’s northeast.
+http://www.nytimes.com/2015/12/09/world/middleeast/jordan-is-asked-to-admit-thousands-of-stranded-syrians.html
+RANA F. SWEIS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Middle East and Africa Migrant Crisis
+Refugees and Displaced Persons
+--- org_facet --- 2
+United Nations
+Human Rights Watch
+--- per_facet --- 0
+--- geo_facet --- 2
+Jordan
+Syria

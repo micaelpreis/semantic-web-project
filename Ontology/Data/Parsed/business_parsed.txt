@@ -1,0 +1,527 @@
+30
+
+---------- 0 ----------
+Technology
+
+The Internet’s Loop of Action and Reaction Is Worsening
+Wouldn’t it have been kind of a pleasant dream world, in these overheated last few weeks, to have lived free of social media?
+http://www.nytimes.com/2015/12/10/technology/shut-down-internet-donald-trump-hillary-clinton.html
+FARHAD MANJOO
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Computers and the Internet
+Social Media
+Presidential Election of 2016
+--- org_facet --- 0
+--- per_facet --- 2
+Trump, Donald J
+Gates, Bill
+--- geo_facet --- 0
+---------- 1 ----------
+Technology
+
+Why Donald Trump’s Call to ‘Close Up’ the Internet Is Science Fiction
+Donald Trump suggested asking Bill Gates, the Microsoft co-founder, for help in shutting down the Internet in some areas. But the worldwide computer network was designed to thwart such an attempt.
+http://bits.blogs.nytimes.com/2015/12/08/why-donald-trumps-call-to-close-up-the-internet-is-science-fiction/
+JOHN MARKOFF
+2015-12-08T17:06:20-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 2 ----------
+Technology
+
+Yahoo to Keep Alibaba Stake but Spin Off Core Businesses
+Yahoo has decided to retain its Alibaba stake and will instead look at transferring its other assets, including Yahoo Japan, into a new company.
+http://www.nytimes.com/2015/12/10/technology/yahoo-alibaba-spinoff.html
+VINDU GOEL
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Mergers, Acquisitions and Divestitures
+Search Engines
+--- org_facet --- 3
+Alibaba Group Holding Ltd
+Yahoo! Inc
+Starboard Value LP
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 3 ----------
+Business Day
+DealBook
+Marissa Mayer Has a Year to Fulfill Yahoo’s Potential
+With Yahoo’s one billion users and revenue of nearly $5 billion, investors would be salivating if Yahoo were a start-up, not a faded Internet company.
+http://www.nytimes.com/2015/12/10/business/dealbook/marissa-mayer-has-a-year-to-fulfill-yahoos-potential.html
+STEVEN DAVIDOFF SOLOMON
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Mergers, Acquisitions and Divestitures
+Corporate Taxes
+--- org_facet --- 1
+Yahoo! Inc
+--- per_facet --- 1
+Mayer, Marissa
+--- geo_facet --- 0
+---------- 4 ----------
+Business Day
+DealBook
+Possible Suitors for Yahoo
+Barry Diller’s IAC/InterActive could be a logical home for its Internet businesses, as might Verizon, owner of AOL.
+http://www.nytimes.com/2015/12/10/business/dealbook/possible-suitors-for-yahoo.html
+JENNIFER SABA
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Mergers, Acquisitions and Divestitures
+--- org_facet --- 3
+Yahoo! Inc
+Verizon Communications Inc
+IAC/InterActiveCorp
+--- per_facet --- 1
+Diller, Barry
+--- geo_facet --- 0
+---------- 5 ----------
+Business Day
+
+Tech Shares Slip as Market Extends Losing Streak
+Shares of Dow Chemical and DuPont were up after reports that the companies were discussing a combination.
+http://www.nytimes.com/2015/12/10/business/daily-stock-market-activity.html
+THE ASSOCIATED PRESS
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Stocks and Bonds
+Nasdaq Composite Index
+Standard & Poor's 500-Stock Index
+Dow Jones Stock Average
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 6 ----------
+Business Day
+International Business
+Volkswagen Terms One Emissions Problem Smaller Than Expected
+VW said it overstated things when it announced it had misled the public about fuel economy and greenhouse gas emissions for 800,000 European vehicles.
+http://www.nytimes.com/2015/12/10/business/international/volkswagen-terms-one-emissions-problem-smaller-than-expected.html
+JACK EWING
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Automobiles
+Greenhouse Gas Emissions
+Ethics and Official Misconduct
+--- org_facet --- 1
+Volkswagen AG
+--- per_facet --- 2
+Muller, Matthias (1953- )
+Winterkorn, Martin
+--- geo_facet --- 1
+Germany
+---------- 7 ----------
+Business Day
+Media
+Blendle, a Journalism Payments Start-Up, Targets a U.S. Start Date
+The company allows small payments for articles and has half a million subscribers in Germany and the Netherlands.
+http://www.nytimes.com/2015/12/10/business/media/blendle-a-journalism-payments-start-up-targets-a-us-start-date.html
+RAVI SOMAIYA
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+News and News Media
+Prices (Fares, Fees and Rates)
+E-Commerce
+Computers and the Internet
+--- org_facet --- 1
+Blendle
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 8 ----------
+Business Day
+DealBook
+Study Finds Director Pay Rising Sharply
+Among industries, pay to serve on the boards of energy and mining companies is the highest. Finance is the second lowest, after utility companies, Equilar says.
+http://www.nytimes.com/2015/12/10/business/dealbook/study-finds-director-pay-rising-sharply.html
+LIZ MOYER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Boards of Directors
+Standard & Poor's 500-Stock Index
+Banking and Financial Institutions
+Executive Compensation
+--- org_facet --- 2
+Equilar
+Institutional Shareholder Services Inc
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 9 ----------
+Business Day
+Media
+‘Happy Birthday’ Copyright Case Reaches a Settlement
+If the settlement is approved, the popular song will enter the public domain and the publisher will not collect royalties.
+http://www.nytimes.com/2015/12/10/business/media/happy-birthday-copyright-case-reaches-a-settlement.html
+BEN SISARIO
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Copyrights and Copyright Violations
+Royalties
+Music
+--- org_facet --- 1
+Warner Music Group
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 10 ----------
+Business Day
+
+First Dengue Fever Vaccine Approved by Mexico
+The vaccine, called Dengvaxia, has been developed by Sanofi. Dengue fever can cause high temperature and intense joint and muscle pain.
+http://www.nytimes.com/2015/12/10/business/first-dengue-fever-vaccine-approved-by-mexico.html
+ANDREW POLLACK
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Vaccination and Immunization
+Dengue Fever
+--- org_facet --- 1
+Sanofi SA
+--- per_facet --- 0
+--- geo_facet --- 2
+Mexico
+Hawaii
+---------- 11 ----------
+Business Day
+DealBook
+Dow Chemical and DuPont Are Said to Be in Merger Talks
+Two of the biggest and oldest chemical companies in the United States, each with a market value of roughly $60 billion, could become the world’s second-largest chemical maker in terms of revenue.
+http://www.nytimes.com/2015/12/09/business/dealbook/dow-chemical-and-dupont-are-said-to-be-in-merger-talks.html
+LESLIE PICKER and MICHAEL J. de la MERCED
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Mergers, Acquisitions and Divestitures
+--- org_facet --- 2
+Dow Chemical Company
+DuPont Co
+--- per_facet --- 2
+Loeb, Daniel S
+Peltz, Nelson
+--- geo_facet --- 0
+---------- 12 ----------
+Obituaries
+
+Douglas Tompkins, 72, North Face Founder, Dies in Kayaking Accident
+A hitchhiking encounter led to marriage and a store in San Francisco. Mr. Tompkins also founded the Esprit clothing brand before becoming a wealthy conservationist in South America.
+http://www.nytimes.com/2015/12/09/business/douglas-tompkins-72-north-face-founder-dies-in-kayaking-accident.html
+RACHEL ABRAMS and ASHLEY SOUTHALL
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Deaths (Obituaries)
+Environment
+Conservation of Resources
+Fashion and Apparel
+--- org_facet --- 2
+North Face, The
+Esprit Holdings Ltd
+--- per_facet --- 2
+Tompkins, Douglas (1943- )
+Tompkins, Douglas
+--- geo_facet --- 0
+---------- 13 ----------
+Business Day
+DealBook
+6 Companies Make Market Debut in China After 5-Month Hiatus
+Stock in all six companies surged by their daily limit of 44 percent, a typical increase for listings in China.
+http://www.nytimes.com/2015/12/10/business/dealbook/china-ipo-trading-hiatus.html
+AMIE TSANG
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Stocks and Bonds
+Initial Public Offerings
+--- org_facet --- 2
+China Securities Regulatory Commission
+People's Bank of China
+--- per_facet --- 0
+--- geo_facet --- 1
+China
+---------- 14 ----------
+Business Day
+Economy
+U.S. Wholesale Inventories Shrink, Hinting at More Anemic Growth
+The Commerce Department said that wholesale inventories slipped 0.1 percent in October as sluggish sales have given businesses little incentive to restock.
+http://www.nytimes.com/2015/12/10/business/us-wholesale-inventories-shrink-hinting-at-more-anemic-growth.html
+REUTERS
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Gross Domestic Product
+--- org_facet --- 1
+Commerce Department
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 15 ----------
+Business Day
+
+AccorHotels to Raise Luxury Profile With $2.9 Billion Acquisition
+AccorHotels is buying the owner of luxury hotels including London's Savoy and New York's Plaza, in a cash-and-share deal worth $2.9 billion (1.9 billion pounds) that will also raise the U.S. profile of Europe's largest hotel group.
+http://www.nytimes.com/reuters/2015/12/09/business/09reuters-accorhotels-acquisition.html
+REUTERS
+2015-12-09T11:53:59-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 16 ----------
+Business Day
+Media
+C. Gerald Fraser, Longtime Reporter for The Times, Dies at 90
+Mr. Fraser, one of the first black reporters hired by The Times, covered courts, culture and the landmark presidential campaign of Shirley Chisholm.
+http://www.nytimes.com/2015/12/10/business/media/c-gerald-fraser-former-times-reporter-dies-at-90.html
+SAM ROBERTS
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Deaths (Obituaries)
+Blacks
+Newspapers
+--- org_facet --- 1
+New York Times
+--- per_facet --- 1
+Fraser, C Gerald
+--- geo_facet --- 0
+---------- 17 ----------
+Business Day
+Media
+Arthur R. Taylor, Ex-CBS President Who Sold Yankees to Steinbrenner, Dies at 80
+After he was fired from the network, Mr. Taylor became the founding president of a premium cable channel that was the predecessor of A&E.
+http://www.nytimes.com/2015/12/10/business/media/arthur-r-taylor-ex-cbs-president-who-sold-yankees-to-steinbrenner-dies-at-80.html
+SAM ROBERTS
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Television
+Deaths (Obituaries)
+--- org_facet --- 2
+CBS Corporation
+Partnership for New York City
+--- per_facet --- 1
+Taylor, Arthur R.
+--- geo_facet --- 0
+---------- 18 ----------
+Business Day
+Economy
+Walmart&#8217;s Imports From China Displaced 400,000 Jobs, a Study Says
+Walmart&#8217;s Chinese imports amounted to at least $49 billion in 2013, according to the study, which was based on trade and labor data.
+http://www.nytimes.com/2015/12/09/business/economy/walmart-china-imports-job-losses.html
+HIROKO TABUCHI
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Labor and Jobs
+International Trade and World Market
+--- org_facet --- 3
+Walmart Stores Inc
+Economic Policy Institute
+Boston Consulting Group
+--- per_facet --- 1
+Sirkin, Harold L
+--- geo_facet --- 1
+China
+---------- 19 ----------
+World
+Australia
+Australian Police Raid Home of Man Said to Be Likely Creator of Bitcoin
+The police said the raid was for a tax investigation, and a spokesman denied any connection to the Bitcoin reports.
+http://www.nytimes.com/2015/12/10/world/australia/sydney-bitcoin-raid.html
+MICHELLE INNIS and AUSTIN RAMZY
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Bitcoin (Currency)
+Computers and the Internet
+--- org_facet --- 2
+Wired
+Gizmodo
+--- per_facet --- 2
+Wright, Craig Steven
+Nakamoto, Dorian Satoshi
+--- geo_facet --- 1
+Australia
+---------- 20 ----------
+Business Day
+International Business
+Afghanistan Hopes W.T.O. Membership Can Reboot Its Battered Economy
+Optimists view the trade body’s seal of approval as a potential lift for the war-ravaged country whose chief export is opium and main “import” is international aid.
+http://www.nytimes.com/2015/12/10/business/international/afghanistan-wto-membership.html
+DAVID JOLLY
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Third World and Developing Countries
+International Trade and World Market
+--- org_facet --- 1
+World Trade Organization
+--- per_facet --- 0
+--- geo_facet --- 2
+Afghanistan
+Liberia
+---------- 21 ----------
+Business Day
+International Business
+For Immigrants, America Is Still More Welcoming Than Europe
+While its policies are often hostile, the United States is more successful than Europe at integrating immigrants into the national fabric.
+http://www.nytimes.com/2015/12/09/business/international/for-immigrants-america-is-still-more-welcoming-than-europe.html
+EDUARDO PORTER
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Immigration and Emigration
+Presidential Election of 2016
+--- org_facet --- 1
+European Union
+--- per_facet --- 1
+Trump, Donald J
+--- geo_facet --- 1
+United States
+---------- 22 ----------
+Technology
+Personal Tech
+Tech Toys to Inspire a Child’s Imagination
+These interactive toys incorporate various technologies including virtual reality, animation and robotics.
+http://www.nytimes.com/2015/12/10/technology/personaltech/tech-toys-to-inspire-a-childs-imagination.html
+GREGORY SCHMIDT
+2015-12-10T00:00:00-5:00
+--- des_facet --- 7
+Gifts
+Holidays and Special Occasions
+Computer and Video Games
+Virtual Reality (Computers)
+Robots and Robotics
+Animated Films
+Star Wars: The Force Awakens (Movie)
+--- org_facet --- 4
+Hasbro Inc
+Crayola
+Mattel Inc
+Sphero (Orbotix Inc)
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 23 ----------
+Technology
+Personal Tech
+Video Feature: Apps, Like Elves, Help Make the Season Bright
+Apps for creating animated video during the holidays, and for help thinking of gift ideas, organizing lists, tracking Santa and donating to charities.
+http://www.nytimes.com/2015/12/10/technology/personaltech/video-feature-apps-like-elves-help-make-the-season-bright.html
+KIT EATON
+2015-12-10T00:00:00-5:00
+--- des_facet --- 7
+Mobile Applications
+Gifts
+Holidays and Special Occasions
+Christmas
+iOS (Operating System)
+Google Phone
+Android (Operating System)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 24 ----------
+Business Day
+Entrepreneurship
+A Bad Review Is Forever: How to Counter Online Complaints
+For small businesses that can live or die by word of mouth, an array of strategies helps track and respond to online ratings.
+http://www.nytimes.com/2015/12/10/business/smallbusiness/small-business-counter-bad-reviews.html
+CONSTANCE GUSTKE
+2015-12-10T00:00:00-5:00
+--- des_facet --- 5
+Consumer Reviews
+Restaurants
+Advertising and Marketing
+Small Business
+Computers and the Internet
+--- org_facet --- 1
+Yelp
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 25 ----------
+Technology
+Personal Tech
+Choosing an iPad Pro Keyboard
+Apple’s Smart Keyboard was designed for its newer, larger iPad Pro tablet, but there are cheaper alternatives.
+http://www.nytimes.com/2015/12/10/technology/personaltech/choosing-an-ipad-pro-keyboard.html
+J. D. BIERSDORFER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+iPad
+Tablet Computers
+Wireless Communications
+Bluetooth Wireless Technology
+--- org_facet --- 3
+Apple Inc
+Logitech International SA
+Zagg
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 26 ----------
+Business Day
+Media
+Martin Shkreli Bought Sole Wu-Tang Clan Album, Report Says
+The pharmaceutical executive, who drew public outrage for sharply raising the price of a drug, was named as the buyer of the only copy of “Once Upon a Time in Shaolin.”
+http://www.nytimes.com/2015/12/10/business/media/martin-shkreli-wu-tang-clan-album.html
+CHRISTINE HAUSER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Drugs (Pharmaceuticals)
+Prices (Fares, Fees and Rates)
+--- org_facet --- 2
+Wu-Tang Clan
+Turing Pharmaceuticals AG
+--- per_facet --- 1
+Shkreli, Martin (1983- )
+--- geo_facet --- 0
+---------- 27 ----------
+Your Money
+
+When Seeking Better C.D. Yields Can Be Costly
+Consumers watching interest rates should also watch out for stiff penalties if they decide to withdraw money from certificates of deposit early.
+http://www.nytimes.com/2015/12/10/your-money/when-seeking-better-cd-yields-can-be-costly.html
+ANN CARRNS
+2015-12-10T00:00:00-5:00
+--- des_facet --- 6
+Certificates of Deposit
+Banking and Financial Institutions
+Interest Rates
+Savings
+Personal Finances
+fines and penaltiies
+--- org_facet --- 1
+Federal Reserve System
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 28 ----------
+Business Day
+Energy & Environment
+Bill Gates Takes On Climate Change With Nudges and a Powerful Rolodex
+Mr. Gates, acting as an envoy between the worlds of business and policy, has pressed global leaders and tech billionaires to team up on clean technology.
+http://www.nytimes.com/2015/12/09/business/energy-environment/bill-gates-takes-on-climate-change-with-nudges-and-a-powerful-rolodex.html
+CORAL DAVENPORT and NICK WINGFIELD
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Global Warming
+United Nations Framework Convention on Climate Change
+Research
+--- org_facet --- 0
+--- per_facet --- 4
+Gates, Bill
+Hollande, Francois
+Modi, Narendra
+Obama, Barack
+--- geo_facet --- 2
+India
+France
+---------- 29 ----------
+Business Day
+DealBook
+Private Equity Fees Are Sky-High, Yes, but Look at Those Returns
+Perhaps we should balance the criticism of private equity firms for excessive fees with the great demand for private equity investments and the important role they play.
+http://www.nytimes.com/2015/12/09/business/dealbook/does-private-equity-earn-those-exorbitant-fees.html
+STEVEN DAVIDOFF SOLOMON
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Private Equity
+Pensions and Retirement Plans
+Endowments
+--- org_facet --- 5
+California Public Employees Retirement System
+Apollo Global Management
+KKR & Co LP
+The Blackstone Group
+Securities and Exchange Commission
+--- per_facet --- 1
+Swensen, David F
+--- geo_facet --- 0

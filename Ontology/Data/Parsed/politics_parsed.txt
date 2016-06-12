@@ -1,0 +1,500 @@
+30
+
+---------- 0 ----------
+U.S.
+Politics
+Donald Trump Deflects Withering Fire on Muslim Plan
+Mr. Trump pointed to President Franklin D. Roosevelt’s actions toward Japanese, German and Italian immigrants during World War II as precedent.
+http://www.nytimes.com/2015/12/09/us/politics/donald-trump-muslims.html
+MAGGIE HABERMAN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 5
+Muslims and Islam
+Presidential Election of 2016
+Immigration and Emigration
+World War II (1939-45)
+Terrorism
+--- org_facet --- 0
+--- per_facet --- 2
+Trump, Donald J
+Roosevelt, Franklin Delano
+--- geo_facet --- 1
+United States
+---------- 1 ----------
+U.S.
+Politics
+Plan to Bar Foreign Muslims by Donald Trump Might Survive a Lawsuit
+On Tuesday Mr. Trump said he would exclude only foreign Muslims, not returning citizens. That distinction, legal specialists said, made it far less likely the courts would strike it down.
+http://www.nytimes.com/2015/12/09/us/politics/donald-trumps-plan-to-bar-foreign-muslims-might-survive-a-lawsuit.html
+CHARLIE SAVAGE
+2015-12-09T00:00:00-5:00
+--- des_facet --- 6
+Presidential Election of 2016
+Muslims and Islam
+Immigration and Emigration
+Muslim Americans
+United States International Relations
+Constitution (US)
+--- org_facet --- 1
+Supreme Court (US)
+--- per_facet --- 1
+Trump, Donald J
+--- geo_facet --- 2
+United States
+Middle East
+---------- 2 ----------
+World
+
+Trump’s Plan to Bar Muslims Is Widely Condemned Abroad
+The Republican presidential candidate’s comments drew condemnation from Europe and beyond, as well as questions about the direction of the United States.
+http://www.nytimes.com/2015/12/09/world/europe/donald-trumps-call-to-bar-muslims-reverberates-abroad.html
+DAN BILEFSKY
+2015-12-09T00:00:00-5:00
+--- des_facet --- 6
+Presidential Election of 2016
+Muslims and Islam
+Immigration and Emigration
+Muslim Americans
+United States International Relations
+Terrorism
+--- org_facet --- 1
+Islamic State in Iraq and Syria (ISIS)
+--- per_facet --- 1
+Trump, Donald J
+--- geo_facet --- 0
+---------- 3 ----------
+N.Y. / Region
+
+Muslims in Donald Trump’s Old Neighborhood Say, Come Get to Know Us
+Since Mr. Trump advocated barring Muslims from entering the country, some residents of Queens, his former borough, urged him to come back and rediscover their diversity and patriotism.
+http://www.nytimes.com/2015/12/09/nyregion/among-muslims-in-donald-trumps-old-queens-neighborhood-shock-and-dismay.html
+LIZ ROBBINS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Muslim Americans
+Presidential Election of 2016
+--- org_facet --- 0
+--- per_facet --- 1
+Trump, Donald J
+--- geo_facet --- 2
+Queens (NYC)
+Jamaica (Queens, NY)
+---------- 4 ----------
+U.S.
+Politics
+At Donald Trump Rally, Some See Bias Where Others See Strength
+While most attending Mr. Trump’s speech in South Carolina seemed to support his statement on banning Muslims from entering the U.S., some said it went too far.
+http://www.nytimes.com/2015/12/09/us/politics/at-donald-trump-rally-some-see-bias-where-others-see-strength.html
+JONATHAN MARTIN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Muslims and Islam
+Presidential Election of 2016
+Immigration and Emigration
+San Bernardino, Calif, Shooting (2015)
+--- org_facet --- 2
+Republican Party
+Islamic State in Iraq and Syria (ISIS)
+--- per_facet --- 1
+Trump, Donald J
+--- geo_facet --- 1
+Charleston (SC)
+---------- 5 ----------
+U.S.
+Politics
+House Republicans Denounce Obama’s Handling of Prisoner Exchange
+A report by the House Armed Services Committee’s Republican members is critical of a deal in which five Taliban detainees were swapped for Sgt. Bowe Bergdahl.
+http://www.nytimes.com/2015/12/10/us/politics/house-republicans-denounce-obamas-handling-of-prisoner-exchange.html
+CHARLIE SAVAGE
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+United States International Relations
+Afghanistan War (2001-14)
+Detainees
+United States Politics and Government
+--- org_facet --- 1
+Defense Department
+--- per_facet --- 0
+--- geo_facet --- 1
+Guantanamo Bay Naval Base (Cuba)
+---------- 6 ----------
+U.S.
+Politics
+Obama Calls for End to Bigotry, in Implicit Rebuke of Donald Trump
+The president appeared to use the 150th anniversary of the amendment abolishing slavery to challenge the anti-Muslim politics espoused by the Republican candidate.
+http://www.nytimes.com/2015/12/10/us/politics/president-obama-thirteenth-amendment-slavery-bigotry-donald-trump.html
+JULIE HIRSCHFELD DAVIS
+2015-12-10T00:00:00-5:00
+--- des_facet --- 5
+United States Politics and Government
+Constitutional Amendments
+Race and Ethnicity
+Civil Rights and Liberties
+Thirteenth Amendment (US Constitution)
+--- org_facet --- 1
+House of Representatives
+--- per_facet --- 1
+Obama, Barack
+--- geo_facet --- 0
+---------- 7 ----------
+U.S.
+Politics
+Jeb Bush Jumps In at a ‘Life of the ‘Party’ Event
+When asked who he would invite to a party at the White House, Mr. Bush said Winston Churchill and Neil Armstrong — but not Donald J, Trump.
+http://www.nytimes.com/politics/first-draft/2015/12/09/jeb-bush-jumps-in-at-a-life-of-the-party-event/
+ASHLEY PARKER
+2015-12-09T16:07:49-5:00
+--- des_facet --- 1
+"Destiny and Power" (Book)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 8 ----------
+U.S.
+Politics
+Shipyard Accused of Botching Coast Guard Repairs Settles Case
+Bollinger Shipyards, which was hired to retrofit patrol boats, agreed to pay to the government $8.5 million. The boat had to be abandoned.
+http://www.nytimes.com/2015/12/10/us/politics/coast-guard-bollinger-shipyards.html
+ERIC LIPTON
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Government Contracts and Procurement
+--- org_facet --- 1
+United States Coast Guard
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 9 ----------
+U.S.
+Politics
+Hillary Clinton Says Donald Trump’s Muslim Proposal Harms U.S. Antiterror Efforts
+In a somber critique of the Republican front-runner, Mrs. Clinton acknowledged Americans’ fears and anxieties but said Mr. Trump’s proposal to block non-American Muslims from entering the country was “dangerous.”
+http://www.nytimes.com/politics/first-draft/2015/12/09/hillary-clinton-says-donald-trumps-muslim-ban-harms-u-s-anti-terror-efforts/
+AMY CHOZICK
+2015-12-09T15:05:55-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 10 ----------
+U.S.
+Politics
+John Kasich Rules Out Being a Running Mate
+Asked if he would ever agree to run as vice president on a Trump ticket, the governor ruled out the job entirely, saying he wouldn’t run for vice president “on any ticket.”
+http://www.nytimes.com/politics/first-draft/2015/12/09/john-kasich-rules-out-being-a-running-mate/
+ALAN RAPPEPORT
+2015-12-09T14:27:01-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 11 ----------
+U.S.
+Politics
+Affordable Care Act Plans Get 1 Million New Subscribers
+Brushing aside reports of rising premiums and concerns expressed by insurers, officials said there was widespread desire for coverage under the law.
+http://www.nytimes.com/2015/12/10/us/politics/obamacare-enrollment-rises.html
+ROBERT PEAR
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Patient Protection and Affordable Care Act (2010)
+Health Insurance and Managed Care
+--- org_facet --- 2
+HealthCare.gov
+Centers for Medicare and Medicaid Services
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 12 ----------
+U.S.
+Politics
+Ted Cruz Adds Two More Endorsements From Social Conservatives
+The National Organization for Marriage, which has been fighting against the Supreme Court’s decision allowing same-sex marriage, and the longtime conservative activist Richard A. Viguerie are backing Senator Ted Cruz’s presidential run.
+http://www.nytimes.com/politics/first-draft/2015/12/09/ted-cruz-adds-two-more-endorsements-from-social-conservatives/
+MATT FLEGENHEIMER
+2015-12-09T13:59:08-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 13 ----------
+U.S.
+Politics
+Senate Approves Overhaul of No Child Left Behind Law
+President Obama is expected to sign the bill, which would restore authority for school performance and accountability to districts and states after a long period of federal control.
+http://www.nytimes.com/2015/12/10/us/politics/senate-approves-overhaul-of-no-child-left-behind-law.html
+EMMARIE HUETTEMAN
+2015-12-10T00:00:00-5:00
+--- des_facet --- 5
+Education (K-12)
+United States Politics and Government
+Children and Childhood
+No Child Left Behind Act
+Teachers and School Employees
+--- org_facet --- 1
+Senate
+--- per_facet --- 1
+Alexander, Lamar
+--- geo_facet --- 0
+---------- 14 ----------
+U.S.
+Politics
+After Making Enemies, Cruz Tries to Make Friends
+Mr. Cruz has vaulted into the top tier of the Republican race as the consummate Washington bomb thrower, but now he is taking an almost academic approach to achieving likability.
+http://www.nytimes.com/2015/12/10/us/politics/after-making-enemies-ted-cruz-works-at-making-friends.html
+MATT FLEGENHEIMER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Presidential Election of 2016
+--- org_facet --- 0
+--- per_facet --- 1
+Cruz, Ted
+--- geo_facet --- 1
+Iowa
+---------- 15 ----------
+U.S.
+Politics
+Jeb Bush Reveals How Religion Informs His Day
+In a conversation with a young man in New Hampshire, Jeb Bush, who is Roman Catholic, pulled a Jesus figurine from his pants pocket to help provide a glimpse of how religion plays a quiet if omnipresent part of his daily routine.
+http://www.nytimes.com/politics/first-draft/2015/12/09/jeb-bush-reveals-how-religion-informs-his-day/
+ASHLEY PARKER
+2015-12-09T09:32:50-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 16 ----------
+U.S.
+Politics
+Netanyahu Says He’ll Still Meet With Donald Trump, Despite His Remarks on Muslims
+Prime Minister Benjamin Netanyahu is scheduled to meet with Donald J. Trump on Dec. 28 in Jerusalem, according to a senior Israeli official.
+http://www.nytimes.com/politics/first-draft/2015/12/09/israel-confirms-donald-trump-meeting-with-benjamin-netanyahu/
+JODI RUDOREN
+2015-12-09T09:05:40-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 17 ----------
+U.S.
+Politics
+Condemnation of Trump Plan Can’t Bridge Divide Among Republicans
+The mixed reaction to Mr. Trump’s proposal from some of his Republican rivals showed how delicately they continue to treat the front-runner and the voters keeping his poll numbers so high.
+http://www.nytimes.com/politics/first-draft/2015/12/09/condemnation-of-trump-plan-cant-bridge-divide-among-republicans/
+MAGGIE HABERMAN
+2015-12-09T07:20:44-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 18 ----------
+U.S.
+Politics
+Campaign to Lower Voting Age to 16 in Local Races Ignites a Debate
+Generation Citizen says its campaign aims to spur civic engagement among youth, but critics question whether 16 is too young, and whether the push is a partisan one.
+http://www.nytimes.com/2015/12/10/us/politics/campaign-to-lower-voting-age-to-16-in-local-races-ignites-a-debate.html
+YAMICHE ALCINDOR
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+United States Politics and Government
+Voter Registration and Requirements
+Youth
+--- org_facet --- 1
+Generation Citizen
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 19 ----------
+U.S.
+Politics
+Congress Braces for Holiday Rush as Spending Discussions Bog Down
+Republican leaders in the House and Senate are indicating that this Friday’s deadline for passing a spending agreement will almost certainly slip, with work required through the weekend and perhaps well into next week to wrap things up.
+http://www.nytimes.com/politics/first-draft/2015/12/09/congress-braces-for-holiday-rush-as-spending-discussions-bog-down/
+CARL HULSE
+2015-12-09T06:40:46-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 20 ----------
+U.S.
+Politics
+Local TV Networks Seek to Counter Campaign Ads’ Shift Online
+While political campaigns are increasingly focusing on digital ads, a new advocacy campaign by the Television Bureau of Advertising, the trade association for local broadcast stations, will “highlight local broadcast TV’s unrivaled ability to reach and influence all voters.”
+http://www.nytimes.com/politics/first-draft/2015/12/09/local-tv-networks-seek-to-counter-campaign-ads-shift-online/
+NICK CORASANITI
+2015-12-09T06:20:32-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 21 ----------
+U.S.
+Politics
+Idea Behind Donald Trump’s Plan to Bar Muslims Has Some Deep Roots
+Mr. Trump’s proposal to stop all Muslims from entering the United States has been panned, but while Muslims have not been the targets of such policies in the United States, the desire to keep certain kinds of people out of the country is not unprecedented in American history.
+http://www.nytimes.com/politics/first-draft/2015/12/09/idea-behind-donald-trumps-plan-to-bar-muslims-has-some-deep-roots/
+ALAN RAPPEPORT
+2015-12-09T06:00:42-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 22 ----------
+U.S.
+Politics
+Marco Rubio Quietly Undermines Affordable Care Act
+A provision slipped into a 2014 spending law by the Florida senator has tangled up the Obama administration and sent tremors through health insurance markets.
+http://www.nytimes.com/2015/12/10/us/politics/marco-rubio-obamacare-affordable-care-act.html
+ROBERT PEAR
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Health Insurance and Managed Care
+Patient Protection and Affordable Care Act (2010)
+--- org_facet --- 0
+--- per_facet --- 2
+Rubio, Marco
+Obama, Barack
+--- geo_facet --- 0
+---------- 23 ----------
+U.S.
+Politics
+Re-Examining Race and College Admissions
+A closer look at how a case twice made its way to the Supreme Court and how changes in the court’s personnel may affect its outcome.
+http://www.nytimes.com/2015/12/10/us/politics/re-examining-race-and-college-admissions.html
+ADAM LIPTAK
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Admissions Standards
+Affirmative Action
+Decisions and Verdicts
+Colleges and Universities
+--- org_facet --- 2
+Supreme Court (US)
+University of Texas at Austin
+--- per_facet --- 6
+Alito, Samuel A Jr
+Fisher, Abigail Noel
+Kagan, Elena
+Kennedy, Anthony M
+O'Connor, Sandra Day
+Sotomayor, Sonia
+--- geo_facet --- 0
+---------- 24 ----------
+U.S.
+Politics
+Supreme Court Justices’ Comments Don’t Bode Well for Affirmative Action
+A majority of the Supreme Court justices seemed unpersuaded on Wednesday that an affirmative action plan at the University of Texas was constitutional.
+http://www.nytimes.com/2015/12/10/us/politics/supreme-court-to-revisit-case-that-may-alter-affirmative-action.html
+ADAM LIPTAK
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Admissions Standards
+Colleges and Universities
+Affirmative Action
+Race and Ethnicity
+--- org_facet --- 2
+Supreme Court (US)
+University of Texas at Austin
+--- per_facet --- 7
+Alito, Samuel A Jr
+Fisher, Abigail Noel
+Garza, Emilio Miller
+Higginbotham, Patrick E
+Kagan, Elena
+Kennedy, Anthony M
+O'Connor, Sandra Day
+--- geo_facet --- 3
+Austin (Tex)
+New Orleans (La)
+Texas
+---------- 25 ----------
+World
+Middle East
+U.S. Attack Helicopters May Join Fight Against ISIS in Iraqi City
+The United States is prepared to deploy the aircraft and advisers to help Iraqi forces in their long-running battle to retake the city of Ramadi.
+http://www.nytimes.com/2015/12/10/world/middleeast/islamic-state-ramadi-fight.html
+HELENE COOPER, MATTHEW ROSENBERG and MICHAEL R. GORDON
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+United States Defense and Military Forces
+--- org_facet --- 3
+Islamic State in Iraq and Syria (ISIS)
+Iraqi Army
+Senate Committee on Armed Services
+--- per_facet --- 1
+Carter, Ashton B
+--- geo_facet --- 1
+Ramadi (Iraq)
+---------- 26 ----------
+The Upshot
+
+You Say You Loathe Ted Cruz? You Still Might Want to Vote for Him
+In a primary, it can be perfectly logical to vote for someone you don’t like, but people generally prefer not to take that risk.
+http://www.nytimes.com/2015/12/10/upshot/you-say-you-loathe-ted-cruz-you-still-might-want-to-vote-for-him.html
+TONI MONKOVIC
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Presidential Election of 2016
+Voting and Voters
+Primaries and Caucuses
+United States Politics and Government
+--- org_facet --- 0
+--- per_facet --- 2
+Cruz, Ted
+Rubio, Marco
+--- geo_facet --- 0
+---------- 27 ----------
+U.S.
+
+Americans Attracted to ISIS Find an ‘Echo Chamber’ on Social Media
+As the White House takes on the challenge of the Islamic State, it is focusing on the online community of sympathizers in the United States, who number in the hundreds and fit no single profile.
+http://www.nytimes.com/2015/12/09/us/americans-attracted-to-isis-find-an-echo-chamber-on-social-media.html
+SCOTT SHANE, MATT APUZZO and ERIC SCHMITT
+2015-12-09T00:00:00-5:00
+--- des_facet --- 6
+Social Media
+Series
+Terrorism
+Muslims and Islam
+San Bernardino, Calif, Shooting (2015)
+State of Terror (Series)
+--- org_facet --- 2
+Islamic State in Iraq and Syria (ISIS)
+Federal Bureau of Investigation
+--- per_facet --- 0
+--- geo_facet --- 1
+United States
+---------- 28 ----------
+U.S.
+
+Robert E. Macdonald Wins 3rd Term as Mayor of Lewiston, Maine
+The race was a classic clash between generations and ideologies, and Ben Chin, an activist with a liberal alliance, substantially outspent the incumbent, Robert E. Macdonald.
+http://www.nytimes.com/2015/12/09/us/robert-e-macdonaldwins-3rd-term-as-mayor-of-lewiston-maine.html
+KATHARINE Q. SEELYE
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Elections, Mayors
+--- org_facet --- 1
+Republican Party
+--- per_facet --- 2
+Chin, Ben
+Macdonald,  Robert E
+--- geo_facet --- 1
+Lewiston (Me)
+---------- 29 ----------
+U.S.
+
+Anxiety Grows in Texas With Syrians Due to Arrive Soon
+The expected arrival of 21 of the refugees in the state this week has intensified concerns and fears about accepting Syrians in the wake of the Paris attacks last month.
+http://www.nytimes.com/2015/12/09/us/anxiety-grows-in-texas-with-syrians-due-to-arrive-soon.html
+MANNY FERNANDEZ and JULIA PRESTON
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Refugees and Displaced Persons
+States (US)
+Immigration and Emigration
+Governors (US)
+--- org_facet --- 0
+--- per_facet --- 1
+Abbott, Gregory W (1957- )
+--- geo_facet --- 2
+Texas
+Syria

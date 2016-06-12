@@ -1,0 +1,496 @@
+30
+
+---------- 0 ----------
+Food
+
+Jacques Pépin’s Food Memories
+The chef and writer looks back at the food experiences that have shaped his life and his career.
+http://www.nytimes.com/2015/12/09/dining/jacques-pepin-food-memories.html
+JACQUES PÉPIN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Cooking and Cookbooks
+Food
+Chefs
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+France
+---------- 1 ----------
+Food
+
+At Sessanta in SoHo and L’Amico in Chelsea, Italy Is Merely a Diversion
+Two hotel restaurants attract the kind of diners for whom the meal is a prelude to the night ahead.
+http://www.nytimes.com/2015/12/09/dining/sessanta-lamico-review.html
+PETE WELLS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Restaurants
+--- org_facet --- 3
+Sessanta (Manhattan, NY, Restaurant)
+L'Amico (Manhattan, NY, Restaurant)
+L'Amico (NYC)
+--- per_facet --- 0
+--- geo_facet --- 2
+Chelsea (Manhattan, NY)
+SoHo (Manhattan, NY)
+---------- 2 ----------
+Food
+
+Small Kitchens, by Choice
+Microkitchens, stocked with shrunken appliances, are being embraced by millennials who could easily afford much larger ones.
+http://www.nytimes.com/2015/12/09/dining/small-kitchen-microkitchen.html
+KIM SEVERSON
+2015-12-09T00:00:00-5:00
+--- des_facet --- 7
+Kitchens
+Youth
+Millennial Generation
+Cooking and Cookbooks
+Home Appliances
+Refrigerators
+Ovens and Stoves
+--- org_facet --- 1
+General Electric Company
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 3 ----------
+Food
+
+8 Awesome Midweek Recipes
+It’s midweek in the lull between holidays, and work is stacking up — but tonight, we’re heading home to cook. Here are some ideas.
+http://www.nytimes.com/2015/12/09/dining/8-awesome-midweek-recipes.html
+SAM SIFTON
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Cooking and Cookbooks
+Recipes
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 4 ----------
+Food
+
+At U.P., Dominique Ansel Moves Beyond the Cronut
+The pastry chef showcases his sugary arts in a multicourse $87 display to 48 people a week in the West Village.
+http://www.nytimes.com/2015/12/09/dining/up-dominique-ansel-cronut.html
+PETE WELLS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Desserts
+Restaurants
+--- org_facet --- 2
+U P (Manhattan, NY, Restaurant)
+U P (NYC)
+--- per_facet --- 1
+Ansel, Dominique
+--- geo_facet --- 0
+---------- 5 ----------
+Food
+
+Your Next Lesson: Fino Sherry
+These wines are fortified, which means that neutral spirits are added to bring up the alcohol level.
+http://www.nytimes.com/2015/12/09/dining/wine-school-assignment-fino-sherry.html
+ERIC ASIMOV
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Sherry (Wine)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Andalusia (Spain)
+---------- 6 ----------
+Food
+
+Aglianico, a Red With a Sense of Place
+Easygoing wines from the Irpinia region of Italy are looking for respect.
+http://www.nytimes.com/2015/12/09/dining/wine-school-aglianico.html
+ERIC ASIMOV
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Wines
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Campania (Italy)
+---------- 7 ----------
+Business Day
+Entrepreneurship
+A Bad Review Is Forever: How to Counter Online Complaints
+For small businesses that can live or die by word of mouth, an array of strategies helps track and respond to online ratings.
+http://www.nytimes.com/2015/12/10/business/smallbusiness/small-business-counter-bad-reviews.html
+CONSTANCE GUSTKE
+2015-12-10T00:00:00-5:00
+--- des_facet --- 5
+Consumer Reviews
+Restaurants
+Advertising and Marketing
+Small Business
+Computers and the Internet
+--- org_facet --- 1
+Yelp
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 8 ----------
+Food
+
+At Kopitiam, the Art of Malaysian Snacking on the Lower East Side
+A tiny coffee shop on Canal Street takes its sweets seriously.
+http://www.nytimes.com/2015/12/09/dining/hungry-city-kopitiam-lower-east-side.html
+LIGAYA MISHAN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Restaurants
+Coffeehouses
+--- org_facet --- 2
+Kopitiam (Manhattan, NY, Restaurant)
+Kopitiam (NYC)
+--- per_facet --- 0
+--- geo_facet --- 1
+Lower East Side (Manhattan, NY)
+---------- 9 ----------
+Food
+
+Thinking Chowder? Try an Iberian-Inspired Soup
+Onions, potatoes, chorizo and smoked fish create (dare he say it) umami.
+http://www.nytimes.com/2015/12/09/dining/potato-soup-chorizo-smoked-fish-recipe.html
+DAVID TANIS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Cooking and Cookbooks
+Soups
+Sausages
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 10 ----------
+N.Y. / Region
+
+Where Katharine Hepburn Got Her Chocolates
+Mondel Chocolates, at Broadway and West 114th Street, also lures students at Barnard and Columbia who return long after they receive their degrees.
+http://www.nytimes.com/2015/12/13/nyregion/mondel-chocolates-shop-in-manhattan.html
+JACKIE SNOW
+2015-12-13T00:00:00-5:00
+--- des_facet --- 0
+--- org_facet --- 1
+Mondel Chocolates
+--- per_facet --- 1
+Hepburn, Katharine
+--- geo_facet --- 1
+Morningside Heights (Manhattan, NY)
+---------- 11 ----------
+Food
+
+A Hanukkah Treat (No, Not Latkes) With a Sweet Reminder of Sicily
+Fried rice balls, filled with brandy-soaked raisins and fontina and mozzarella, have roots in Italy.
+http://www.nytimes.com/2015/12/09/dining/hanukkah-arancini-recipe.html
+MELISSA CLARK
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Cooking and Cookbooks
+Hanukkah
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 12 ----------
+Food
+
+Loida Nicolas Lewis and Her Love of Lobster
+The philanthropist and former immigration lawyer, who multiplied the profits of TLC Beatrice International, serves lobster to family and friends at her Fifth Avenue apartment.
+http://www.nytimes.com/2015/12/09/dining/loida-nicolas-lewis-lobster-cracker-bib.html
+LIGAYA MISHAN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Tableware
+Lobsters
+Cooking and Cookbooks
+--- org_facet --- 0
+--- per_facet --- 1
+Lewis, Loida Nicolas
+--- geo_facet --- 1
+Fifth Avenue (Manhattan, NY)
+---------- 13 ----------
+Food
+
+Granola Is Enriched With Popped Quinoa
+It’s crunchy but not hard. And it adds texture and flavor, as well as “stealth health” — more protein.
+http://www.nytimes.com/2015/12/09/dining/popped-quinoa-granola-recipe.html
+MARTHA ROSE SHULMAN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Cooking and Cookbooks
+Quinoa
+Gifts
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 14 ----------
+Magazine
+
+Consider (Cooking) the Clam
+There’s no reason to fear this most delectable — and sustainable — of bivalves.
+http://www.nytimes.com/2015/12/13/magazine/consider-cooking-the-clam.html
+TAMAR ADLER
+2015-12-13T00:00:00-5:00
+--- des_facet --- 3
+Clams
+Recipes
+Cooking and Cookbooks
+--- org_facet --- 0
+--- per_facet --- 1
+Curtis Badger
+--- geo_facet --- 1
+New England States (US)
+---------- 15 ----------
+Food
+
+Solomon &amp; Kuff’s Flavors of the Caribbean in Harlem
+A French-accented spinoff of a highly rated Japanese restaurant, steak and seafood in an Upper East Side brownstone, and more.
+http://www.nytimes.com/2015/12/09/dining/solomon-and-kuff-caribbean-harlem.html
+FLORENCE FABRICANT
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Restaurants
+--- org_facet --- 1
+Solomon & Kuff (Manhattan, NY, Restaurant)
+--- per_facet --- 1
+Kim, Sohui
+--- geo_facet --- 1
+New York City
+---------- 16 ----------
+T Magazine
+Food
+The Trendiest Tofu
+Beloved by chefs like Brooks Headley, of Superiority Burger fame, and even Chipotle, Hodo Soy’s product line finally comes to the East Coast.
+http://www.nytimes.com/2015/12/08/t-magazine/food/baked-tofu-pistachio-pesto-recipe-superiority-burger.html
+CHARLOTTE DRUCKMAN
+2015-12-08T00:00:00-5:00
+--- des_facet --- 1
+Tofu
+--- org_facet --- 1
+Superiority Burger (Manhattan, NY, Restaurant)
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 17 ----------
+Food
+
+Daniel Boulud’s Holiday Chocolate Pâté and Other Treasures
+A cookbook store with treats, washing with beef tallow, simple cocktail mixers, mochi at your door and an encyclopedia of food.
+http://www.nytimes.com/2015/12/09/dining/daniel-boulud-chocolate-pate.html
+FLORENCE FABRICANT
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Cooking and Cookbooks
+Chocolate
+Cleansers, Detergents and Soaps
+Savoring Gotham: A Food Lover's Companion to New York City (Book)
+--- org_facet --- 3
+Archestratus Books & Foods (Brooklyn, NY, Retailer)
+Cookshop (Manhattan, NY, Restaurant)
+Be Mixed Inc
+--- per_facet --- 2
+Boulud, Daniel
+Blankfein, Cristina Ros
+--- geo_facet --- 0
+---------- 18 ----------
+Food
+
+Pop-Up Bars Proliferate During the Holidays
+Seasonal drinking spots feature seasonal cocktails like the Christmas Tree Gimlet.
+http://www.nytimes.com/2015/12/01/dining/pop-up-bars-christmas-theme.html
+ROBERT SIMONSON
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Christmas
+Bars and Nightclubs
+Pop-Up Stores and Restaurants
+--- org_facet --- 2
+Mace (Manhattan, NY, Bar)
+Boilermaker (Manhattan, NY, Bar)
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 19 ----------
+Magazine
+
+The One-Bowl Wonder
+A citrusy holiday punch makes life better for the guests and their host.
+http://www.nytimes.com/2015/12/06/magazine/the-one-bowl-wonder.html
+ROSIE SCHAAP
+2015-12-06T00:00:00-5:00
+--- des_facet --- 5
+Alcoholic Beverages
+Parties (Social)
+Cocktails
+Recipes
+Pomelos (Fruit)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 20 ----------
+Food
+
+Chartreuse: Holiday Greenery in a Cocktail Coupe
+Chartreuse is enjoying a revival as a mixer, especially in the United States.
+http://www.nytimes.com/2015/12/02/dining/chartreuse.html
+FLORENCE FABRICANT
+2015-12-02T00:00:00-5:00
+--- des_facet --- 5
+Chartreuse
+Alcoholic Beverages
+Christmas
+Cocktails
+Bars and Nightclubs
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 21 ----------
+Food
+
+Nocino, an Italian Walnut Liqueur, Is Also Made in America
+With its aroma and flavor of baking spices, it even smells like the season.
+http://www.nytimes.com/2015/12/02/dining/nocino-walnut-liqueur.html
+ROBERT SIMONSON
+2015-12-02T00:00:00-5:00
+--- des_facet --- 4
+Liquor
+Alcoholic Beverages
+Christmas
+Nuts
+--- org_facet --- 2
+Skip Rock Distillers
+Watershed Distillery LLC
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 22 ----------
+Food
+
+Tokaji Aszu Wines Are a Taste of Hungarian Sweetness
+They are excellent for holiday sipping.
+http://www.nytimes.com/2015/12/02/dining/tokaji-aszu-wine.html
+ERIC ASIMOV
+2015-12-02T00:00:00-5:00
+--- des_facet --- 1
+Wines
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Hungary
+---------- 23 ----------
+N.Y. / Region
+
+Connecticut Craft Distillers Are in a Growth Spurt
+The state has a number of small distilleries, with more on the way, making fruit brandies as well as rye whiskey, vodka, gin and bourbon.
+http://www.nytimes.com/2015/12/06/nyregion/connecticut-craft-distillers-are-in-a-growth-spurt.html
+CHRISTOPHER BROOKS
+2015-12-06T00:00:00-5:00
+--- des_facet --- 1
+Alcoholic Beverages
+--- org_facet --- 4
+App Straw Brandies Distillery (Branford, Conn)
+Elm City Distillery (Wallingford, Conn)
+Litchfield Distillery (Litchfield, Conn)
+Westford Hill Distillers (Ashford, Conn)
+--- per_facet --- 0
+--- geo_facet --- 1
+Connecticut
+---------- 24 ----------
+Food
+
+Rye Adds an Authentic Touch to the Holidays
+The whiskey keeps gaining in popularity, and its simple American style fits well with Christmas.
+http://www.nytimes.com/2015/12/02/dining/rye-whiskey.html
+ROBERT SIMONSON
+2015-12-02T00:00:00-5:00
+--- des_facet --- 3
+Whiskey
+Alcoholic Beverages
+Christmas
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 25 ----------
+Business Day
+
+Chuck Williams, Founder of Williams-Sonoma, Dies at 100
+Mr. Williams made kitchenware stylish and helped transform kitchens into gleaming, efficient refectories, making it possible for ordinary cooks to get serious.
+http://www.nytimes.com/2015/12/06/business/chuck-williams-founder-of-williams-sonoma-dies-at-100.html
+ROBERT D. McFADDEN
+2015-12-07T00:00:00-5:00
+--- des_facet --- 3
+Deaths (Obituaries)
+Shopping and Retail
+Cooking and Cookbooks
+--- org_facet --- 1
+Williams-Sonoma Inc
+--- per_facet --- 1
+Williams, Charles Edward (1915-2015)
+--- geo_facet --- 0
+---------- 26 ----------
+N.Y. / Region
+
+A Meal-Delivery App Claims Turf in Seamless’s Own Backyard
+Using an Uber-like courier model, DoorDash delivers food from many restaurants that have not partnered with competitors like Seamless.
+http://www.nytimes.com/2015/12/06/nyregion/a-meal-delivery-app-claims-turf-in-seamlesss-own-backyard.html
+JONAH BROMWICH
+2015-12-06T00:00:00-5:00
+--- des_facet --- 2
+Mobile Applications
+Delivery Services
+--- org_facet --- 3
+GrubHub Inc.
+Seamless North America LLC
+DoorDash (Mobile App)
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 27 ----------
+Food
+
+At Vaucluse, Michael White Takes a Step Toward France on the Upper East Side
+Altamarea’s first French restaurant trots out the classics, which can be superb, quietly competent or oddly off kilter.
+http://www.nytimes.com/2015/12/02/dining/vaucluse-review.html
+PETE WELLS
+2015-12-02T00:00:00-5:00
+--- des_facet --- 1
+Restaurants
+--- org_facet --- 3
+Altamarea Group
+Vaucluse (Manhattan, NY, Restaurant)
+Vaucluse (NYC)
+--- per_facet --- 1
+White, Michael (Chef)
+--- geo_facet --- 1
+Upper East Side (Manhattan, NY)
+---------- 28 ----------
+Food
+
+The Choreographer Mark Morris’s Nesting Dishes
+He keeps his set of round, high-rimmed stainless-steel thali (plates) and accompanying katori (bowls), in descending sizes.
+http://www.nytimes.com/2015/12/02/dining/thali-choreographer-mark-morris-katori.html
+LIGAYA MISHAN
+2015-12-02T00:00:00-5:00
+--- des_facet --- 2
+Cooking and Cookbooks
+Tableware
+--- org_facet --- 1
+Morris, Mark, Dance Group
+--- per_facet --- 1
+Morris, Mark
+--- geo_facet --- 0
+---------- 29 ----------
+Food
+
+By Chloe Gets Poetic With Vegan in the West Village
+The Bleecker Street restaurant is run by Chloe Coscarelli, a star chef.
+http://www.nytimes.com/2015/11/25/dining/by-chloe-gets-poetic-with-vegan-in-the-west-village.html
+LIGAYA MISHAN
+2015-11-25T00:00:00-5:00
+--- des_facet --- 2
+Restaurants
+Veganism
+--- org_facet --- 2
+By Chloe (Manhattan, NY, Restaurant)
+By Chloe (NYC)
+--- per_facet --- 1
+Coscarelli, Chloe
+--- geo_facet --- 1
+West Village (Manhattan, NY)

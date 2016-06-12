@@ -1,0 +1,536 @@
+30
+
+---------- 0 ----------
+Travel
+
+36 Hours in Savannah, Ga.
+Yes, there are live oaks and elegant squares, but also innovative cuisine, a lively bar scene and a lush 30-acre park to stroll.
+http://www.nytimes.com/2015/06/07/travel/what-to-do-in-36-hours-in-savannah-georgia.html
+INGRID K. WILLIAMS
+2015-06-07T00:00:00-5:00
+--- des_facet --- 2
+Travel and Vacations
+GoogleMaps
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+Savannah (Ga)
+Georgia
+---------- 1 ----------
+Travel
+
+In Sardinia, an Affordable Family-Run Farm Stay
+The farm and guesthouse Agriturismo La Sorgente provided a glimpse into Sardinia’s rural past and still rural present.
+http://www.nytimes.com/2015/06/04/travel/in-sardinia-an-affordable-family-run-farm-stay.html
+SETH KUGEL
+2015-06-04T00:00:00-5:00
+--- des_facet --- 2
+Budget Travel
+Travel and Vacations
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Sardinia (Italy)
+---------- 2 ----------
+The Upshot
+
+Facing Elite Bloat, Airlines Move the Goal Posts
+Airlines have become increasingly skilled at ranking fliers by just how elite they are, and at public displays of this customer-importance ranking.
+http://www.nytimes.com/2015/06/07/upshot/facing-elite-bloat-airlines-move-the-goal-posts.html
+JOSH BARRO
+2015-06-07T00:00:00-5:00
+--- des_facet --- 5
+Airlines and Airplanes
+Customer Loyalty Programs
+Travel and Vacations
+Frequent Flier Programs
+Business Travel
+--- org_facet --- 1
+Delta Air Lines, Inc
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 3 ----------
+Travel
+
+Biking Through History in Philadelphia
+A new bicycle sharing program, and a challenging race, are two reasons to see Philadelphia on two wheels.
+http://www.nytimes.com/2015/06/03/travel/biking-through-history-in-philadelphia.html
+JOHN L. DORMAN
+2015-06-03T00:00:00-5:00
+--- des_facet --- 2
+Travel and Vacations
+Bicycles and Bicycling
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Philadelphia (Pa)
+---------- 4 ----------
+Travel
+
+Today’s Travel News and Tips
+What you need to know if you’re on a trip or planning one soon, including a new guide to Brooklyn and a health care app for women on the road.
+http://www.nytimes.com/2015/06/04/travel/todays-travel-news-and-tips.html
+SHIVANI VORA
+2015-06-04T00:00:00-5:00
+--- des_facet --- 1
+Travel and Vacations
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Brooklyn (NYC)
+---------- 5 ----------
+Travel
+
+Testing Android Smart Watches for Travel
+If you want a smartwatch to make travel easier, Apple Watch is hard to beat. But what about all those Android competitors?
+http://www.nytimes.com/2015/06/07/travel/testing-android-smart-watches-for-travel.html
+STEPHANIE ROSENBLOOM
+2015-06-07T00:00:00-5:00
+--- des_facet --- 5
+Travel and Vacations
+Watches and Clocks
+Wearable Computing
+Android (Operating System)
+Mobile Applications
+--- org_facet --- 2
+LG Electronics
+Motorola Mobility LLC
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 6 ----------
+Travel
+
+A Triathlon That Takes Friendships to the Extreme
+For active travelers, contrived “adventure” races have become part of the journey. A D.I.Y. Backcountry Triathlon is a more enjoyable, and free, alternative.
+http://www.nytimes.com/2015/06/07/travel/a-triathlon-that-takes-friendships-to-the-extreme.html
+JAY ATKINSON
+2015-06-07T00:00:00-5:00
+--- des_facet --- 6
+Travel and Vacations
+Triathlon
+Mountaineering
+Cycling, Mountain Bike
+Swimming
+Bicycles and Bicycling
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+White Mountains (NH)
+New Hampshire
+---------- 7 ----------
+Travel
+
+Hotel Review: Portrait Firenze in Florence
+The hotel, owned by the Ferragamo Group, uses midcentury furnishings and original photographs from the Ferragamo archives to create gorgeous 1950s-era interiors.
+http://www.nytimes.com/2015/06/07/travel/hotel-review-portrait-firenze-in-florence.html
+INGRID K. WILLIAMS
+2015-06-07T00:00:00-5:00
+--- des_facet --- 2
+Travel and Vacations
+Hotels and Travel Lodgings
+--- org_facet --- 1
+Portrait Firenze (Florence, Italy, Hotel)
+--- per_facet --- 0
+--- geo_facet --- 2
+Florence (Italy)
+Italy
+---------- 8 ----------
+Travel
+
+Why Kathy McCabe Loves Italy
+The host of “Dream of Italy” on PBS says to know the country, get to know its people.
+http://www.nytimes.com/2015/06/07/travel/why-kathy-mccabe-loves-italy.html
+ELAINE GLUSAC
+2015-06-07T00:00:00-5:00
+--- des_facet --- 3
+Travel and Vacations
+Television
+Dream of Italy (TV Program)
+--- org_facet --- 0
+--- per_facet --- 1
+McCabe, Kathleen (1973- )
+--- geo_facet --- 1
+Italy
+---------- 9 ----------
+Business Day
+
+United Airlines Delays Flights Because of Computer Problem
+The airline did not explain the nature of the problem Tuesday morning but said departures resumed after about 40 minutes.
+http://www.nytimes.com/2015/06/03/business/united-airlines-grounds-flights-because-of-computer-problem.html
+JAD MOUAWAD
+2015-06-03T00:00:00-5:00
+--- des_facet --- 2
+Delays (Transportation)
+Airlines and Airplanes
+--- org_facet --- 2
+United Airlines
+Continental Airlines
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 10 ----------
+U.S.
+
+Drought Is Bearing Fruit for Washington Wineries
+The state, which has long lagged California in winemaking, has seen its industry double in the last 15 years, and the expansion may be accelerating.
+http://www.nytimes.com/2015/06/02/us/drought-is-bearing-fruit-for-washington-wineries.html
+KIRK JOHNSON
+2015-06-02T00:00:00-5:00
+--- des_facet --- 4
+Wines
+Drought
+Agriculture and Farming
+Irrigation
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 3
+Washington (State)
+California
+Yakima River Valley (Wash)
+---------- 11 ----------
+N.Y. / Region
+
+Up on the Roof: Top-Floor Attractions Help Maximize Revenues
+Developers are trying to squeeze more money out of their real estate by taking advantage of their rooftops and observatories.
+http://www.nytimes.com/2015/06/01/nyregion/up-on-the-roof-top-floor-attractions-help-maximize-revenues.html
+CHARLES V. BAGLI
+2015-06-01T00:00:00-5:00
+--- des_facet --- 7
+Real Estate and Housing (Residential)
+Real Estate (Commercial)
+Buildings (Structures)
+1 World Trade Center (Manhattan, NY)
+Observatories
+Rooftops
+Travel and Vacations
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+New York City
+---------- 12 ----------
+Travel
+
+In Hawaii, Surf, Sun and Snow
+Donning a parka atop a mountain, relaxing at the pool or watching lava flow, visitors to this part of Hawaii encounter vastly different landscapes.
+http://www.nytimes.com/2015/05/31/travel/in-hawaii-surf-sun-and-snow.html
+JEREMY W. PETERS
+2015-05-31T00:00:00-5:00
+--- des_facet --- 1
+Travel and Vacations
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 6
+Hawaii (The Big Island)
+Honolulu (Hawaii)
+Hawaii Volcanoes National Park
+Maui (Hawaii)
+Oahu (Hawaii)
+Hawaii
+---------- 13 ----------
+Travel
+
+Four Ways to Earn Airline Miles Quickly With a Hotel Stay
+These are factors to consider before booking a hotel room on PointsHound or Rocketmiles that can earn you thousands of frequent-flier miles.
+http://www.nytimes.com/2015/05/31/travel/four-ways-to-earn-airline-miles-quickly-with-a-hotel-stay.html
+STEPHANIE ROSENBLOOM
+2015-05-31T00:00:00-5:00
+--- des_facet --- 5
+Hotels and Travel Lodgings
+Frequent Flier Programs
+Customer Loyalty Programs
+Travel and Vacations
+Airlines and Airplanes
+--- org_facet --- 2
+Rocket Travel Inc
+Points International Ltd
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 14 ----------
+Travel
+
+Walkabout: Americans Descend on Europe; Travel Start-Ups
+A weekly capsule of travel news curated by our writers and editors.
+http://www.nytimes.com/2015/05/29/travel/walkabout-americans-descend-on-europe-travel-start-ups.html
+THE NEW YORK TIMES
+2015-06-01T00:00:00-5:00
+--- des_facet --- 1
+Travel and Vacations
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 15 ----------
+Travel
+
+36 Hours in Chapel Hill-Carrboro, N.C.
+These two Southern neighbors offer plenty of options for weekend travelers, from bluegrass under the oaks to a sprawling farmers’ market.
+http://www.nytimes.com/2015/05/31/travel/what-to-do-in-36-hours-in-chapel-hill-carrboro.html
+INGRID K. WILLIAMS
+2015-05-31T00:00:00-5:00
+--- des_facet --- 4
+Travel and Vacations
+Restaurants
+Bars and Nightclubs
+GoogleMaps
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 3
+Chapel Hill (NC)
+Carrboro (NC)
+North Carolina
+---------- 16 ----------
+Travel
+
+In Morocco, Exploring Remnants of Jewish History
+In looking for traces of the Jews who lived in the walled quarters of Morocco, a sense of urgency prevails about future of the country’s Jewish legacy.
+http://www.nytimes.com/2015/05/31/travel/in-morocco-exploring-remnants-of-jewish-history.html
+MICHAEL FRANK
+2015-05-31T00:00:00-5:00
+--- des_facet --- 2
+Travel and Vacations
+Jews and Judaism
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 3
+Casablanca (Morocco)
+Fez (Morocco)
+Marrakesh (Morocco)
+---------- 17 ----------
+Travel
+
+A Tour of Sardinia, Full of Discoveries
+The Frugal Traveler finds hospitality hiding everywhere in the island’s rugged landscape.
+http://www.nytimes.com/2015/05/27/travel/a-tour-of-sardinia-full-of-discoveries.html
+SETH KUGEL
+2015-05-27T00:00:00-5:00
+--- des_facet --- 2
+Travel and Vacations
+Budget Travel
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Sardinia (Italy)
+---------- 18 ----------
+Travel
+
+In Varazdin, a Thriving Arts Scene Emerges
+A cultural explosion is taking place in castles and squares, in churches and a synagogue and along the ancient streets of Varazdin.
+http://www.nytimes.com/2015/05/31/travel/in-varazdin-a-thriving-arts-scene-emerges.html
+SHIVANI VORA
+2015-05-31T00:00:00-5:00
+--- des_facet --- 3
+Travel and Vacations
+Art
+Culture (Arts)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+Varazdin (Croatia)
+Croatia
+---------- 19 ----------
+Travel
+
+For Cruise Visitors, an On-Shore Taste of Alaska’s Bounty
+Until recently, Juneau didn’t have much to offer the discerning diner. But that has changed with fresh enthusiasm for locally sourced fare.
+http://www.nytimes.com/2015/05/31/travel/for-cruise-visitors-an-on-shore-taste-of-alaskas-bounty.html
+ELAINE GLUSAC
+2015-05-31T00:00:00-5:00
+--- des_facet --- 3
+Travel and Vacations
+Restaurants
+Cruises
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+Juneau (Alaska)
+Alaska
+---------- 20 ----------
+Travel
+
+How to Get the Most Out of the National Parks This Summer
+From Arizona to Wyoming, the latest developments and improvements at America’s parks and historic sites.
+http://www.nytimes.com/2015/05/28/travel/national-parks-gear-up-for-summer-rush.html
+RACHEL LEE HARRIS
+2015-06-14T00:00:00-5:00
+--- des_facet --- 5
+National Parks, Monuments and Seashores
+Travel and Vacations
+States (US)
+Historic Buildings and Sites
+Parks and Other Recreation Areas
+--- org_facet --- 1
+National Park Service
+--- per_facet --- 0
+--- geo_facet --- 14
+Alcatraz (San Francisco)
+Capitol Reef National Park (Utah)
+Rocky Mountain National Park (Colo)
+Yosemite National Park (Calif)
+Shenandoah National Park (Va)
+Arches National Park (Utah)
+Glacier National Park (Mont)
+Grand Canyon (Ariz)
+Great Smoky Mountains National Park
+Hawaii Volcanoes National Park
+Lassen Volcanic National Park (Calif)
+Mount Desert Island (Me)
+Mount Rushmore National Memorial (SD)
+Rock Creek Park (Washington, DC)
+---------- 21 ----------
+Travel
+
+Camping in Church? Make Way for Champers
+Travelers can now spend a night surrounded by history in three of England’s treasured country churches as part of the “champing” program.
+http://www.nytimes.com/2015/05/31/travel/camping-in-church-make-way-for-champers.html
+DIANE DANIEL
+2015-05-31T00:00:00-5:00
+--- des_facet --- 3
+Travel and Vacations
+Churches (Buildings)
+Camps and Camping
+--- org_facet --- 1
+Churches Conservation Trust
+--- per_facet --- 0
+--- geo_facet --- 1
+Great Britain
+---------- 22 ----------
+Travel
+
+In Omaha, Farmers and Chefs Are Good Together
+In some of the city’s most inviting restaurants, it’s not just ingredients that are homegrown; the chefs and owners are, too.
+http://www.nytimes.com/2015/05/31/travel/in-omaha-farmers-and-chefs-are-good-together.html
+STEVE REDDICLIFFE
+2015-05-31T00:00:00-5:00
+--- des_facet --- 3
+Restaurants
+Travel and Vacations
+Cooking and Cookbooks
+--- org_facet --- 8
+Boiler Room (Omaha, Neb, Restaurant)
+J Coco (Omaha, Neb, Restaurant)
+Grey Plume (Omaha, Neb, Restaurant)
+King Fong Cafe (Omaha, Neb, Restaurant)
+Boiler Room (Omaha, Neb)
+J Coco (Omaha, Neb)
+Grey Plume (Omaha, Neb)
+King Fong Cafe (Omaha, Neb)
+--- per_facet --- 0
+--- geo_facet --- 1
+Omaha (Neb)
+---------- 23 ----------
+N.Y. / Region
+
+Opera House Hotel in the Bronx Gets High Marks From Guests, if They Can Get There
+A highly unscientific survey of its guests yielded plenty of reasons tourists would come to a two-year-old boutique hotel in the borough that still, apparently, strikes fear in the hearts of cabbies.
+http://www.nytimes.com/2015/06/01/nyregion/opera-house-hotel-in-the-bronx-gets-high-marks-from-guests-if-they-can-get-there.html
+ANDY NEWMAN
+2015-06-01T00:00:00-5:00
+--- des_facet --- 1
+Taxicabs and Taxicab Drivers
+--- org_facet --- 1
+Opera House Hotel (Bronx, NY, Hotel)
+--- per_facet --- 0
+--- geo_facet --- 2
+South Bronx (Bronx, NY)
+Bronx (NYC)
+---------- 24 ----------
+Travel
+
+Restaurant Report: The Grey in Savannah, Georgia
+A carefully restored former bus depot serves as a home for a talented chef whose pared-down dishes let local products shine.
+http://www.nytimes.com/2015/05/31/travel/restaurant-report-the-grey-in-savannah-georgia.html
+INGRID K. WILLIAMS
+2015-05-31T00:00:00-5:00
+--- des_facet --- 2
+Restaurants
+Travel and Vacations
+--- org_facet --- 2
+Grey, The (Savannah, Ga, Restaurant)
+Grey, The (Savannah, Ga)
+--- per_facet --- 0
+--- geo_facet --- 1
+Savannah (Ga)
+---------- 25 ----------
+Travel
+
+Questions for Chef Enrique Olvera
+Having conquered New York with his restaurant Cosme, the Mexican chef is returning to his native country to extend his empire.
+http://www.nytimes.com/2015/05/31/travel/questions-for-chef-enrique-olvera.html
+DAN SALTZSTEIN
+2015-05-31T00:00:00-5:00
+--- des_facet --- 3
+Travel and Vacations
+Restaurants
+Food
+--- org_facet --- 2
+Manta (Los Cabos, Mexico, Restaurant)
+Manta (Los Cabos, Mexico)
+--- per_facet --- 1
+Olvera, Enrique
+--- geo_facet --- 1
+Los Cabos (Mexico)
+---------- 26 ----------
+Travel
+
+Hotel Review: Tierras Enamoradas
+Seclusion and adventure can be had at a sprawling eco resort in a Costa Rican rain forest.
+http://www.nytimes.com/2015/05/31/travel/hotel-review-tierras-enamoradas.html
+DOREEN CARVAJAL
+2015-05-31T00:00:00-5:00
+--- des_facet --- 2
+Travel and Vacations
+Hotels and Travel Lodgings
+--- org_facet --- 1
+Tierras Enamoradas (San Ramon, Costa Rica, Hotel)
+--- per_facet --- 0
+--- geo_facet --- 2
+San Ramon (Costa Rica)
+Costa Rica
+---------- 27 ----------
+Travel
+
+In Travel Accessories, Style Meets Convenience
+There is no shortage of tech gadgets designed to make travel easier, but equally innovative accessories had been few and far between.
+http://www.nytimes.com/2015/05/31/travel/in-travel-accessories-style-meets-convenience.html
+SHIVANI VORA
+2015-05-31T00:00:00-5:00
+--- des_facet --- 2
+Travel and Vacations
+Luggage
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 28 ----------
+Arts
+
+Campsites in the Heart of New York City
+There are some great opportunities to pitch a tent in the city, including Central Park, Prospect Park and Floyd Bennett Field in Brooklyn.
+http://www.nytimes.com/2015/05/29/arts/campsites-in-the-heart-of-new-york-city.html
+JONATHAN WOLFE
+2015-05-29T00:00:00-5:00
+--- des_facet --- 2
+Camps and Camping
+Tents
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+New York City
+---------- 29 ----------
+Business Day
+
+Uber Closes In on Its Last Frontier: Airports
+American airport officials know the ride-hailing phenomenon will not recede, and they are rewriting regulations to welcome all manner of cars.
+http://www.nytimes.com/2015/05/26/business/uber-closes-in-on-its-last-frontier-airports.html
+MIKE TIERNEY
+2015-05-26T00:00:00-5:00
+--- des_facet --- 4
+Airports
+Regulation and Deregulation of Industry
+Car Services and Livery Cabs
+Taxicabs and Taxicab Drivers
+--- org_facet --- 5
+Uber Technologies Inc
+Hartsfield-Jackson Atlanta International Airport (Atlanta, Ga)
+Lyft Inc
+Kennedy International Airport (Queens, NY)
+LaGuardia Airport (Queens, NY)
+--- per_facet --- 0
+--- geo_facet --- 0

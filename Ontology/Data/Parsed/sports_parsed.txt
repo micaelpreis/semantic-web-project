@@ -1,0 +1,501 @@
+30
+
+---------- 0 ----------
+Sports
+Baseball
+Ben Zobrist Was Never the Guy for the Mets; Yoenis Cespedes Is
+The Mets, blessed with pitching, need to pursue a genuine power hitter like Cespedes, who led the team to the pennant last season.
+http://www.nytimes.com/2015/12/10/sports/baseball/yoenis-cespedes-the-key-for-new-york-mets.html
+MICHAEL POWELL
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Baseball
+--- org_facet --- 1
+New York Mets
+--- per_facet --- 2
+Zobrist, Ben
+Cespedes, Yoenis
+--- geo_facet --- 0
+---------- 1 ----------
+Sports
+Baseball
+Mets Acquire Neil Walker in Trade for Jon Niese
+The move essentially cuts ties with two of the longest tenured Mets: Niese and Daniel Murphy, the free-agent second baseman.
+http://www.nytimes.com/2015/12/10/sports/baseball/mets-trade-jon-niese-to-pittsburgh-pirates-for-neil-walker.html
+TIM ROHAN
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Baseball
+Trades (Sports)
+--- org_facet --- 2
+Pittsburgh Pirates
+New York Mets
+--- per_facet --- 2
+Niese, Jon
+Walker, Neil
+--- geo_facet --- 0
+---------- 2 ----------
+Sports
+Baseball
+This Time, Cubs Beat Mets by Signing Zobrist, a Top Free Agent
+Zobrist, who had also been pursued by the Giants and the Nationals, signed a four-year, $56 million deal.
+http://www.nytimes.com/2015/12/09/sports/baseball/chicago-cubs-said-to-sign-ben-zobrist-taking-mets-top-target.html
+TIM ROHAN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Baseball
+Free Agents (Sports)
+--- org_facet --- 2
+Chicago Cubs
+New York Mets
+--- per_facet --- 1
+Zobrist, Ben
+--- geo_facet --- 0
+---------- 3 ----------
+Sports
+Pro Basketball
+Warriors’ Streak Inches Closer to Lakers’ 33-Gamer
+If it keeps winning, Golden State (23-0), which has won 27 straight dating to last season, could match the Lakers’ streak on Dec. 25 against Cleveland.
+http://www.nytimes.com/2015/12/10/sports/basketball/golden-state-warriors-streak-inches-closer-to-lakers-33-gamer.html
+VICTOR MATHER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Basketball
+--- org_facet --- 1
+Golden State Warriors
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 4 ----------
+Sports
+Pro Basketball
+Nets Complete Season Sweep of Rockets
+Brook Lopez, Joe Johnson and Thaddeus Young each scored 20 points or more, and the host Nets defeated Houston for the second time this year.
+http://www.nytimes.com/2015/12/09/sports/basketball/nets-complete-season-sweep-of-rockets.html
+THE ASSOCIATED PRESS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Basketball
+--- org_facet --- 2
+Brooklyn Nets
+Houston Rockets
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 5 ----------
+Sports
+Soccer
+On Artificial Turf Issue, U.S. Women Dig In at Last
+By refusing to play a match on what it called an unsafe field, the United States women’s national soccer team put its popularity to good use.
+http://www.nytimes.com/2015/12/09/sports/soccer/on-turf-us-women-dig-in-their-heels-at-last.html
+JULIET MACUR
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Soccer
+Artificial Turf
+Stadiums and Arenas
+Sports Injuries
+--- org_facet --- 3
+United States Women's National Soccer Team
+International Federation of Association Football (FIFA)
+National Women's Soccer League (US)
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 6 ----------
+Sports
+Soccer
+Head of U.S. Soccer Apologizes for Cancellation
+Sunil Gulati, the president of U.S. Soccer, said a “series of mistakes” led to a failure to ensure a field was suitable for an international women’s soccer match.
+http://www.nytimes.com/2015/12/09/sports/soccer/sunil-gulati-apologizes-for-us-soccer-cancellation.html
+SAM BORDEN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Soccer
+Artificial turf
+Stadiums and Arenas
+--- org_facet --- 1
+United States Women's National Soccer Team
+--- per_facet --- 1
+Gulati, Sunil
+--- geo_facet --- 0
+---------- 7 ----------
+Sports
+College Basketball
+A Life on the Move Molds a U.C.L.A. Basketball Star
+Nirra Fields, whose journey included three high schools and a half-dozen moves, is a top guard on a top team and a likely W.N.B.A. draft pick.
+http://www.nytimes.com/2015/12/10/sports/ncaabasketball/a-life-on-the-move-molds-a-ucla-basketball-star.html
+JILL PAINTER LOPEZ
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Basketball (College)
+--- org_facet --- 1
+University of California, Los Angeles
+--- per_facet --- 1
+Fields, Nirra
+--- geo_facet --- 0
+---------- 8 ----------
+Sports
+College Basketball
+Disappointing Addition to UConn&#8217;s Long History at Madison Square Garden
+Connecticut, which first played at the Garden in 1951, fell to Maryland in the late game of the Jimmy V Classic, the Huskies&#8217; 114th game at the arena.
+http://www.nytimes.com/2015/12/09/sports/ncaabasketball/disappointing-addition-to-uconns-long-history-at-madison-square-garden.html
+SETH BERKMAN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Basketball (College)
+--- org_facet --- 2
+University of Connecticut
+University of Maryland
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 9 ----------
+Sports
+Baseball
+Graham McNamee Wins Frick Award for Baseball Broadcasting
+McNamee, who called the World Series on radio from 1923 to 1934, was the top vote-getter in a new system that alternates voting among three eras.
+http://www.nytimes.com/2015/12/10/sports/baseball/graham-mcnamee-wins-frick-award-for-baseball-broadcasting.html
+RICHARD SANDOMIR
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Baseball
+--- org_facet --- 1
+Baseball Hall of Fame
+--- per_facet --- 2
+Frick, Ford C
+McNamee, Graham
+--- geo_facet --- 0
+---------- 10 ----------
+Sports
+Baseball
+Honoring Broadcasters, No Audio Required
+The Ford C. Frick Award will be presented to a broadcaster whose work spanned the 1920s to the mid-1950s, but the dearth of audio from that era has made the voting process difficult.
+http://www.nytimes.com/2015/12/09/sports/baseball/hall-of-fame-is-honoring-broadcasters-even-voters-havent-all-heard.html
+RICHARD SANDOMIR
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Baseball
+Radio
+Television
+Awards, Decorations and Honors
+--- org_facet --- 1
+Baseball Hall of Fame
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 11 ----------
+N.Y. / Region
+
+Few Wins but Much Chaos at Rutgers After Move to the Big Ten
+The tumult since the New Jersey state university gained membership in the sports conference in 2014 has made it an example of how colleges can go astray in a bid for prime-time athletics.
+http://www.nytimes.com/2015/12/09/nyregion/rutgerss-move-to-big-ten-brings-athletic-scandals-and-firings.html
+KATE ZERNIKE
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Colleges and Universities
+College Athletics
+Football (College)
+--- org_facet --- 2
+Big Ten Conference
+Rutgers, The State University of New Jersey
+--- per_facet --- 3
+Flood, Kyle
+Hermann, Julie
+Barchi, Robert L
+--- geo_facet --- 0
+---------- 12 ----------
+Sports
+Hockey
+N.H.L. This Week: Reunions in Toronto and Edmonton
+The Devils travel to Toronto on Tuesday to see their old boss, and the Rangers will visit their former backup goalie Cam Talbot in Edmonton on Friday.
+http://www.nytimes.com/2015/12/09/sports/hockey/nhl-this-week-reunions-in-toronto-and-edmonton.html
+NAILA-JEAN MEYERS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Hockey, Ice
+--- org_facet --- 1
+National Hockey League
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 13 ----------
+Sports
+Soccer
+Live and Kicking: Soccer Games to Watch This Week
+This week is as busy as last week was (relatively) quiet. The soccer editor and shameless Ajax supporter Andrew Das tells you what to watch.
+http://www.nytimes.com/2015/12/08/sports/soccer/live-and-kicking-soccer-games-to-watch-this-week.html
+ANDREW DAS
+2015-12-08T00:00:00-5:00
+--- des_facet --- 1
+Soccer
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 14 ----------
+Sports
+Baseball
+Yankees, Seeking to Get Younger, Acquire Starlin Castro From the Cubs
+Castro is their new second baseman, arriving Tuesday in a deal with the Chicago Cubs for pitcher Adam Warren and a player to be named.
+http://www.nytimes.com/2015/12/09/sports/baseball/yankees-seeking-to-get-younger-acquire-starlin-castro-from-the-cubs.html
+TYLER KEPNER
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Baseball
+Trades (Sports)
+--- org_facet --- 2
+New York Yankees
+Chicago Cubs
+--- per_facet --- 2
+Castro, Starlin
+Warren, Adam (1987- )
+--- geo_facet --- 0
+---------- 15 ----------
+Sports
+Baseball
+Aroldis Chapman Not Charged; Trade Delayed
+The police in Davie, Fla., said there was insufficient evidence to charge Chapman, who had been traded from the Reds to the Dodgers.
+http://www.nytimes.com/2015/12/09/sports/baseball/aroldis-chapman-not-charged-trade-delayed.html
+THE ASSOCIATED PRESS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Baseball
+Domestic Violence
+Trades (Sports)
+--- org_facet --- 2
+Cincinnati Reds
+Los Angeles Dodgers
+--- per_facet --- 1
+Chapman, Aroldis (1988- )
+--- geo_facet --- 0
+---------- 16 ----------
+Sports
+
+Yasiel Puig Will Join Cuba Trip
+Puig, a Dodgers outfielder who defected from Cuba in 2012, will join a good-will tour, sponsored by Major League Baseball and the players’ union, next week.
+http://www.nytimes.com/2015/12/09/sports/yasiel-puig-will-join-cuba-trip.html
+DAVID WALDSTEIN
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Baseball
+Defectors (Political)
+--- org_facet --- 1
+Los Angeles Dodgers
+--- per_facet --- 1
+Puig, Yasiel
+--- geo_facet --- 1
+Cuba
+---------- 17 ----------
+Sports
+Pro Football
+Winston and Mariota Are Rare Rookie Quarterback Success Stories
+The Buccaneers’ Jameis Winston and the Titans’ Marcus Mariota have grown up quickly in the N.F.L., where rookies rarely thrive.
+http://www.nytimes.com/2015/12/08/sports/football/jameis-winston-marcus-mariota-rookie-quarterbacks.html
+CHASE STUART
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Football
+--- org_facet --- 2
+Tampa Bay Buccaneers
+Tennessee Titans
+--- per_facet --- 2
+Mariota, Marcus (1993- )
+Winston, Jameis
+--- geo_facet --- 0
+---------- 18 ----------
+Sports
+College Football
+ESPN and College Football Playoff Agree Not to Air Daily Fantasy Ads
+The telecasts of the national semifinals and the national championship game this season will not feature advertising for daily fantasy websites like DraftKings and FanDuel.
+http://www.nytimes.com/2015/12/10/sports/ncaafootball/espn-college-football-playoff-draftkings-fanduel-ads-daily-fantasy.html
+MARC TRACY
+2015-12-10T00:00:00-5:00
+--- des_facet --- 6
+Football (College)
+Television
+Advertising and Marketing
+Fantasy Sports
+Bowl Games
+College Football Playoff National Championship
+--- org_facet --- 3
+ESPN
+FanDuel.com
+DraftKings Inc
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 19 ----------
+Sports
+Pro Football
+Nobody’s in a Hurry to Win the N.F.C. East
+The weekend’s games did not provide any clarity in the division, as three teams are now 5-7, and the one that is 4-8 might have the best shot to advance.
+http://www.nytimes.com/2015/12/09/sports/football/nfc-east-still-up-for-grabs-for-all-four-teams.html
+VICTOR MATHER
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Football
+--- org_facet --- 4
+Dallas Cowboys
+New York Giants
+Philadelphia Eagles
+Washington Redskins
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 20 ----------
+Sports
+Pro Football
+Johnny Manziel Back as Starter for Browns
+All may be forgiven in Cleveland as Coach Mike Pettine decides to play Manziel at quarterback after benching him for two games.
+http://www.nytimes.com/2015/12/09/sports/football/johnny-manziel-back-as-starter-for-browns.html
+THE ASSOCIATED PRESS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Football
+--- org_facet --- 1
+Cleveland Browns
+--- per_facet --- 1
+Manziel, Johnny
+--- geo_facet --- 0
+---------- 21 ----------
+Sports
+Soccer
+Jailed South American Official in FIFA Case Agrees to Extradition
+The president of Conmebol, Juan Ángel Napout, who was arrested in Zurich last week, agreed to be extradited on Tuesday, the Swiss authorities said.
+http://www.nytimes.com/2015/12/09/sports/soccer/jailed-south-american-official-in-fifa-case-agrees-to-extradition.html
+REBECCA R. RUIZ
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Soccer
+Extradition
+Bribery and Kickbacks
+--- org_facet --- 2
+International Federation of Association Football (FIFA)
+Confederation of North, Central American and Caribbean Association Football (CONCACAF)
+--- per_facet --- 1
+Napout, Juan Angel (1958- )
+--- geo_facet --- 0
+---------- 22 ----------
+Sports
+Soccer
+Cristiano Ronaldo Sets Scoring Record
+Ronaldo’s four goals in Real Madrid’s victory over Malmo made him the first player with at least 10 goals in a group stage of the Champions League.
+http://www.nytimes.com/2015/12/09/sports/soccer/cristiano-ronaldo-sets-scoring-record.html
+THE ASSOCIATED PRESS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Soccer
+Records and Achievements
+UEFA Champions League (Soccer)
+--- org_facet --- 2
+Real Madrid (Soccer Team)
+Malmo FF (Soccer Team)
+--- per_facet --- 1
+Ronaldo, Cristiano
+--- geo_facet --- 0
+---------- 23 ----------
+Sports
+Hockey
+N.H.L.’s Backup Goalies, Living in the Moment, Thrive at Stepping In
+Knowing that their workloads — and their fortunes — can change in a flash is just part of the game for players like the Rangers’ Antti Raanta.
+http://www.nytimes.com/2015/12/09/sports/hockey/nhls-backup-goalies-living-in-the-moment-thrive-at-stepping-in.html
+DAVE CALDWELL
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Hockey, Ice
+--- org_facet --- 1
+New York Rangers
+--- per_facet --- 3
+Raanta, Antti (1989- )
+Kinkaid, Keith (1989- )
+Condon, Mike (1990- )
+--- geo_facet --- 0
+---------- 24 ----------
+Sports
+Hockey
+Islanders Beat Flyers With the Only Goal of the Shootout
+Kyle Okposo’s goal in the shootout sent the Islanders to their sixth win in eight games.
+http://www.nytimes.com/2015/12/09/sports/hockey/islanders-beat-flyers-with-the-only-goal-of-the-shootout.html
+THE ASSOCIATED PRESS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Hockey, Ice
+--- org_facet --- 1
+New York Islanders
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 25 ----------
+Sports
+Hockey
+Devils Lose to the Maple Leafs in a Shootout
+Devils goalie Corey Schneider stopped 36 shots, but Toronto won in the fifth round of the tiebreaker.
+http://www.nytimes.com/2015/12/09/sports/hockey/devils-lose-to-the-maple-leafs-in-a-shootout.html
+THE ASSOCIATED PRESS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Hockey, Ice
+--- org_facet --- 2
+New Jersey Devils
+Toronto Maple Leafs
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 26 ----------
+Sports
+Hockey
+N.H.L. Faces Another Lawsuit Over Head Injuries
+A lawsuit by the family of Steve Montador accuses the N.H.L. of breaching its duty to inform players about the long-term dangers of repeated brain trauma. Montador was found to have C.T.E. after his death at 35.
+http://www.nytimes.com/2015/12/09/sports/hockey/steve-montador-family-sues-nhl-over-head-injuries.html
+THE ASSOCIATED PRESS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Hockey, Ice
+Chronic Traumatic Encephalopathy
+Suits and Litigation (Civil)
+--- org_facet --- 2
+National Hockey League
+Chicago Blackhawks
+--- per_facet --- 1
+Montador, Steve (1979-2015)
+--- geo_facet --- 0
+---------- 27 ----------
+Sports
+Tennis
+Roger Federer Drops Stefan Edberg From Coaching Staff
+Federer announced that Edberg, his boyhood idol and assistant coach, would be replaced by Ivan Ljubicic, Federer’s good friend.
+http://www.nytimes.com/2015/12/09/sports/tennis/roger-federer-drops-stefan-edberg-from-coaching-staff.html
+CHRISTOPHER CLAREY
+2015-12-09T00:00:00-5:00
+--- des_facet --- 1
+Tennis
+--- org_facet --- 0
+--- per_facet --- 3
+Federer, Roger
+Edberg, Stefan
+Ljubicic, Ivan
+--- geo_facet --- 0
+---------- 28 ----------
+World
+Africa
+Oscar Pistorius Granted Bail Ahead of Sentencing
+A lawyer for the Olympic athlete known as the Blade Runner said his client would appeal his murder conviction to South Africa’s highest court.
+http://www.nytimes.com/2015/12/09/world/africa/oscar-pistorius-bail.html
+DAN BILEFSKY
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Murders, Attempted Murders and Homicides
+Bail
+--- org_facet --- 0
+--- per_facet --- 2
+Pistorius, Oscar
+Steenkamp, Reeva
+--- geo_facet --- 1
+South Africa
+---------- 29 ----------
+Sports
+
+Tyson Fury in Police Investigation
+Fury is being investigated over a report of a hate crime and has reportedly been stripped of his International Boxing Federation heavyweight title.
+http://www.nytimes.com/2015/12/09/sports/tyson-fury-in-police-investigation.html
+THE ASSOCIATED PRESS
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Boxing
+Hate Crimes
+--- org_facet --- 1
+International Boxing Federation
+--- per_facet --- 1
+Fury, Tyson (1988- )
+--- geo_facet --- 1
+Manchester (England)

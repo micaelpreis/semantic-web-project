@@ -1,0 +1,510 @@
+30
+
+---------- 0 ----------
+Fashion & Style
+
+Big Names, Tiny Homes
+In a twist on prefab, Daniel Libeskind, Tom Dixon, David Salle and others have designed custom small houses and pavilions.
+http://www.nytimes.com/2015/12/10/fashion/big-names-tiny-homes.html
+PENELOPE GREEN
+2015-12-10T00:00:00-5:00
+--- des_facet --- 7
+Architecture
+Prefabricated Buildings
+Real Estate and Housing (Residential)
+Design
+Interior Design and Furnishings
+Art Basel (Festival)
+Tiny house
+--- org_facet --- 1
+Glass House (New Canaan, Conn)
+--- per_facet --- 5
+Hadid, Zaha
+Koolhaas, Rem
+Johnson, Philip
+Libeskind, Daniel
+Prouve, Jean (1901-84)
+--- geo_facet --- 2
+Manila (Philippines)
+Miami (Fla)
+---------- 1 ----------
+Fashion & Style
+
+Manhattan as Tinsel Town: Holiday Decorations Traditional and Weird
+Ornaments, check. Snowflakes, check. Tinsel, check. Antlers?
+http://www.nytimes.com/2015/12/10/fashion/manhattan-as-tinsel-town-holiday-decorations-traditional-and-weird.html
+GUY TREBAY
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Christmas
+Christmas Trees
+Museums
+--- org_facet --- 2
+Metropolitan Museum of Art
+Lord & Taylor
+--- per_facet --- 0
+--- geo_facet --- 1
+Fifth Avenue (Manhattan, NY)
+---------- 2 ----------
+Fashion & Style
+
+A Night Out With Solange Knowles at Art Basel
+A collector of prints is poised, if not to eclipse the megawattage of her superstar sister, Beyoncé, then to shine as a pop-culture bellwether in a light of her own.
+http://www.nytimes.com/2015/12/10/fashion/solange-knowles-art-basel-miami-beach.html
+RUTH LA FERLA
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Art Basel Miami Beach
+Fashion and Apparel
+Parties (Social)
+Art
+--- org_facet --- 0
+--- per_facet --- 1
+Solange Knowles
+--- geo_facet --- 1
+Miami Beach (Fla)
+---------- 3 ----------
+Fashion & Style
+
+Derek Jeter on His Second Act, as a Sports Media Mogul
+After retiring from the Yankees, the Captain spends time on The Players’ Tribune, an unfiltered soapbox for athletes, and his Turn 2 Foundation.
+http://www.nytimes.com/2015/12/10/fashion/derek-jeter-on-his-second-act-as-a-sports-media-mogul.html
+ALEX WILLIAMS
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+News and News Media
+--- org_facet --- 3
+Players' Tribune, The
+Turn 2 Foundation
+Movado Group Inc
+--- per_facet --- 1
+Jeter, Derek
+--- geo_facet --- 0
+---------- 4 ----------
+Fashion & Style
+
+Schooling Children in Manners, Thank You Very Much
+Parents, teachers and entrepreneurs are teaching young people old-fashioned civility.
+http://www.nytimes.com/2015/12/10/fashion/schooling-children-in-manners-thank-you-very-much.html
+ALYSON KRUEGER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Customs, Etiquette and Manners
+Children and Childhood
+Youth
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 5 ----------
+Fashion & Style
+
+SantaCon Fights for the Right to Party, Responsibly
+Supporters of the popular holiday bar crawl are fighting for the right to party.
+http://www.nytimes.com/2015/12/10/fashion/santacon-2015-fights-for-the-right-to-party.html
+ KATIE VAN SYCKLE
+2015-12-10T00:00:00-5:00
+--- des_facet --- 5
+SantaCon (Festival)
+Bars and Nightclubs
+Christmas
+Parties (Social)
+Parades
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Manhattan (NYC)
+---------- 6 ----------
+Fashion & Style
+
+A New ’70s Throwback Bar in Bushwick
+The Brooklyn bar Birdy’s channels era-appropriate rock and punk, with vintage Colt 45 ads, pinball machines and cheap drinks.
+http://www.nytimes.com/2015/12/10/fashion/birdys-bushwick-70s-bar.html
+BRIAN SLOAN
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Bars and Nightclubs
+Pinball Machines
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+Bushwick (Brooklyn, NY)
+Brooklyn (NYC)
+---------- 7 ----------
+Fashion & Style
+Couture Runway
+Sergio Rossi Sale May Signal the End of the Shoe Bubble
+Kering’s plan raises the question of whether the fairy tale that fashion has been telling for the last few years may instead be a case of Cinderella’s pumpkin.
+http://www.nytimes.com/2015/12/10/fashion/runway-couture/kering-sergio-rossi-sale-fashion-luxury.html
+VANESSA FRIEDMAN
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Shoes and Boots
+--- org_facet --- 3
+LVMH Moet Hennessy Louis Vuitton SA
+Kering SA
+Balenciaga (Fashion Label)
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 8 ----------
+Fashion & Style
+
+At Muji, Design Intelligence Meets Dried Squid
+Enigma is part of the allure at its giant new flagship on Fifth Avenue. You may even find something you “need.”
+http://www.nytimes.com/2015/12/10/fashion/muji-flagship-fifth-avenue.html
+MOLLY YOUNG
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Shopping and Retail
+Fashion and Apparel
+--- org_facet --- 1
+Muji (Retail Store)
+--- per_facet --- 0
+--- geo_facet --- 1
+Fifth Avenue (Manhattan, NY)
+---------- 9 ----------
+Fashion & Style
+
+Jonathan Saunders Is Closing Shop, Ending a Colorful Run
+The Scottish designer cites “personal reasons” in resigning as creative director, thereby shutting down his label.
+http://www.nytimes.com/2015/12/08/fashion/jonathan-saunders-is-closing-shop-ending-a-colorful-run.html
+ELIZABETH PATON
+2015-12-08T00:00:00-5:00
+--- des_facet --- 2
+Fashion and Apparel
+Appointments and Executive Changes
+--- org_facet --- 0
+--- per_facet --- 1
+Saunders, Jonathan
+--- geo_facet --- 0
+---------- 10 ----------
+Fashion & Style
+
+Miley Cyrus and the Flaming Lips’ Wayne Coyne Close a Generation Gap
+The happy working relationship of the pop star and her much-older collaborator suggests that peace is possible between Gen X-ers and millennials.
+http://www.nytimes.com/2015/12/10/fashion/miley-cyrus-wayne-coyne.html
+STEVEN KURUTZ
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Music
+Millennial Generation
+Age, Chronological
+Gen X
+--- org_facet --- 1
+Flaming Lips (Music Group)
+--- per_facet --- 2
+Cyrus, Miley
+Wayne Coyne
+--- geo_facet --- 0
+---------- 11 ----------
+Fashion & Style
+
+Shala Monroque’s Caribbean Beauty Tips
+After leaving New York for St. Lucia, Shala Monroque skips makeup during the day and heads to the sulfur baths.
+http://www.nytimes.com/2015/12/10/fashion/shala-monroques-beauty-tips.html
+BEE SHAPIRO
+2015-12-10T00:00:00-5:00
+--- des_facet --- 6
+Skin
+Cosmetics and Toiletries
+Hair
+Perfumes and Fragrances
+Shampoos and Hair Products
+Exercise
+--- org_facet --- 0
+--- per_facet --- 1
+Shala Monroque
+--- geo_facet --- 1
+St Lucia
+---------- 12 ----------
+Fashion & Style
+
+Remembering Holly Woodlawn, a Transgender Star of the Warhol Era
+The actress and fearless pioneer of the transgender movement was not so different from the characters she played on screen.
+http://www.nytimes.com/2015/12/10/fashion/remembering-holly-woodlawn-a-transgender-star-of-the-warhol-era.html
+GUY TREBAY
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Transgender and Transsexuals
+Trash (Movie)
+Women in Revolt (Movie)
+--- org_facet --- 0
+--- per_facet --- 3
+Woodlawn, Holly (1946-2015)
+Reed, Lou (1942-2013)
+Warhol, Andy
+--- geo_facet --- 0
+---------- 13 ----------
+Fashion & Style
+
+Pantone’s Color(s) of the Year Have a Political Edge
+The fashion world’s “color authority” has chosen a mix of two shades, a pink and a light blue, to symbolize the blurring of gender lines and stereotypes.
+http://www.nytimes.com/2015/12/08/fashion/pantones-color-s-of-the-year-have-a-political-edge.html
+VANESSA FRIEDMAN
+2015-12-08T00:00:00-5:00
+--- des_facet --- 2
+Color
+Fashion and Apparel
+--- org_facet --- 1
+Pantone Inc
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 14 ----------
+Fashion & Style
+
+The Jeweler Wallace Chan: ‘The Stone Is Me’
+Meet the Hong Kong jeweler behind the creation of what has been called the world’s most expensive diamond necklace.
+http://www.nytimes.com/2015/12/07/fashion/the-jeweler-wallace-chan-the-stone-is-me.html
+JOYCE LAU
+2015-12-07T13:00:00-5:00
+--- des_facet --- 1
+Jewels and Jewelry
+--- org_facet --- 0
+--- per_facet --- 1
+Chan, Wallace (1956- )
+--- geo_facet --- 1
+Hong Kong
+---------- 15 ----------
+Fashion & Style
+
+Her Films May Flop, but Kate Hudson Remains a Fashion Star
+As the actress adroitly merchandises her perceived warmth and candor, she keeps an emotional connection with the public that designers find valuable.
+http://www.nytimes.com/2015/12/06/fashion/her-films-may-flop-but-kate-hudson-remains-a-fashion-star.html
+RUTH LA FERLA
+2015-12-06T00:00:00-5:00
+--- des_facet --- 4
+Fashion and Apparel
+Dresses
+Movies
+Actors and Actresses
+--- org_facet --- 0
+--- per_facet --- 1
+Hudson, Kate (1979- )
+--- geo_facet --- 0
+---------- 16 ----------
+Fashion & Style
+
+Pete Wentz Checks Out Art in Chelsea
+The bassist for Fall Out Boy turns out to be a visual artist himself.
+http://www.nytimes.com/2015/12/06/fashion/pete-wentz-art-chelsea.html
+LAURA M. HOLSON
+2015-12-06T00:00:00-5:00
+--- des_facet --- 2
+Rock Music
+Rap and Hip-Hop
+--- org_facet --- 2
+Fall Out Boy (Music Group)
+Boone, Mary, Gallery
+--- per_facet --- 0
+--- geo_facet --- 1
+Chelsea (Manhattan, NY)
+---------- 17 ----------
+Fashion & Style
+
+Small-Town Boy Makes Good, One Celebrity Hairdo at a Time
+Elizabeth Taylor, Keith Richards, Bernadette Peters, Christie Brinkley: Maury Hopson lists them as his friends because he doesn’t snip and tell.
+http://www.nytimes.com/2015/12/06/fashion/maury-hopson-celebrity-hairdresser.html
+GEORGE GURLEY
+2015-12-06T00:00:00-5:00
+--- des_facet --- 3
+Hair
+Homosexuality and Bisexuality
+Beauty Salons
+--- org_facet --- 0
+--- per_facet --- 2
+Taylor, Elizabeth (1932-2011)
+Hopson, Maury (1941- )
+--- geo_facet --- 0
+---------- 18 ----------
+Fashion & Style
+
+The Post-Binge-Watching Blues: A Malady of Our Times
+Are you dealing with the out-of-shows blues? You are not alone.
+http://www.nytimes.com/2015/12/06/fashion/post-binge-watching-blues.html
+MATTHEW SCHNEIER
+2015-12-06T00:00:00-5:00
+--- des_facet --- 4
+Web-Original Programming
+Television
+Social Media
+House of Cards (TV Program)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 19 ----------
+Fashion & Style
+
+Our (Bare) Shelves, Our Selves
+The increasing absence of physical books, records and photo albums in homes can negatively affect developing intellects.
+http://www.nytimes.com/2015/12/06/fashion/our-bare-shelves-our-selves.html
+TEDDY WAYNE
+2015-12-06T00:00:00-5:00
+--- des_facet --- 5
+Books and Literature
+Audio Recordings, Downloads and Streaming
+Music
+Computers and the Internet
+E-Books and Readers
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 20 ----------
+Fashion & Style
+
+Bill Cunningham | The Biker Jacket
+The biker jacket has now replaced the tailored sports jacket.
+http://www.nytimes.com/2015/12/06/fashion/bill-cunningham-the-biker-jacket.html
+BILL CUNNINGHAM
+2015-12-06T00:00:00-5:00
+--- des_facet --- 2
+Coats and Jackets
+Fashion and Apparel
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 21 ----------
+Fashion & Style
+
+America’s Next Top Model, Deconstructed
+Debate its merits all you want, it’s impossible to deny the show’s lasting influence.
+http://www.nytimes.com/2015/12/06/fashion/americas-next-top-model-deconstructed.html
+VANESSA FRIEDMAN
+2015-12-06T00:00:00-5:00
+--- des_facet --- 5
+Models (Professional)
+Fashion and Apparel
+Reality Television
+America's Next Top Model (TV Program)
+Television
+--- org_facet --- 0
+--- per_facet --- 1
+Banks, Tyra
+--- geo_facet --- 0
+---------- 22 ----------
+Fashion & Style
+
+Lowriding Culture Goes Global
+The cars have been featured in music and videos and clothing. Thanks to social media, the subculture has taken root in Tokyo, São Paulo and Jakarta.
+http://www.nytimes.com/2015/12/06/fashion/lowriding-culture-goes-global.html
+SOPHIA KERCHER
+2015-12-06T00:00:00-5:00
+--- des_facet --- 4
+Automobiles
+Mexican-Americans
+Social Conditions and Trends
+Antique and Classic Cars
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 4
+California
+Brazil
+Tokyo (Japan)
+Jakarta (Indonesia)
+---------- 23 ----------
+Fashion & Style
+
+Getting BuzzFeed Clicks by Drinking and Whining
+Matt Bellassai, former office drone, is the creator and star of the popular web series “Whine About It.”
+http://www.nytimes.com/2015/12/06/fashion/matt-bellassai-buzzfeed-whine-about-it.html
+MOLLY OSWAKS
+2015-12-06T00:00:00-5:00
+--- des_facet --- 2
+Social Media
+Web-Original Programming
+--- org_facet --- 1
+BuzzFeed Inc
+--- per_facet --- 1
+Bellassai, Matt (1990- )
+--- geo_facet --- 0
+---------- 24 ----------
+Fashion & Style
+Men’s Style
+Ryan Seacrest: The Mogul Next Door
+“I don’t believe I’ve ever done anything on camera or on the microphone without thinking of the back house opportunities and the next business play.”
+http://www.nytimes.com/2015/12/04/fashion/mens-style/ryan-seacrest-the-mogul-next-door.html
+GUY TREBAY
+2015-12-04T00:00:00-5:00
+--- des_facet --- 3
+American Idol (TV Program)
+Television
+Reality Television
+--- org_facet --- 0
+--- per_facet --- 1
+Seacrest, Ryan
+--- geo_facet --- 0
+---------- 25 ----------
+Fashion & Style
+
+Brie Larson’s Gowns, From Calvin Klein to Wes Gordon
+At 26, she’s already a veteran of indie movies, but not a fashion expert. So she hired a stylist, who’s been outfitting her in fresh, simple looks.
+http://www.nytimes.com/2015/12/06/fashion/brie-larsons-gowns-from-calvin-klein-to-wes-gordon.html
+BEE SHAPIRO
+2015-12-06T00:00:00-5:00
+--- des_facet --- 3
+Fashion and Apparel
+Dresses
+Room (Movie)
+--- org_facet --- 0
+--- per_facet --- 1
+Larson, Brie
+--- geo_facet --- 0
+---------- 26 ----------
+Fashion & Style
+Men’s Style
+Streetwear for Men Who Are Too Old for Streetwear
+At Noah, a more mature take on the skateboarder look.
+http://www.nytimes.com/2015/12/04/fashion/mens-style/at-noah-where-the-streetwear-is-refined-by-an-alumnus-of-supreme.html
+MATTHEW SCHNEIER
+2015-12-04T00:00:00-5:00
+--- des_facet --- 2
+Fashion and Apparel
+Shopping and Retail
+--- org_facet --- 1
+Noah (Manhattan, NY, Retailer)
+--- per_facet --- 0
+--- geo_facet --- 1
+NoLIta (Manhattan, NY)
+---------- 27 ----------
+Fashion & Style
+
+Is There a Doctor in the Marriage?
+I wanted to support my husband as he pursued his dream career, but I couldn’t help feeling that his work and I were in competition.
+http://www.nytimes.com/2015/12/06/fashion/is-there-a-doctor-in-the-marriage.html
+ANYA GRONER
+2015-12-06T00:00:00-5:00
+--- des_facet --- 3
+Marriages
+Doctors
+Airlines and Airplanes
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 28 ----------
+Fashion & Style
+
+A Friendship Rocked
+Plus: work gifts etiquette, matching engagement rings and security precautions.
+http://www.nytimes.com/2015/12/06/fashion/how-to-handle-a-friendship-rocked.html
+
+2015-12-06T00:00:00-5:00
+--- des_facet --- 1
+Customs, Etiquette and Manners
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 29 ----------
+Fashion & Style
+Men’s Style
+Meet the 19-Year-Old Designer Twins Worn by Rihanna
+The Atlanta streetwear prodigies Chet and Betts DeHart started a YouTube channel at 12 and a fashion label at 14. Can they make it in New York?
+http://www.nytimes.com/2015/12/04/fashion/mens-style/meet-the-19-year-old-designer-twins-worn-by-rihanna.html
+CARSON GRIFFITH
+2015-12-04T00:00:00-5:00
+--- des_facet --- 2
+Sneakers
+Fashion and Apparel
+--- org_facet --- 1
+Lucid FC LLC
+--- per_facet --- 2
+DeHart, Betts
+DeHart, Chet
+--- geo_facet --- 0

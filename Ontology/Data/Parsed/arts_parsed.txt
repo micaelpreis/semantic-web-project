@@ -1,0 +1,498 @@
+30
+
+---------- 0 ----------
+Arts
+
+Best Performances of 2015
+From Annie Lennox to Roberta Vinci to Tracee Ellis Ross, performances that amazed this year and will linger into 2016.
+http://www.nytimes.com/2015/12/13/arts/best-performances-of-2015.html
+WESLEY MORRIS
+2015-12-13T00:00:00-5:00
+--- des_facet --- 6
+Television
+Black-ish (TV Program)
+Clouds of Sils Maria (Movie)
+Getting On (TV Program)
+Magic Mike XXL (Movie)
+The Knick (TV Program)
+--- org_facet --- 0
+--- per_facet --- 5
+Banks, Elizabeth
+D'Angelo (Singer)
+Drake (Rapper)
+Ross, Tracee Ellis
+Vinci, Roberta
+--- geo_facet --- 0
+---------- 1 ----------
+Arts
+Television
+The Best TV Shows of 2015
+This year brought more original shows than ever before. But which ones cut through the clutter to become the best of 2015?
+http://www.nytimes.com/2015/12/13/arts/television/best-tv-shows-2015.html
+JAMES PONIEWOZIK, MIKE HALE and NEIL GENZLINGER
+2015-12-13T00:00:00-5:00
+--- des_facet --- 21
+Television
+Black-ish (TV Program)
+Broad City (TV Program)
+Cancer: The Emperor of All Maladies (TV Program)
+Dawn of Humanity (TV Program)
+Halt and Catch Fire (TV Program)
+Justified (Movie)
+Looks Like Laury, Sounds Like Laury (TV Program)
+Louie (Movie)
+Master of None (TV Program)
+Moone Boy (TV Program)
+Of Miracles and Men (TV Program)
+Penny Dreadful (Movie)
+Rectify (TV Program)
+Review (TV Program)
+The Americans (Book)
+The Jinx: The Life and Deaths of Robert Durst (TV Program)
+The Knick (TV Program)
+The Leftovers (Movie)
+Transparent (Movie)
+Unbreakable Kimmy Schmidt (TV Program)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 2 ----------
+Arts
+Music
+The Best Albums of 2015
+This year offered winning releases from familiar faces, global flavor and meditations on nature.
+http://www.nytimes.com/2015/12/13/arts/music/best-albums-of-2015.html
+JON PARELES, BEN RATLIFF and NATE CHINEN
+2015-12-13T00:00:00-5:00
+--- des_facet --- 3
+Music
+Rap and Hip-Hop
+Jazz
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 3 ----------
+Movies
+
+The Best Movies of 2015
+Our critics discuss their favorite films of the year.
+http://www.nytimes.com/2015/12/13/movies/best-movies-2015.html
+MANOHLA DARGIS, A. O. SCOTT and STEPHEN HOLDEN
+2015-12-13T00:00:00-5:00
+--- des_facet --- 1
+Movies
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 4 ----------
+Arts
+Dance
+The Best Dance of 2015
+Dance took off in unexpected directions this year. Our critics look back at some of the biggest surprises.
+http://www.nytimes.com/2015/12/13/arts/dance/best-dance-2015.html
+ALASTAIR MACAULAY, GIA KOURLAS, BRIAN SEIBERT and SIOBHAN BURKE
+2015-12-13T00:00:00-5:00
+--- des_facet --- 1
+Dancing
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 5 ----------
+Theater
+
+The Best Theater of 2015
+“Hamilton,” “An American in Paris” and “Eclipsed” are among the highlights.
+http://www.nytimes.com/2015/12/13/theater/best-broadway-off-broadway-2015.html
+BEN BRANTLEY and CHARLES ISHERWOOD
+2015-12-13T00:00:00-5:00
+--- des_facet --- 1
+Theater
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 6 ----------
+Arts
+Music
+The Best Classical Music of 2015
+Our classical music team looks back at a sign of hope for Paris and other triumphs of the year.
+http://www.nytimes.com/2015/12/13/arts/music/best-classical-music-2015.html
+THE NEW YORK TIMES
+2015-12-13T00:00:00-5:00
+--- des_facet --- 2
+Classical Music
+Opera
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 7 ----------
+Movies
+
+Five Golden Globe Nominations for ‘Carol’ and a Nod to DiCaprio
+“The Martian,” “Joy,” “Spotlight” and “The Big Short” also made good showings in the Hollywood Foreign Press nominations.
+http://www.nytimes.com/2015/12/11/movies/golden-globes-2016-nominations.html
+MICHAEL CIEPLY and BROOKS BARNES
+2015-12-11T00:00:00-5:00
+--- des_facet --- 5
+Golden Globes (Awards)
+Movies
+Television
+Web-Original Programming
+Carol (Movie)
+--- org_facet --- 1
+Academy of Motion Picture Arts and Sciences
+--- per_facet --- 3
+Haynes, Todd
+Scott, Ridley
+DiCaprio, Leonardo
+--- geo_facet --- 0
+---------- 8 ----------
+Arts
+Music
+Grammy Awards: Kendrick Lamar, Taylor Swift and the Weeknd Lead Nominations
+Mr. Lamar’s rap album “To Pimp a Butterfly” is atop the pack with nine nominations ahead of the Feb. 15 music awards show.
+http://www.nytimes.com/2015/12/08/arts/music/grammy-awards-kendrick-lamar-taylor-swift-and-the-weeknd-lead-nominations.html
+BEN SISARIO
+2015-12-08T00:00:00-5:00
+--- des_facet --- 5
+Grammy Awards
+Music
+1989 (Album)
+To Pimp a Butterfly (Album)
+Beauty Behind the Madness (Album)
+--- org_facet --- 2
+Alabama Shakes (Music Group)
+Little Big Town (Music Group)
+--- per_facet --- 4
+Lamar, Kendrick
+Swift, Taylor
+Tesfaye, Abel (Weeknd)
+Stapleton, Chris (1978- )
+--- geo_facet --- 0
+---------- 9 ----------
+Theater
+
+Cameron Scoggins Brings the ‘Bro’ to a Very Strange Family in ‘Hir’
+He portrays a tightly wound former Marine in this production at Playwrights Horizons.
+http://www.nytimes.com/2015/12/13/theater/cameron-scoggins-brings-the-bro-to-a-very-strange-family-in-hir.html
+STEVEN McELROY
+2015-12-13T00:00:00-5:00
+--- des_facet --- 2
+Theater
+Hir (Play)
+--- org_facet --- 1
+Playwrights Horizons
+--- per_facet --- 2
+Scoggins, Cameron
+Mac, Taylor
+--- geo_facet --- 0
+---------- 10 ----------
+Movies
+
+In New ‘Star Wars,’ Daisy Ridley and John Boyega Brace for Galactic Fame
+Ms. Ridley and Mr. Boyega, among the new heroes of “The Force Awakens,” discuss how they are preparing for worldwide visibility and making their marks in a multibillion-dollar franchise.
+http://www.nytimes.com/2015/12/20/movies/in-new-star-wars-daisy-ridley-and-john-boyega-brace-for-galactic-fame.html
+DAVE ITZKOFF
+2015-12-20T00:00:00-5:00
+--- des_facet --- 2
+Movies
+Star Wars: The Force Awakens (Movie)
+--- org_facet --- 0
+--- per_facet --- 2
+Ridley, Daisy
+Boyega, John
+--- geo_facet --- 0
+---------- 11 ----------
+Arts
+Television
+The Ghosts of TV Christmas Specials Past
+Neil Genzlinger explores holiday shows by Judy Garland, Pee-wee Herman and others.
+http://www.nytimes.com/2015/12/06/arts/television/the-ghosts-of-tv-christmas-specials-past.html
+NEIL GENZLINGER
+2015-12-06T00:00:00-5:00
+--- des_facet --- 3
+Television
+Christmas
+Star Wars (Movie)
+--- org_facet --- 1
+Netflix Inc
+--- per_facet --- 3
+Colbert, Stephen
+Garland, Judy
+Reubens, Paul
+--- geo_facet --- 0
+---------- 12 ----------
+Arts
+Art & Design
+Art for the Holidays: A New York Visitors Guide
+A user’s guide to art, indoors and outdoors, in New York during the holiday season.
+http://www.nytimes.com/2015/11/27/arts/design/art-for-the-holidays-a-new-york-visitors-guide.html
+DANIEL McDERMON
+2015-11-27T00:00:00-5:00
+--- des_facet --- 1
+Art
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+New York City
+---------- 13 ----------
+Arts
+Dance
+Noche Flamenca to Present ‘Antigona’
+The ensemble will offer the dancing and music in a version of Sophocles’ “Antigone.”
+http://www.nytimes.com/2015/12/13/arts/dance/noche-flamenca-to-present-antigona.html
+BRIAN SCHAEFER
+2015-12-13T00:00:00-5:00
+--- des_facet --- 1
+Dancing
+--- org_facet --- 2
+Noche Flamenca
+West Park Presbyterian Church
+--- per_facet --- 1
+Barrio, Soledad
+--- geo_facet --- 0
+---------- 14 ----------
+Arts
+Music
+Luis Miguel Returns to Madison Square Garden
+The suave balladeer canceled a string of concerts in Mexico City last month because of a throat infection.
+http://www.nytimes.com/2015/12/13/arts/music/luis-miguel-returns-to-madison-square-garden.html
+NATE CHINEN
+2015-12-13T00:00:00-5:00
+--- des_facet --- 1
+Music
+--- org_facet --- 1
+Madison Square Garden
+--- per_facet --- 1
+Miguel, Luis (1975- )
+--- geo_facet --- 0
+---------- 15 ----------
+Arts
+Television
+‘Luther,’ With Idris Elba, Returns to BBC America
+The tortured detective at the heart of this series goes up against a cannibalistic serial killer.
+http://www.nytimes.com/2015/12/13/arts/television/luther-with-idris-elba-returns-to-bbc-america.html
+KATHRYN SHATTUCK
+2015-12-13T00:00:00-5:00
+--- des_facet --- 2
+Television
+Luther (TV Program)
+--- org_facet --- 1
+BBC America
+--- per_facet --- 2
+Elba, Idris
+Cross, Neil (1969- )
+--- geo_facet --- 0
+---------- 16 ----------
+Arts
+Art & Design
+Tracing Diane Simpson’s Structural Evolution in Boston Exhibition
+Ms. Simpson’s work is distinctive for the way it parses the components of garments to create wonders of articulated form.
+http://www.nytimes.com/2015/12/13/arts/design/tracing-diane-simpsons-structural-evolution-in-boston-exhibition.html
+ROBERTA SMITH
+2015-12-13T00:00:00-5:00
+--- des_facet --- 1
+Art
+--- org_facet --- 1
+Institute of Contemporary Art
+--- per_facet --- 1
+Simpson, Diane (Artist)
+--- geo_facet --- 1
+Boston (Mass)
+---------- 17 ----------
+Arts
+Music
+Handel’s ‘Messiah’? It’s Complicated
+Julian Wachner leads the Trinity Church choir and orchestra in two performances of a seasonal classic more complex than often recognized.
+http://www.nytimes.com/2015/12/13/arts/music/handels-messiah-its-complicated.html
+ZACHARY WOOLFE
+2015-12-13T00:00:00-5:00
+--- des_facet --- 1
+Classical Music
+--- org_facet --- 3
+Trinity Church (Manhattan, NY)
+Choir of Trinity Wall Street
+Trinity Baroque Orchestra
+--- per_facet --- 2
+Handel, George Frederick
+Wachner, Julian
+--- geo_facet --- 0
+---------- 18 ----------
+Movies
+
+‘The Savage Eye’ Wanders Through Los Angeles at the Museum of the Moving Image
+The film follows a woman as she samples the underside of Los Angeles in 1959 as a sort of therapeutic response to a divorce.
+http://www.nytimes.com/2015/12/13/movies/the-savage-eye-wanders-through-los-angeles-at-the-museum-of-the-moving-image.html
+NEIL GENZLINGER
+2015-12-13T00:00:00-5:00
+--- des_facet --- 2
+Movies
+The Savage Eye (Movie)
+--- org_facet --- 1
+Museum of the Moving Image
+--- per_facet --- 3
+Maddow, Ben (1909-92)
+Meyers, Sidney (1906-69)
+Strick, Joseph (1923-2010)
+--- geo_facet --- 0
+---------- 19 ----------
+Theater
+
+Lois Smith Returns to the Stage With ‘Marjorie Prime’
+The actress, who made her Broadway debut in 1952, will star in the play at Playwrights Horizons.
+http://www.nytimes.com/2015/12/13/theater/lois-smith-returns-to-the-stage-with-marjorie-prime.html
+BEN BRANTLEY
+2015-12-13T00:00:00-5:00
+--- des_facet --- 2
+Theater
+Marjorie Prime (Play)
+--- org_facet --- 1
+Playwrights Horizons
+--- per_facet --- 3
+Smith, Lois
+Kauffman, Anne
+Harrison, Jordan
+--- geo_facet --- 0
+---------- 20 ----------
+Arts
+
+Spare Times for Children for Dec. 11-17
+
+http://www.nytimes.com/2015/12/11/arts/spare-times-for-children-for-dec-11-17.html
+LAUREL GRAEBER
+2015-12-11T00:00:00-5:00
+--- des_facet --- 2
+Culture (Arts)
+Children and Childhood
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 21 ----------
+Arts
+Music
+Jazz Listings for Dec. 11-17
+
+http://www.nytimes.com/2015/12/11/arts/music/jazz-listings-for-dec-11-17.html
+
+2015-12-11T00:00:00-5:00
+--- des_facet --- 2
+Music
+Jazz
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 22 ----------
+Movies
+
+Movie Listings for Dec. 11-17
+
+http://www.nytimes.com/2015/12/11/movies/movie-listings-for-dec-11-17.html
+
+2015-12-11T00:00:00-5:00
+--- des_facet --- 2
+Movies
+Culture (Arts)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 23 ----------
+Arts
+
+Comedy Listings for Dec. 11-17
+
+http://www.nytimes.com/2015/12/11/arts/comedy-listings-for-dec-11-17.html
+
+2015-12-11T00:00:00-5:00
+--- des_facet --- 2
+Comedy and Humor
+Culture (Arts)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 24 ----------
+Arts
+Music
+Pop &amp; Rock Listings for Dec. 11-17
+
+http://www.nytimes.com/2015/12/11/arts/music/pop-amp-rock-listings-for-dec-11-17.html
+
+2015-12-11T00:00:00-5:00
+--- des_facet --- 3
+Music
+Rock Music
+Rap and Hip-Hop
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 25 ----------
+Arts
+Dance
+Dance Listings for Dec. 11-17
+
+http://www.nytimes.com/2015/12/11/arts/dance/dance-listings-for-dec-11-17.html
+
+2015-12-11T00:00:00-5:00
+--- des_facet --- 2
+Dancing
+Culture (Arts)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 26 ----------
+Arts
+Art & Design
+Museum &amp; Gallery Listings for Dec. 11-17
+
+http://www.nytimes.com/2015/12/11/arts/design/museum-amp-gallery-listings-for-dec-11-17.html
+
+2015-12-11T00:00:00-5:00
+--- des_facet --- 3
+Art
+Culture (Arts)
+Museums
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 27 ----------
+Arts
+Music
+Classical Music &amp; Opera Listings for Dec. 11-17
+
+http://www.nytimes.com/2015/12/11/arts/music/classical-music-opera-listings-for-dec-11-17.html
+
+2015-12-11T00:00:00-5:00
+--- des_facet --- 4
+Classical Music
+Music
+Opera
+Culture (Arts)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 28 ----------
+Theater
+
+Theater Listings for Dec. 11-17
+
+http://www.nytimes.com/2015/12/11/theater/theater-listings-for-dec-11-17.html
+
+2015-12-11T00:00:00-5:00
+--- des_facet --- 1
+Theater
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 29 ----------
+Arts
+
+Spare Times for Dec. 11-17
+
+http://www.nytimes.com/2015/12/11/arts/spare-times-for-dec-11-17.html
+JOSHUA BARONE
+2015-12-11T00:00:00-5:00
+--- des_facet --- 3
+Art
+Culture (Arts)
+Museums
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0

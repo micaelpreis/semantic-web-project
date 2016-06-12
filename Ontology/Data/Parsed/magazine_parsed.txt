@@ -1,0 +1,258 @@
+15
+
+---------- 0 ----------
+Magazine
+
+Four Bodies in Elmhurst
+Why would an 82-year-old man kill his son, his daughter, his wife and himself?
+http://www.nytimes.com/2015/12/06/magazine/four-bodies-in-elmhurst.html
+JEFF HIMMELMAN
+2015-12-06T00:00:00-5:00
+--- des_facet --- 4
+Murders, Attempted Murders and Homicides
+Intellectual Disabilities
+Suicides and Suicide Attempts
+Families and Family Life
+--- org_facet --- 0
+--- per_facet --- 1
+Stack, Francis (1932-2014)
+--- geo_facet --- 1
+Elmhurst (Ill)
+---------- 1 ----------
+Magazine
+
+The Last Dalai Lama?
+At 80, Tenzin Gyatso is still an international icon, but the future of his office — and of the Tibetan people — has never been more in doubt.
+http://www.nytimes.com/2015/12/06/magazine/the-last-dalai-lama.html
+PANKAJ MISHRA
+2015-12-06T00:00:00-5:00
+--- des_facet --- 2
+Buddhism
+Religion and Belief
+--- org_facet --- 0
+--- per_facet --- 1
+Dalai Lama
+--- geo_facet --- 2
+Tibet
+China
+---------- 2 ----------
+Magazine
+
+Feast in the Heart of Texas
+In a tribute to his hometown, San Antonio, the chef Quealy Watson cooks a Tex-Mex barbecue with Asian flavors and gathers friends to celebrate the season.
+http://www.nytimes.com/2015/12/06/magazine/feast-in-the-heart-of-texas.html
+SAM SIFTON
+2015-12-06T00:00:00-5:00
+--- des_facet --- 3
+Cooking and Cookbooks
+Barbecue
+Parties (Social)
+--- org_facet --- 1
+Hot Joy (San Antonio, Tex, Restaurant)
+--- per_facet --- 1
+Watson, Quealy
+--- geo_facet --- 1
+San Antonio (Tex)
+---------- 3 ----------
+Magazine
+
+White Debt
+Reckoning with what is owed — and what can never be repaid — for racial privilege.
+http://www.nytimes.com/2015/12/06/magazine/white-debt.html
+EULA BISS
+2015-12-06T00:00:00-5:00
+--- des_facet --- 6
+Discrimination
+Race and Ethnicity
+Blacks
+Native Americans
+Police Brutality, Misconduct and Shootings
+Slavery (Historical)
+--- org_facet --- 1
+Race Traitor
+--- per_facet --- 2
+Dolezal, Rachel A (1977- )
+Coates, Ta-Nehisi
+--- geo_facet --- 0
+---------- 4 ----------
+Magazine
+
+The Profound Emptiness of ‘Resilience’
+A call for more grit has become a cleverly coded way to shame those speaking out against injustices.
+http://www.nytimes.com/2015/12/06/magazine/the-profound-emptiness-of-resilience.html
+PARUL SEHGAL
+2015-12-06T00:00:00-5:00
+--- des_facet --- 4
+Discrimination
+Demonstrations, Protests and Riots
+Colleges and Universities
+English Language
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 5 ----------
+Magazine
+
+The Human Flock
+Cranes flying south for winter evoke the people seeking refuge below.
+http://www.nytimes.com/2015/12/06/magazine/the-human-flock.html
+HELEN MACDONALD
+2015-12-06T00:00:00-5:00
+--- des_facet --- 5
+Birds
+Animal Migration
+Middle East and Africa Migrant Crisis
+Geese
+Immigration and Emigration
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Hungary
+---------- 6 ----------
+Magazine
+
+Steve Carell Does Not Mock the Undeserving
+The actor on "The Big Short," playing boneheaded characters and why “The Daily Show” shifted away from snark.
+http://www.nytimes.com/2015/12/06/magazine/steve-carell-does-not-mock-the-undeserving.html
+Interview by ANA MARIE COX
+2015-12-06T00:00:00-5:00
+--- des_facet --- 7
+Movies
+Television
+Comedy and Humor
+The Big Short (Movie)
+Daily Show with Jon Stewart, The (TV Program)
+Big Short, The (Movie)
+Daily Show, The (TV Program)
+--- org_facet --- 0
+--- per_facet --- 1
+Carell, Steve
+--- geo_facet --- 0
+---------- 7 ----------
+Magazine
+
+Should I Marry the Son of a Crook?
+How much does the guilt of our parents reflect on us?
+http://www.nytimes.com/2015/12/06/magazine/should-i-marry-the-son-of-a-crook.html
+KWAME ANTHONY APPIAH
+2015-12-06T00:00:00-5:00
+--- des_facet --- 8
+Ethicists, The (Times Column)
+Dating and Relationships
+Sex Crimes
+Tax Evasion
+Yoga
+Ethics (Personal)
+Crime and Criminals
+Income Tax
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 8 ----------
+Magazine
+
+The One-Bowl Wonder
+A citrusy holiday punch makes life better for the guests and their host.
+http://www.nytimes.com/2015/12/06/magazine/the-one-bowl-wonder.html
+ROSIE SCHAAP
+2015-12-06T00:00:00-5:00
+--- des_facet --- 5
+Alcoholic Beverages
+Parties (Social)
+Cocktails
+Recipes
+Pomelos (Fruit)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 9 ----------
+Magazine
+
+Letter of Recommendation: Falling
+It isn’t failing; it is an investment, a means of gathering information.
+http://www.nytimes.com/2015/12/06/magazine/letter-of-recommendation-falling.html
+BRET ANTHONY JOHNSTON
+2015-12-06T00:00:00-5:00
+--- des_facet --- 4
+Skateboarding
+Falls
+Practicing
+Sports Injuries
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 10 ----------
+Magazine
+
+‘Snowflakes’
+Selected by Natasha Trethewey.
+http://www.nytimes.com/2015/12/06/magazine/snowflakes.html
+JENNIFER GROTZ
+2015-12-06T00:00:00-5:00
+--- des_facet --- 2
+Poetry and Poets
+Snow and Snowstorms
+--- org_facet --- 0
+--- per_facet --- 1
+Grotz, Jennifer
+--- geo_facet --- 0
+---------- 11 ----------
+Magazine
+
+Familiar Ground
+Working the farm alongside your ancestors in Italy.
+http://www.nytimes.com/2015/12/06/magazine/familiar-ground.html
+MARK MONTINARO
+2015-12-06T00:00:00-5:00
+--- des_facet --- 3
+Families and Family Life
+Gardens and Gardening
+Agriculture and Farming
+--- org_facet --- 0
+--- per_facet --- 1
+Montinaro, Mark
+--- geo_facet --- 1
+Italy
+---------- 12 ----------
+Magazine
+
+Judge John Hodgman on ‘Star Wars’ Collectibles
+Action figures, commemorative soda cans . . . a Jedi craves not these things.
+http://www.nytimes.com/2015/12/06/magazine/judge-john-hodgman-on-star-wars-collectibles.html
+JOHN HODGMAN
+2015-12-06T00:00:00-5:00
+--- des_facet --- 4
+Movies
+Memorabilia and Souvenirs
+Collectors and Collections
+Star Wars (Movie)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 13 ----------
+Magazine
+
+How to Skin a Cat
+Freeze the carcass until ready. Peel the skin like an orange.
+http://www.nytimes.com/2015/12/06/magazine/how-to-skin-a-cat.html
+MALIA WOLLAN
+2015-12-06T00:00:00-5:00
+--- des_facet --- 2
+Taxidermy
+Cats
+--- org_facet --- 0
+--- per_facet --- 1
+Eddy, Anthony C (1948- )
+--- geo_facet --- 0
+---------- 14 ----------
+Magazine
+
+The 11.22.15 Issue
+Readers respond.
+http://www.nytimes.com/2015/12/06/magazine/the-11-22-15-issue.html
+
+2015-12-06T00:00:00-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0

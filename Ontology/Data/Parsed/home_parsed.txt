@@ -1,0 +1,357 @@
+20
+
+---------- 0 ----------
+U.S.
+
+San Bernardino Couple Spoke of Attacks in 2013, F.B.I. Says
+The F.B.I. director, James B. Comey, said Syed Rizwan Farook and Tashfeen Malik had talked of jihad and martyrdom before they started courting online.
+http://www.nytimes.com/2015/12/10/us/san-bernardino-massacre-fbi.html
+MICHAEL S. SCHMIDT and SALMAN MASOOD
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Muslims and Islam
+Terrorism
+San Bernardino, Calif, Shooting (2015)
+--- org_facet --- 3
+Federal Bureau of Investigation
+Homeland Security Department
+Islamic State in Iraq and Syria (ISIS)
+--- per_facet --- 1
+Comey, James B
+--- geo_facet --- 0
+---------- 1 ----------
+U.S.
+
+Officials Scrutinize Buyer of Guns Used in California Attack
+Enrique Marquez, a former neighbor of Syed Rizwan Farook, bought the two assault rifles that Mr. Farook and his wife used in a deadly rampage in San Bernardino.
+http://www.nytimes.com/2015/12/09/us/enrique-marquez-buyer-of-guns-used-in-san-bernardino-attack-is-studied.html
+RICK ROJAS and IAN LOVETT
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+San Bernardino, Calif, Shooting (2015)
+Firearms
+Terrorism
+--- org_facet --- 1
+Federal Bureau of Investigation
+--- per_facet --- 3
+Marquez, Enrique (1991- )
+Malik, Tashfeen
+Farook, Syed Rizwan
+--- geo_facet --- 0
+---------- 2 ----------
+World
+Europe
+France Identifies 3rd Attacker at Concert Hall
+The assailant is said to have been a 23-year-old from the Strasbourg area in northeastern France who left for Syria with a group of would-be jihadists in late 2013.
+http://www.nytimes.com/2015/12/10/world/europe/bataclan-paris-attacks.html
+ADAM NOSSITER, ALISSA J. RUBIN and AURELIEN BREEDEN
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Terrorism
+--- org_facet --- 2
+Bataclan (Paris, France)
+Islamic State in Iraq and Syria (ISIS)
+--- per_facet --- 2
+Mostefai, Ismael Omar
+Valls, Manuel
+--- geo_facet --- 1
+Paris (France)
+---------- 3 ----------
+World
+
+Trump’s Plan to Bar Muslims Is Widely Condemned Abroad
+Donald J. Trump’s proposal to bar Muslims drew condemnation from Europe and beyond, as well as questions about the direction of the United States.
+http://www.nytimes.com/2015/12/09/world/europe/donald-trumps-call-to-bar-muslims-reverberates-abroad.html
+DAN BILEFSKY
+2015-12-09T00:00:00-5:00
+--- des_facet --- 6
+Presidential Election of 2016
+Muslims and Islam
+Immigration and Emigration
+Muslim Americans
+United States International Relations
+Terrorism
+--- org_facet --- 1
+Islamic State in Iraq and Syria (ISIS)
+--- per_facet --- 1
+Trump, Donald J
+--- geo_facet --- 0
+---------- 4 ----------
+U.S.
+
+‘I’m a Warrior for the Babies,’ Suspect Shouts in Colorado
+Robert L. Dear Jr. disrupted a court hearing where he was charged with 179 counts in the Planned Parenthood shooting that left three people dead in Colorado Springs.
+http://www.nytimes.com/2015/12/10/us/colorado-planned-parenthood-shooting.html
+RICHARD FAUSSET
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Murders, Attempted Murders and Homicides
+--- org_facet --- 1
+Planned Parenthood Federation of America
+--- per_facet --- 1
+Dear, Robert L Jr (1958- )
+--- geo_facet --- 1
+Colorado
+---------- 5 ----------
+U.S.
+
+Officer Says He Thought Freddie Gray Faked Injuries
+“It was traumatic for me also,” said Officer William G. Porter, on trial for manslaughter in Baltimore, on the witness stand on Wednesday.
+http://www.nytimes.com/2015/12/10/us/freddie-gray-trial-baltimore.html
+SHERYL GAY STOLBERG and JESS BIDGOOD
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Police Brutality, Misconduct and Shootings
+--- org_facet --- 0
+--- per_facet --- 2
+Porter, William G (1989- )
+Gray, Freddie (1989-2015)
+--- geo_facet --- 1
+Baltimore (Md)
+---------- 6 ----------
+U.S.
+Politics
+Justices Voice Doubts on Affirmative Action
+A majority of the Supreme Court justices seemed unpersuaded on Wednesday that an affirmative action plan at the University of Texas was constitutional.
+http://www.nytimes.com/2015/12/10/us/politics/supreme-court-to-revisit-case-that-may-alter-affirmative-action.html
+ADAM LIPTAK
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+Admissions Standards
+Colleges and Universities
+Affirmative Action
+Race and Ethnicity
+--- org_facet --- 2
+Supreme Court (US)
+University of Texas at Austin
+--- per_facet --- 7
+Alito, Samuel A Jr
+Fisher, Abigail Noel
+Garza, Emilio Miller
+Higginbotham, Patrick E
+Kagan, Elena
+Kennedy, Anthony M
+O'Connor, Sandra Day
+--- geo_facet --- 3
+Austin (Tex)
+New Orleans (La)
+Texas
+---------- 7 ----------
+U.S.
+Politics
+After Making Enemies, Cruz Tries to Make Friends
+Ted Cruz has vaulted into the top tier of the Republican race as the consummate Washington bomb thrower, but now he is taking an almost academic approach to achieving likability.
+http://www.nytimes.com/2015/12/10/us/politics/after-making-enemies-ted-cruz-works-at-making-friends.html
+MATT FLEGENHEIMER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Presidential Election of 2016
+--- org_facet --- 0
+--- per_facet --- 1
+Cruz, Ted
+--- geo_facet --- 1
+Iowa
+---------- 8 ----------
+U.S.
+Politics
+Rubio’s Legislative Move Undermines Health Law Quietly
+A provision slipped into a 2014 spending law by Senator Marco Rubio has tangled up the Obama administration and sent tremors through health insurance markets.
+http://www.nytimes.com/2015/12/10/us/politics/marco-rubio-obamacare-affordable-care-act.html
+ROBERT PEAR
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Health Insurance and Managed Care
+Patient Protection and Affordable Care Act (2010)
+--- org_facet --- 0
+--- per_facet --- 2
+Rubio, Marco
+Obama, Barack
+--- geo_facet --- 0
+---------- 9 ----------
+U.S.
+Politics
+Affordable Care Act Plans Get 1 Million New Subscribers
+Brushing aside reports of rising premiums and concerns expressed by insurers, officials said there was widespread desire for coverage under the law.
+http://www.nytimes.com/2015/12/10/us/politics/obamacare-enrollment-rises.html
+ROBERT PEAR
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Patient Protection and Affordable Care Act (2010)
+Health Insurance and Managed Care
+--- org_facet --- 2
+HealthCare.gov
+Centers for Medicare and Medicaid Services
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 10 ----------
+Magazine
+
+Deported to World’s Murder Capital, Over a Taillight
+Uprooted from his life and family in the U.S., a Honduran deportee returns to the country he tried so hard to escape.
+http://www.nytimes.com/2015/12/13/magazine/the-deported.html
+LUKE MOGELSON
+2015-12-13T00:00:00-5:00
+--- des_facet --- 5
+Illegal Immigration
+Deportation
+Asylum, Right of
+Immigration Detention
+Immigration and Emigration
+--- org_facet --- 1
+Immigration and Customs Enforcement (US)
+--- per_facet --- 0
+--- geo_facet --- 1
+Honduras
+---------- 11 ----------
+World
+Africa
+They Helped Erase Ebola in Liberia. Now They’re Being Erased.
+Thirty young men spent months burning the bodies of the infected in Liberia. A year later, many relatives and fellow countrymen still can’t forgive them.
+http://www.nytimes.com/2015/12/10/world/africa/they-helped-erase-ebola-in-liberia-now-liberia-is-erasing-them.html
+HELENE COOPER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Ebola Virus
+Funerals and Memorials
+Epidemics
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+Liberia
+Africa
+---------- 12 ----------
+U.S.
+Politics
+Senate Sends Obama Overhaul of No Child Left Behind Law
+President Obama is expected to sign the bill, which would restore authority for school performance and accountability to districts and states after a long period of federal control.
+http://www.nytimes.com/2015/12/10/us/politics/senate-approves-overhaul-of-no-child-left-behind-law.html
+EMMARIE HUETTEMAN
+2015-12-10T00:00:00-5:00
+--- des_facet --- 5
+Education (K-12)
+United States Politics and Government
+Children and Childhood
+No Child Left Behind Act
+Teachers and School Employees
+--- org_facet --- 1
+Senate
+--- per_facet --- 1
+Alexander, Lamar
+--- geo_facet --- 0
+---------- 13 ----------
+World
+Middle East
+Hundreds Evacuated From Rebel Foothold in Homs
+Hundreds of people were evacuated from the last rebel-held pocket of the central Syrian city devastated by years of fighting and blockades.
+http://www.nytimes.com/2015/12/10/world/middleeast/syria-rebels-homs.html
+ANNE BARNARD and HWAIDA SAAD
+2015-12-10T00:00:00-5:00
+--- des_facet --- 0
+--- org_facet --- 2
+Free Syrian Army
+Al Nusra Front
+--- per_facet --- 1
+Assad, Bashar al-
+--- geo_facet --- 2
+Homs (Syria)
+Syria
+---------- 14 ----------
+Technology
+
+Yahoo to Spin Off Core Businesses
+Yahoo has decided to keep its Alibaba stake and will instead look at transferring its other assets into a new company.
+http://www.nytimes.com/2015/12/10/technology/yahoo-alibaba-spinoff.html
+VINDU GOEL
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Mergers, Acquisitions and Divestitures
+Search Engines
+--- org_facet --- 3
+Alibaba Group Holding Ltd
+Yahoo! Inc
+Starboard Value LP
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 15 ----------
+Business Day
+
+First Dengue Fever Vaccine Approved by Mexico
+The vaccine, called Dengvaxia, has been developed by Sanofi. Dengue fever can cause high temperature and intense joint and muscle pain.
+http://www.nytimes.com/2015/12/10/business/first-dengue-fever-vaccine-approved-by-mexico.html
+ANDREW POLLACK
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Vaccination and Immunization
+Dengue Fever
+--- org_facet --- 1
+Sanofi SA
+--- per_facet --- 0
+--- geo_facet --- 2
+Mexico
+Hawaii
+---------- 16 ----------
+World
+Europe
+Unresolved Issues as Climate Deadline Nears
+Lead negotiators said they were confident that a deal could still be reached, but observers said the compromises necessary to do so could weaken the deal so much as to make it nearly toothless.
+http://www.nytimes.com/2015/12/10/world/europe/paris-climate-conference.html
+CORAL DAVENPORT
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+United Nations Framework Convention on Climate Change
+Global Warming
+--- org_facet --- 2
+United States Agency for International Development
+United Nations
+--- per_facet --- 1
+Kerry, John
+--- geo_facet --- 0
+---------- 17 ----------
+Arts
+Music
+The Best Albums of 2015
+This year offered winning releases from familiar faces, global flavor and meditations on nature. Our music critics share their picks for the best pop and jazz albums of the year.
+http://www.nytimes.com/2015/12/13/arts/music/best-albums-of-2015.html
+JON PARELES, BEN RATLIFF and NATE CHINEN
+2015-12-13T00:00:00-5:00
+--- des_facet --- 3
+Music
+Rap and Hip-Hop
+Jazz
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 18 ----------
+Technology
+
+Online Loop of Action and Reaction Is Worsening
+Wouldn’t it have been kind of a pleasant dream world, in these overheated last few weeks, to have lived free of social media?
+http://www.nytimes.com/2015/12/10/technology/shut-down-internet-donald-trump-hillary-clinton.html
+FARHAD MANJOO
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Computers and the Internet
+Social Media
+Presidential Election of 2016
+--- org_facet --- 0
+--- per_facet --- 2
+Trump, Donald J
+Gates, Bill
+--- geo_facet --- 0
+---------- 19 ----------
+Business Day
+Media
+Pharmaceutical C.E.O. Is Said to Buy Wu-Tang Album for $2 Million
+Martin Shkreli, under fire for sharply raising a drug’s price, was named as the buyer of the only copy of “Once Upon a Time in Shaolin.”
+http://www.nytimes.com/2015/12/10/business/media/martin-shkreli-wu-tang-clan-album.html
+CHRISTINE HAUSER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Drugs (Pharmaceuticals)
+Prices (Fares, Fees and Rates)
+--- org_facet --- 2
+Wu-Tang Clan
+Turing Pharmaceuticals AG
+--- per_facet --- 1
+Shkreli, Martin (1983- )
+--- geo_facet --- 0

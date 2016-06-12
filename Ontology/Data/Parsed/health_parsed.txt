@@ -1,0 +1,458 @@
+30
+
+---------- 0 ----------
+Health
+
+Teenagers Aren’t Getting Enough Exercise at School, or Anywhere
+Teenagers can be a notoriously sedentary group. Now a new study showed that school may be a big part of the problem.
+http://well.blogs.nytimes.com/2015/12/09/teenagers-arent-getting-enough-exercise-at-school-or-anywhere/
+RONI CARYN RABIN
+2015-12-09T14:17:20-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 1 ----------
+Health
+
+Does Exercise Help Keep Our Brains Young?
+Physical fitness may be critical for maintaining a relatively youthful and nimble brain as we age, according to a new study of brain activation patterns in older people.
+http://well.blogs.nytimes.com/2015/12/09/does-exercise-help-keep-our-brains-young/
+GRETCHEN REYNOLDS
+2015-12-09T05:40:42-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 2 ----------
+Health
+
+U.S. Reports a New Low in Deaths of Infants
+The rate of infant deaths fell more than 13 percent from 2005 to 2013 and by 2.3 percent in 2014, but the United States still has one of the highest rates among the richest nations.
+http://www.nytimes.com/2015/12/09/health/us-reports-a-new-low-in-deaths-of-infants.html
+SABRINA TAVERNISE
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Infant Mortality
+Premature Babies
+Birth Rates
+--- org_facet --- 2
+Centers for Disease Control and Prevention
+Boston University
+--- per_facet --- 0
+--- geo_facet --- 1
+United States
+---------- 3 ----------
+Health
+
+Blood Pressure, the Top and Bottom Numbers
+While high systolic (the top number) and diastolic (the bottom number) readings are both associated with increased risk, they may present different risks for different diseases.
+http://well.blogs.nytimes.com/2015/12/09/ask-well-blood-pressure-the-top-and-bottom-numbers/
+NICHOLAS BAKALAR
+2015-12-09T05:45:42-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 4 ----------
+World
+Africa
+They Helped Erase Ebola in Liberia. Now Liberia Is Erasing Them.
+Thirty young men spent months burning the bodies of the infected. A year later, many relatives and fellow countrymen still can’t forgive them.
+http://www.nytimes.com/2015/12/10/world/africa/they-helped-erase-ebola-in-liberia-now-liberia-is-erasing-them.html
+HELENE COOPER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Ebola Virus
+Funerals and Memorials
+Epidemics
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+Liberia
+Africa
+---------- 5 ----------
+U.S.
+Politics
+Marco Rubio Quietly Undermines Affordable Care Act
+A provision slipped into a 2014 spending law by the Florida senator has tangled up the Obama administration and sent tremors through health insurance markets.
+http://www.nytimes.com/2015/12/10/us/politics/marco-rubio-obamacare-affordable-care-act.html
+ROBERT PEAR
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Health Insurance and Managed Care
+Patient Protection and Affordable Care Act (2010)
+--- org_facet --- 0
+--- per_facet --- 2
+Rubio, Marco
+Obama, Barack
+--- geo_facet --- 0
+---------- 6 ----------
+U.S.
+
+Americans Who Don&#8217;t Buy Health Coverage Face Heftier Fine in &#8217;16, Analysis Finds
+Americans who remain uninsured in 2016 despite having the option of buying health coverage through an Affordable Care Act marketplace will owe an average tax penalty of $969 per household.
+http://www.nytimes.com/2015/12/09/us/americans-who-dont-buy-health-coverage-face-heftier-fine-in-16-analysis-finds.html
+ABBY GOODNOUGH
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Patient Protection and Affordable Care Act (2010)
+Health Insurance and Managed Care
+Fines (Penalties)
+--- org_facet --- 3
+Kaiser Family Foundation
+Internal Revenue Service
+Health and Human Services Department
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 7 ----------
+Health
+
+CPR Survival Rates Can Differ Greatly by City
+Improvements remain underused in practice. As a result, survival rates after cardiac arrest vary as much as 500 percent across the country.
+http://www.nytimes.com/2015/12/08/health/cpr-survival-rates-can-differ-greatly-by-city.html
+KIRA PEIKOFF
+2015-12-08T00:00:00-5:00
+--- des_facet --- 4
+Heart
+Cardiopulmonary Resuscitation (CPR)
+Extra corporeal membrane oxygenation
+Therapeutic hypothermia
+--- org_facet --- 1
+American Heart Assn
+--- per_facet --- 0
+--- geo_facet --- 1
+Seattle (Wash)
+---------- 8 ----------
+Business Day
+
+Chipotle&#8217;s Safety Woes Worsen as Scores of Students Fall Ill in Boston
+Chipotle Mexican Grill&#8217;s stock continued to fall after worries about food safety spread to Boston, where 80 college students got sick after eating at one of its restaurants.
+http://www.nytimes.com/2015/12/09/business/chipotles-safety-woes-worsen-as-scores-of-students-fall-ill-in-boston.html
+STEPHANIE STROM
+2015-12-09T00:00:00-5:00
+--- des_facet --- 4
+Colleges and Universities
+Food Contamination and Poisoning
+E Coli (Bacteria)
+Restaurants
+--- org_facet --- 3
+Chipotle Mexican Grill Inc
+Boston College
+Taylor Farms
+--- per_facet --- 0
+--- geo_facet --- 1
+Boston (Mass)
+---------- 9 ----------
+World
+Asia Pacific
+Smog So Thick, Beijing Comes to a Standstill
+The poisonous air quality prompted the government to declare a “red alert,” closing schools, forcing motorists to stay off the road and shutting factories.
+http://www.nytimes.com/2015/12/09/world/asia/beijing-smog-pollution.html
+EDWARD WONG
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Air Pollution
+Hazardous and Toxic Substances
+Shutdowns (Institutional)
+--- org_facet --- 1
+Communist Party of China
+--- per_facet --- 0
+--- geo_facet --- 2
+China
+Beijing (China)
+---------- 10 ----------
+Health
+
+Prostate Cancer Treatment Tied to Alzheimer’s Risk
+Hormone therapy, a common treatment for prostate cancer, is associated with an increased risk for Alzheimer’s disease, a new study has found.
+http://well.blogs.nytimes.com/2015/12/08/prostate-cancer-treatment-tied-to-alzheimers-risk/
+NICHOLAS BAKALAR
+2015-12-08T11:24:16-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 11 ----------
+Health
+
+False Positive Breast Tests Tied to Increased Cancer Risk
+Women with a false-positive mammogram or breast biopsy result have an increased risk of breast cancer over the next 10 years compared with those with a true negative result, a new report has found.
+http://well.blogs.nytimes.com/2015/12/08/false-positive-breast-tests-tied-to-increased-cancer-risk/
+NICHOLAS BAKALAR
+2015-12-08T12:40:33-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 12 ----------
+Health
+
+Distracted Walkers Pose Threat to Self and Others
+Injuries resulting from distracted walking — using a cellphone while walking — have increased in parallel with the increase in cellphone use.
+http://well.blogs.nytimes.com/2015/12/07/its-not-just-drivers-being-driven-to-distraction/
+JANE E. BRODY
+2015-12-07T05:45:33-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 13 ----------
+Health
+
+Health Quiz: Beer, Prunes and Jogging
+Test your knowledge of this week’s health news.
+http://well.blogs.nytimes.com/2015/12/04/health-quiz-beer-prunes-and-jogging/
+TOBY BILANOW
+2015-12-04T05:45:48-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 14 ----------
+Health
+
+Penis Transplants Being Planned to Help Wounded Troops
+For young men maimed in combat, surgeons at Johns Hopkins hope to ease a rarely discussed injury with an operation that has never been performed in the United States.
+http://www.nytimes.com/2015/12/07/health/penis-transplants-being-planned-to-heal-troops-hidden-wounds.html
+DENISE GRADY
+2015-12-07T00:00:00-5:00
+--- des_facet --- 9
+Transplants
+Surgery and Surgeons
+Penis
+Afghanistan War (2001-14)
+Iraq War (2003-11)
+Veterans
+Organ Donation
+Testicles
+Improvised Explosive Devices
+--- org_facet --- 1
+Johns Hopkins University
+--- per_facet --- 1
+Lee, W P Andrew
+--- geo_facet --- 0
+---------- 15 ----------
+Health
+
+Overweight at 18 and at Greater Risk for Sudden Death
+Women who were overweight at age 18 are at increased risk for sudden cardiac death, no matter what their current weight is, a new study reports.
+http://well.blogs.nytimes.com/2015/12/07/overweight-at-18-and-at-greater-risk-for-sudden-death/
+NICHOLAS BAKALAR
+2015-12-07T11:33:55-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 16 ----------
+Travel
+
+The Tricky Business of Treating Altitude Sickness
+Mountain visitors are being offered oxygen therapies, oils, pills and more that claim to prevent altitude sickness, but there is little research to prove they work.
+http://www.nytimes.com/2015/12/13/travel/skiing-rocky-mountains-altitude-sickness.html
+KAREN SCHWARTZ
+2015-12-13T00:00:00-5:00
+--- des_facet --- 4
+Travel and Vacations
+Altitude Sickness
+Skiing
+Oxygen
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Aspen (Colo)
+---------- 17 ----------
+Health
+
+Hawaii’s Dengue Fever Outbreak Grows
+Health authorities in Hawaii’s Big Island have confirmed 139 cases, and a federal health official said the outbreak could last for months.
+http://www.nytimes.com/2015/12/08/health/hawaiis-dengue-fever-outbreak-grows.html
+CHRISTINE HAUSER
+2015-12-08T00:00:00-5:00
+--- des_facet --- 1
+Dengue Fever
+--- org_facet --- 1
+Centers for Disease Control and Prevention
+--- per_facet --- 0
+--- geo_facet --- 1
+Hawaii
+---------- 18 ----------
+U.S.
+
+‘The Boy in the Bubble’ Moved a World He Couldn’t Touch
+The life and death of David Phillip Vetter, born in 1971 without a functioning immune system, contributed to medical advances that give hope to the once-hopeless.
+http://www.nytimes.com/2015/12/07/us/the-boy-in-the-bubble-moved-a-world-he-couldnt-touch.html
+CLYDE HABERMAN
+2015-12-07T00:00:00-5:00
+--- des_facet --- 2
+Severe Combined Immunodeficiency
+Immune System
+--- org_facet --- 0
+--- per_facet --- 1
+Vetter, David Phillip
+--- geo_facet --- 0
+---------- 19 ----------
+Science
+
+Fathers May Pass Down More Than Just Genes, Study Suggests
+Recent research suggests that experience may alter a man’s sperm, and the changes may be handed down to his children.
+http://www.nytimes.com/2015/12/08/science/parents-may-pass-down-more-than-just-genes-study-suggests.html
+CARL ZIMMER
+2015-12-08T00:00:00-5:00
+--- des_facet --- 5
+Genetics and Heredity
+Reproduction (Biological)
+Men and Boys
+DNA (Deoxyribonucleic Acid)
+Sperm
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 1
+Hvidovre (Denmark)
+---------- 20 ----------
+Science
+
+Skinnier and Chillier
+Feeling cold more often after losing weight probably has to do with a loss of insulating body fat, but medical problems could also be a factor.
+http://www.nytimes.com/2015/12/08/science/weight-loss-always-feel-cold.html
+C. CLAIBORNE RAY
+2015-12-08T00:00:00-5:00
+--- des_facet --- 7
+Weight
+Weather
+Medicine and Health
+Temperature
+Anatomy and Physiology
+Thyroid Gland
+Diet and Nutrition
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 21 ----------
+Health
+
+Caregivers Sometimes Must Sacrifice Their Careers
+Family members caring for older adults struggle to balance work demands, yet paid leave is mandatory in just three states. That may be changing.
+http://www.nytimes.com/2015/12/08/health/elder-caregivers-often-sacrifice-their-careers.html
+PAULA SPAN
+2015-12-08T00:00:00-5:00
+--- des_facet --- 4
+Elder Care
+Paid Time Off
+Work-Life Balance
+Elderly
+--- org_facet --- 2
+National Alliance for Caregiving
+Community Service Society of New York
+--- per_facet --- 0
+--- geo_facet --- 3
+California
+Rhode Island
+New Jersey
+---------- 22 ----------
+World
+Asia Pacific
+Delhi to Limit Use of Cars in an Effort to Control Pollution
+As of Jan. 1, the authorities will limit the use of private cars in the Indian capital to every other day, depending on whether a vehicle’s license plate ends in an even or odd number.
+http://www.nytimes.com/2015/12/05/world/asia/delhi-announces-pollution-control-measures.html
+NIDA NAJAR
+2015-12-05T00:00:00-5:00
+--- des_facet --- 4
+Automobiles
+Air Pollution
+Fuel Emissions (Transportation)
+Greenhouse Gas Emissions
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 2
+New Delhi (India)
+Delhi (India)
+---------- 23 ----------
+Science
+
+Data Storage on DNA Can Keep It Safe for Centuries
+Scientists have shown that DNA molecules can be the basis for a long-term storage system potentially capable of holding all of the world’s digital information in a tiny space.
+http://www.nytimes.com/2015/12/04/science/data-storage-on-dna-can-keep-it-safe-for-centuries.html
+JOHN MARKOFF
+2015-12-04T00:00:00-5:00
+--- des_facet --- 5
+Data Storage
+DNA (Deoxyribonucleic Acid)
+Archives and Records
+Biotechnology and Bioengineering
+Research
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 24 ----------
+Health
+
+Tylenol Is Ineffective Against Flu Symptoms
+Tylenol had no discernible effect on reducing fever or other symptoms of flu, researches found.
+http://well.blogs.nytimes.com/2015/12/09/tylenol-is-ineffective-against-flu-symptoms/
+NICHOLAS BAKALAR
+2015-12-09T16:51:47-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 25 ----------
+Health
+
+Think Like a Doctor: Limp as a Baby Solved
+Readers solve the real-life case of a 28-year-old woman who had a long history of abdominal pain and constipation who suddenly started having seizures and hallucinations.
+http://well.blogs.nytimes.com/2015/12/04/think-like-a-doctor-limp-as-a-baby-solved/
+LISA SANDERS, M.D.
+2015-12-04T14:10:55-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 26 ----------
+Health
+
+Living With Cancer: Hurry Up and Wait
+Hurrying up to wait is, of course, the fate of most patients. But for cancer patients, waiting entails being enveloped in heightened fears about harmful protocols and the difficulty of eradicating or containing the disease.
+http://well.blogs.nytimes.com/2015/12/03/living-with-cancer-hurry-up-and-wait/
+SUSAN GUBAR
+2015-12-03T14:53:49-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 27 ----------
+Health
+
+TV May Be Bad for Your Brain
+Watching television may be bad for your brain, a new study suggests.
+http://well.blogs.nytimes.com/2015/12/03/tv-may-be-bad-for-your-brain/
+NICHOLAS BAKALAR
+2015-12-03T14:49:50-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 28 ----------
+Health
+
+Think Like a Doctor: Limp as a Baby
+Can you figure out what is wrong with a 28-year-old woman who, over the course of weeks, becomes completely debilitated by abdominal pain, profound weakness and seizures?
+http://well.blogs.nytimes.com/2015/12/03/think-like-a-doctor-limp-as-a-baby/
+LISA SANDERS, M.D.
+2015-12-03T10:00:47-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 29 ----------
+Health
+
+Running With Osteoporosis
+Running prompts bones to become denser and stronger — but it is hard to know whether someone with mild osteoporosis should run.
+http://well.blogs.nytimes.com/2015/12/08/ask-well-running-with-osteoporosis/
+GRETCHEN REYNOLDS
+2015-12-08T05:45:04-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0

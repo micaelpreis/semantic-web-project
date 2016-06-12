@@ -1,0 +1,538 @@
+30
+
+---------- 0 ----------
+Technology
+
+Yahoo to Keep Alibaba Stake but Spin Off Core Businesses
+Yahoo has decided to retain its Alibaba stake and will instead look at transferring its other assets, including Yahoo Japan, into a new company.
+http://www.nytimes.com/2015/12/10/technology/yahoo-alibaba-spinoff.html
+VINDU GOEL
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Mergers, Acquisitions and Divestitures
+Search Engines
+--- org_facet --- 3
+Alibaba Group Holding Ltd
+Yahoo! Inc
+Starboard Value LP
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 1 ----------
+Business Day
+DealBook
+Marissa Mayer Has a Year to Fulfill Yahoo’s Potential
+With Yahoo’s one billion users and revenue of nearly $5 billion, investors would be salivating if Yahoo were a start-up, not a faded Internet company.
+http://www.nytimes.com/2015/12/10/business/dealbook/marissa-mayer-has-a-year-to-fulfill-yahoos-potential.html
+STEVEN DAVIDOFF SOLOMON
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Mergers, Acquisitions and Divestitures
+Corporate Taxes
+--- org_facet --- 1
+Yahoo! Inc
+--- per_facet --- 1
+Mayer, Marissa
+--- geo_facet --- 0
+---------- 2 ----------
+Technology
+
+The Internet’s Loop of Action and Reaction Is Worsening
+Wouldn’t it have been kind of a pleasant dream world, in these overheated last few weeks, to have lived free of social media?
+http://www.nytimes.com/2015/12/10/technology/shut-down-internet-donald-trump-hillary-clinton.html
+FARHAD MANJOO
+2015-12-10T00:00:00-5:00
+--- des_facet --- 3
+Computers and the Internet
+Social Media
+Presidential Election of 2016
+--- org_facet --- 0
+--- per_facet --- 2
+Trump, Donald J
+Gates, Bill
+--- geo_facet --- 0
+---------- 3 ----------
+Business Day
+DealBook
+How to Value Yahoo’s Core Business
+The market may price it as less than zero, but a company with $4.5 billion revenue has real value.
+http://www.nytimes.com/2015/12/10/business/dealbook/how-to-value-yahoos-core-business.html
+LESLIE PICKER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 1
+Computers and the Internet
+--- org_facet --- 2
+Yahoo! Inc
+Alibaba Group Holding Ltd
+--- per_facet --- 1
+Mayer, Marissa
+--- geo_facet --- 0
+---------- 4 ----------
+Business Day
+Media
+Blendle, a Journalism Payments Start-Up, Targets a U.S. Start Date
+The company allows small payments for articles and has half a million subscribers in Germany and the Netherlands.
+http://www.nytimes.com/2015/12/10/business/media/blendle-a-journalism-payments-start-up-targets-a-us-start-date.html
+RAVI SOMAIYA
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+News and News Media
+Prices (Fares, Fees and Rates)
+E-Commerce
+Computers and the Internet
+--- org_facet --- 1
+Blendle
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 5 ----------
+Technology
+
+Apple Names Periscope the Top iPhone App of 2015
+Apple unveiled its best apps list for 2015, featuring what the company deems the most innovative and top software downloads of the year.
+http://bits.blogs.nytimes.com/2015/12/09/apple-names-periscope-the-top-iphone-app-of-2015/
+KATIE BENNER
+2015-12-09T16:51:29-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 6 ----------
+Business Day
+Entrepreneurship
+A Bad Review Is Forever: How to Counter Online Complaints
+For small businesses that can live or die by word of mouth, an array of strategies helps track and respond to online ratings.
+http://www.nytimes.com/2015/12/10/business/smallbusiness/small-business-counter-bad-reviews.html
+CONSTANCE GUSTKE
+2015-12-10T00:00:00-5:00
+--- des_facet --- 5
+Consumer Reviews
+Restaurants
+Advertising and Marketing
+Small Business
+Computers and the Internet
+--- org_facet --- 1
+Yelp
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 7 ----------
+Technology
+
+Yahoo Changes Its Mind About Alibaba Spinoff
+Yahoo said it would retain its 15 percent stake in the Chinese e-commerce company Alibaba. Instead, the rest of what we know as Yahoo will be spun off.
+http://bits.blogs.nytimes.com/2015/12/09/daily-report-yahoo-changes-its-mind-about-alibaba-spinoff/
+JIM KERSTETTER
+2015-12-09T09:55:56-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 8 ----------
+Technology
+Personal Tech
+Choosing an iPad Pro Keyboard
+Apple’s Smart Keyboard was designed for its newer, larger iPad Pro tablet, but there are cheaper alternatives.
+http://www.nytimes.com/2015/12/10/technology/personaltech/choosing-an-ipad-pro-keyboard.html
+J. D. BIERSDORFER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 4
+iPad
+Tablet Computers
+Wireless Communications
+Bluetooth Wireless Technology
+--- org_facet --- 3
+Apple Inc
+Logitech International SA
+Zagg
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 9 ----------
+World
+Australia
+Australian Police Raid Home of Man Said to Be Likely Creator of Bitcoin
+The police said the raid was for a tax investigation, and a spokesman denied any connection to the Bitcoin reports.
+http://www.nytimes.com/2015/12/10/world/australia/sydney-bitcoin-raid.html
+MICHELLE INNIS and AUSTIN RAMZY
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Bitcoin (Currency)
+Computers and the Internet
+--- org_facet --- 2
+Wired
+Gizmodo
+--- per_facet --- 2
+Wright, Craig Steven
+Nakamoto, Dorian Satoshi
+--- geo_facet --- 1
+Australia
+---------- 10 ----------
+U.S.
+
+Americans Attracted to ISIS Find an ‘Echo Chamber’ on Social Media
+As the White House takes on the challenge of the Islamic State, it is focusing on the online community of sympathizers in the United States, who number in the hundreds and fit no single profile.
+http://www.nytimes.com/2015/12/09/us/americans-attracted-to-isis-find-an-echo-chamber-on-social-media.html
+SCOTT SHANE, MATT APUZZO and ERIC SCHMITT
+2015-12-09T00:00:00-5:00
+--- des_facet --- 6
+Social Media
+Series
+Terrorism
+Muslims and Islam
+San Bernardino, Calif, Shooting (2015)
+State of Terror (Series)
+--- org_facet --- 2
+Islamic State in Iraq and Syria (ISIS)
+Federal Bureau of Investigation
+--- per_facet --- 0
+--- geo_facet --- 1
+United States
+---------- 11 ----------
+Business Day
+Media
+New York Looks Into &#8216;Speculative&#8217; Ticket Resellers
+The attorney general sent letters to StubHub and other resale sites regarding high-priced listings of concert tickets even before they go on sale.
+http://www.nytimes.com/2015/12/09/business/media/new-york-looks-into-speculative-ticket-resellers.html
+BEN SISARIO
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Ticket Scalping
+Computers and the Internet
+--- org_facet --- 3
+StubHub
+TicketNetwork Inc
+Songkick.com
+--- per_facet --- 3
+Schneiderman, Eric T
+Springsteen, Bruce
+Adele (Singer)
+--- geo_facet --- 0
+---------- 12 ----------
+Technology
+
+Apple Executive Seeks a Touch of Chic at Retail Stores
+The retail executive, Angela Ahrendts, says that the Phantom, a non-Apple wireless speaker which starts at $1,990, will receive prominent display treatment.
+http://www.nytimes.com/2015/12/09/technology/apple-executive-seeks-a-touch-of-chic-at-retail-stores.html
+KATIE BENNER
+2015-12-10T00:00:00-5:00
+--- des_facet --- 2
+Luxury Goods and Services
+Shopping and Retail
+--- org_facet --- 1
+Apple Inc
+--- per_facet --- 2
+Ahrendts, Angela
+Cook, Timothy D
+--- geo_facet --- 0
+---------- 13 ----------
+Business Day
+DealBook
+Chinese Consortium Makes Rival Bid for Fairchild Semiconductor
+The group’s $2.5 billion offer tops a deal with ON Semiconductor and may ignite a bidding war.
+http://www.nytimes.com/2015/12/09/business/dealbook/chinese-consortium-makes-rival-bid-for-fairchild-semiconductor.html
+MICHAEL J. de la MERCED
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Mergers, Acquisitions and Divestitures
+Foreign Investments
+Computer Chips
+--- org_facet --- 4
+China Resources Holdings
+Fairchild Semiconductor International Inc.
+ON Semiconductor Corporation
+Committee on Foreign Investment in the United States (CFIUS)
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 14 ----------
+Business Day
+Energy & Environment
+Bill Gates Takes On Climate Change With Nudges and a Powerful Rolodex
+Mr. Gates, acting as an envoy between the worlds of business and policy, has pressed global leaders and tech billionaires to team up on clean technology.
+http://www.nytimes.com/2015/12/09/business/energy-environment/bill-gates-takes-on-climate-change-with-nudges-and-a-powerful-rolodex.html
+CORAL DAVENPORT and NICK WINGFIELD
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Global Warming
+United Nations Framework Convention on Climate Change
+Research
+--- org_facet --- 0
+--- per_facet --- 4
+Gates, Bill
+Hollande, Francois
+Modi, Narendra
+Obama, Barack
+--- geo_facet --- 2
+India
+France
+---------- 15 ----------
+Business Day
+Media
+Spotify Is Said to Have Reconsidered Its Free Access Policy for Big Acts&#8217; New Albums
+Lately the music streaming service has been under pressure to accommodate major acts that have shunned the freemium model that lets listeners hear songs free.
+http://www.nytimes.com/2015/12/09/business/media/spotify-is-said-to-have-reconsidered-its-free-access-policy-for-big-acts-new-albums.html
+BEN SISARIO
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Audio Recordings, Downloads and Streaming
+Music
+--- org_facet --- 3
+Spotify
+Coldplay (Music Group)
+Warner Music Group
+--- per_facet --- 2
+Adele (Singer)
+Swift, Taylor
+--- geo_facet --- 0
+---------- 16 ----------
+Technology
+
+Yahoo Is Said to End Plan to Spin Off Alibaba Stake
+The company will consider other options, including a possible sale of its core Internet operations, a person briefed on the matter said.
+http://www.nytimes.com/2015/12/09/technology/yahoo-is-said-to-abandon-plan-to-spin-off-alibaba-stake.html
+MICHAEL J. de la MERCED and VINDU GOEL
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Computers and the Internet
+Mergers, Acquisitions and Divestitures
+--- org_facet --- 2
+Yahoo! Inc
+Alibaba Group Holding Ltd
+--- per_facet --- 1
+Mayer, Marissa
+--- geo_facet --- 0
+---------- 17 ----------
+Technology
+
+Europe Plans to Ease Copyright Rules on Using Digital Content
+The proposals, part of a push toward a so-called digital single market, also include a review of online content aggregation by major sites like Google.
+http://www.nytimes.com/2015/12/09/technology/europe-plans-to-ease-copyright-rules-on-using-digital-content.html
+MARK SCOTT
+2015-12-09T00:00:00-5:00
+--- des_facet --- 2
+Copyrights and Copyright Violations
+Computers and the Internet
+--- org_facet --- 4
+European Commission
+Google Inc
+Yahoo! Inc
+Netflix Inc
+--- per_facet --- 0
+--- geo_facet --- 1
+Europe
+---------- 18 ----------
+Technology
+
+Qualcomm Is Accused of Violating Antitrust Rules in Europe
+The authorities said the chip maker had abused its dominant market position in the region by offering financial incentives to smartphone and tablet manufacturers.
+http://www.nytimes.com/2015/12/09/technology/qualcomm-is-accused-of-violating-antitrust-rules-in-europe.html
+MARK SCOTT
+2015-12-09T00:00:00-5:00
+--- des_facet --- 3
+Antitrust Laws and Competition Issues
+Computer Chips
+Cellular Telephones
+--- org_facet --- 4
+European Commission
+Google Inc
+Microsoft Corp
+Qualcomm Inc
+--- per_facet --- 0
+--- geo_facet --- 1
+Europe
+---------- 19 ----------
+Business Day
+International Business
+Taiwan Semiconductor Manufacturing to Open Own Plant in China
+The move is designed to protect its technology while playing to a China market brimming with makers of inexpensive smartphones.
+http://www.nytimes.com/2015/12/08/business/international/taiwan-semiconductor-china-factory-chips.html
+PAUL MOZUR
+2015-12-08T00:00:00-5:00
+--- des_facet --- 2
+Computer Chips
+Factories and Manufacturing
+--- org_facet --- 1
+Taiwan Semiconductor Manufacturing Company Ltd
+--- per_facet --- 0
+--- geo_facet --- 2
+China
+Taiwan
+---------- 20 ----------
+Science
+
+Online Classes Appeal More to the Affluent
+Residents of poor neighborhoods are less likely than those in wealthier ones to enroll in free online courses, a study finds.
+http://www.nytimes.com/2015/12/08/science/online-classes-appeal-more-to-the-affluent.html
+SINDYA N. BHANOO
+2015-12-08T00:00:00-5:00
+--- des_facet --- 5
+E-Learning
+Income Inequality
+Income
+MOOC
+online courses
+--- org_facet --- 1
+Science (Journal)
+--- per_facet --- 1
+Hansen, John D
+--- geo_facet --- 0
+---------- 21 ----------
+Style
+
+Twitter’s Top Hashtags, Tweets and Users for 2015
+Global unrest, terror attacks, same-sex marriage, a boy with a clock, Caitlyn Jenner and the drama of One Direction topped the list for 2015.
+http://www.nytimes.com/2015/12/08/style/twitters-top-hashtags-tweets-and-users-for-2015.html
+KATIE ROGERS
+2015-12-08T00:00:00-5:00
+--- des_facet --- 2
+Social Media
+Paris Attacks (November 2015)
+--- org_facet --- 2
+Twitter
+One Direction (Music Group)
+--- per_facet --- 1
+Jenner, Caitlyn (1949- )
+--- geo_facet --- 0
+---------- 22 ----------
+Technology
+Personal Tech
+Video Feature: Apps, Like Elves, Help Make the Season Bright
+Apps for creating animated video during the holidays, and for help thinking of gift ideas, organizing lists, tracking Santa and donating to charities.
+http://www.nytimes.com/2015/12/10/technology/personaltech/video-feature-apps-like-elves-help-make-the-season-bright.html
+KIT EATON
+2015-12-10T00:00:00-5:00
+--- des_facet --- 7
+Mobile Applications
+Gifts
+Holidays and Special Occasions
+Christmas
+iOS (Operating System)
+Google Phone
+Android (Operating System)
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 23 ----------
+Technology
+Personal Tech
+Tech Toys to Inspire a Child’s Imagination
+These interactive toys incorporate various technologies including virtual reality, animation and robotics.
+http://www.nytimes.com/2015/12/10/technology/personaltech/tech-toys-to-inspire-a-childs-imagination.html
+GREGORY SCHMIDT
+2015-12-10T00:00:00-5:00
+--- des_facet --- 7
+Gifts
+Holidays and Special Occasions
+Computer and Video Games
+Virtual Reality (Computers)
+Robots and Robotics
+Animated Films
+Star Wars: The Force Awakens (Movie)
+--- org_facet --- 4
+Hasbro Inc
+Crayola
+Mattel Inc
+Sphero (Orbotix Inc)
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 24 ----------
+Technology
+
+How to Sell or Recycle Old Electronics
+Reviewing the gadget trade-in and recycling programs offered by Amazon, Gazelle and Best Buy.
+http://www.nytimes.com/2015/12/03/technology/how-to-sell-or-recycle-old-electronics.html
+BRIAN X. CHEN
+2015-12-03T00:00:00-5:00
+--- des_facet --- 5
+Waste Materials and Disposal
+Recycling of Waste Materials
+Electronics
+Hazardous and Toxic Substances
+Gift Cards and Certificates
+--- org_facet --- 4
+Amazon.com Inc
+Best BUY Company Inc
+Gazelle.com
+PayPal
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 25 ----------
+Technology
+Personal Tech
+Black Friday Deal or Dud? How to Shop Smart This Holiday Season
+Only a small fraction of Black Friday discounts are true bargains, according to the editor of The Wirecutter, a product recommendation site. But there’s a way to check which purchases are worthwhile.
+http://www.nytimes.com/2015/11/26/technology/personaltech/black-friday-deal-or-dud-how-to-shop-smart-this-holiday-season.html
+BRIAN X. CHEN
+2015-11-26T00:00:00-5:00
+--- des_facet --- 3
+Black Friday and Cyber Monday (Shopping)
+Prices (Fares, Fees and Rates)
+E-Commerce
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 26 ----------
+Technology
+Personal Tech
+Gear VR Offers a Preview of Virtual Reality in the Home
+For an early stab at consumer virtual reality, the Gear VR is a work in progress that can cause eye strain and weigh heavily on the head.
+http://www.nytimes.com/2015/11/23/technology/personaltech/gear-vr-offers-a-preview-of-virtual-reality-in-the-home.html
+BRIAN X. CHEN
+2015-11-23T00:00:00-5:00
+--- des_facet --- 6
+Virtual Reality (Computers)
+Headphones and Headsets
+Wearable Computing
+Computer and Video Games
+Smartphones
+Gear VR
+--- org_facet --- 2
+Samsung Electronics Co
+Oculus VR Inc
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 27 ----------
+Health
+
+Special Section: Wired Well
+We explore the lives of newly wired consumers and the consequences, good and bad, that arise from our increasing reliance on trackers, monitors, guides and a vast array of other devices to better our health.
+http://well.blogs.nytimes.com/2015/11/16/special-section-wired-well/
+TARA PARKER-POPE
+2015-11-16T17:32:40-5:00
+--- des_facet --- 0
+--- org_facet --- 0
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 28 ----------
+Technology
+Personal Tech
+The High Price of Delivery App Convenience
+With a tap on a smartphone, consumers in some areas can have almost anything delivered within hours. But the cost of that is significant, and not always obvious.
+http://www.nytimes.com/2015/11/05/technology/personaltech/the-high-price-of-delivery-app-convenience.html
+BRIAN X. CHEN
+2015-11-05T00:00:00-5:00
+--- des_facet --- 3
+Mobile Applications
+Delivery Services
+Prices (Fares, Fees and Rates)
+--- org_facet --- 4
+Instacart
+Postmates Inc
+Uber Technologies Inc
+Amazon.com Inc
+--- per_facet --- 0
+--- geo_facet --- 0
+---------- 29 ----------
+Technology
+Personal Tech
+Updating Windows 10
+As part of its switch to Windows 10 as a “service” that automatically updates itself, Microsoft has pushed out its Windows 10 November Update.
+http://www.nytimes.com/2015/11/26/technology/personaltech/updating-windows-10.html
+J. D. BIERSDORFER
+2015-11-26T00:00:00-5:00
+--- des_facet --- 3
+Computers and the Internet
+Windows (Operating System)
+Television Sets and Media Devices
+--- org_facet --- 3
+Apple TV
+Google Inc
+Microsoft Corp
+--- per_facet --- 0
+--- geo_facet --- 0
